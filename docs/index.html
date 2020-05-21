@@ -82,11 +82,60 @@
     </div>
 </div>
 <p>Here's a small sample:</p>
-<pre><code class="lang-c#">class Program
-{
-    public static int Main(string[] args)
-    {
+<pre><code class="lang-c#">using Aximo;
+using Aximo.Engine;
+using OpenToolkit.Mathematics;
 
+public class MyApplication : RenderApplication
+{
+    public MyApplication(RenderApplicationConfig startup) : base(startup)
+    {
+    }
+
+    protected override void SetupScene()
+    {
+        GameContext.AddActor(new Actor(new DirectionalLightComponent()
+        {
+            RelativeTranslation = new Vector3(2f, -1.5f, 3.25f),
+            Name = &quot;StaticLight&quot;,
+        }));
+
+        GameContext.AddActor(new Actor(new CubeComponent()
+        {
+            Name = &quot;Box1&quot;,
+            RelativeRotation = new Vector3(0, 0, 0.5f).ToQuaternion(),
+            RelativeScale = new Vector3(1),
+            RelativeTranslation = new Vector3(0, 0, 0.5f),
+            Material = new GameMaterial
+            {
+                Color = new Vector4(1, 0, 1, 1),
+            },
+        }));
+    }
+}
+</code></pre>
+<p>Initialize the application:</p>
+<pre><code class="lang-c#">using Aximo.Engine;
+using OpenToolkit.Mathematics;
+using OpenToolkit.Windowing.Common;
+
+namespace Aximo.PlayGround1
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            var config = new RenderApplicationConfig
+            {
+                WindowTitle = &quot;PlayGround1&quot;,
+                WindowSize = new Vector2i(800, 600),
+                VSync = VSyncMode.Off,
+                UseConsole = true,
+                IsMultiThreaded = true,
+            };
+
+            new GameStartup&lt;MyApplication, GtkUI&gt;(config).Start();
+        }
     }
 }
 </code></pre>
