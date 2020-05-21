@@ -1,0 +1,3417 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/sebastian/projects/AximoGames/AxEngine/Documentation/generator",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxDemo.DemoApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxDemo.DemoApplication.html",
+          "hash": "w36jkRa8tCYDIPUOWRx+Aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxDemo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxDemo.html",
+          "hash": "Ia6KpJdsdqqddE1A7JaXGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxMath.html",
+          "hash": "TVtZwwg40iZg14qKAQdwCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.LightTests.TestCase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.LightTests.TestCase.html",
+          "hash": "yv/98Bx1waM92AJAmNnl5A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.LightTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.LightTests.html",
+          "hash": "oC12ZiZfPaBGXsZaDSnV/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.LightTypeTests.TestCase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.LightTypeTests.TestCase.html",
+          "hash": "byzvdPWkQpq18JEqjNCF2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.LightTypeTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.LightTypeTests.html",
+          "hash": "mfqiSwyu9Bvq/9Z+XtbV9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.MeshRenderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.MeshRenderTests.html",
+          "hash": "5AufrSzQv9hPVzOgq5A6Gg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.MeshTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.MeshTests.html",
+          "hash": "WkPNbPT0E2b/owfmaBMMcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.RenderTests.TestCase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.RenderTests.TestCase.html",
+          "hash": "Vf6/1XCIS37Oj2UbHht+Jg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.RenderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.RenderTests.html",
+          "hash": "1oxNfGYLPfse3AWfWbtYAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.ShadowTypeTests.TestCase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.ShadowTypeTests.TestCase.html",
+          "hash": "u4FcuS13br8NkjIxc8Eumw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.ShadowTypeTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.ShadowTypeTests.html",
+          "hash": "HThZr29MrWMKVXXbJZOzGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.TestBase.TestCaseBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.TestBase.TestCaseBase.html",
+          "hash": "m3HiTRT3JzJdWW3gEz8Y3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.TestBase.TestCasePipelineBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.TestBase.TestCasePipelineBase.html",
+          "hash": "tZFJfo6yXd1Dy3IR6NSzVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.TestBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.TestBase.html",
+          "hash": "2s+uR+7bamS63lev0QgfXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.TestConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.TestConfig.html",
+          "hash": "8oDT2bILtwJXQZ+Pe4Bzvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.TestsApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.TestsApplication.html",
+          "hash": "r1eGRBoyKwds7rLcsWUmzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.AxTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.AxTests.html",
+          "hash": "iRJ7qSZMHAYniy55924TTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BoxExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BoxExtensions.html",
+          "hash": "UFXS5UQqN3td+e9y4c+u6A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BoxHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BoxHelper.html",
+          "hash": "an7PpBE+wowpq8gWTaELiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData.html",
+          "hash": "w7I/uYfafWu6+BTyTrZOkA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData1D-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData1D-1.html",
+          "hash": "5pK6JDAdRSvd4IRp9PzTEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData1D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData1D.html",
+          "hash": "EEqmh7zvbTDlzRUz3RF9nQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData2D-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData2D-1.html",
+          "hash": "1AFVW3jaD6qfGQNNTcDZYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData2D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData2D.html",
+          "hash": "J1Uy9rVo+MFsAloDnFpgqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData3D-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData3D-1.html",
+          "hash": "bEaUDNFWrwVY92ATMfyH7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferData3D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferData3D.html",
+          "hash": "psxKlbYr86t7cQ7z5irC9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.BufferDataExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.BufferDataExtentions.html",
+          "hash": "3UoEsQh0H3EmsUZ794qrpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.DebugHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.DebugHelper.html",
+          "hash": "DCjeiT623zU2ExZmaoSrJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.DictionaryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.DictionaryExtensions.html",
+          "hash": "/TPaMM5wT4PIcL/34+QPVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.DirectoryHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.DirectoryHelper.html",
+          "hash": "hoeqOo8GyZRhdkeWTqyeMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Actor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Actor.html",
+          "hash": "RKzS/qS38zLJFJURu6TgfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.ActorComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.ActorComponent.html",
+          "hash": "b4OqhHWb2XvF93JyF3fFPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate.html",
+          "hash": "WwWbS5zaT7DeKM1AtraBTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Animation.html",
+          "hash": "rpj32N45h09tcBElGRT8/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.html",
+          "hash": "ySufg7vCBtFiESD6IIbpCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.AnimationFunc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.AnimationFunc.html",
+          "hash": "4funlAI5J8iaOimKmvuHRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.AnimationFuncs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.AnimationFuncs.html",
+          "hash": "Shr5mF1Vnz4720IIeWInrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.AudioManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.AudioManager.html",
+          "hash": "UnKNRtamcuFOOKtiqx/I8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.BufferComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.BufferComponent.html",
+          "hash": "oUprb/lT7lQix6WsaeL9Kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.CommandLineOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.CommandLineOptions.html",
+          "hash": "uOpN2pY204jqAC5R1vQm2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.CrossLineComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.CrossLineComponent.html",
+          "hash": "uwZFLIp2nomn9wT3fk3czA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.CubeComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.CubeComponent.html",
+          "hash": "582yJO7QXM7gxXOAf/gdsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.DebugCubeComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.DebugCubeComponent.html",
+          "hash": "5wAQqNBAOHCTDtfeQc/g/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.DirectionalLightComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.DirectionalLightComponent.html",
+          "hash": "lDI/IUqfFPQZy6xdhz0Ncg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameContext.html",
+          "hash": "8CcpxCMXfd3Yc6Po/qG9Yw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameMaterial.Parameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameMaterial.Parameter.html",
+          "hash": "yPdlS5+0almFkScjC8ZvuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameMaterial.ParamterType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameMaterial.ParamterType.html",
+          "hash": "BSn/8OVkLkasBDA0RjhPdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameMaterial.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameMaterial.html",
+          "hash": "SXdgBzH5D2MlKb9w8XygtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameMeshBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameMeshBuilder.html",
+          "hash": "UWs/blKInBFt/MoMw+fH8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameObject.html",
+          "hash": "c0uYh0ZPw9BJiiNyYA7NUg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameShader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameShader.html",
+          "hash": "/SE9cHzHoNblTWto29FSOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameStartup-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameStartup-2.html",
+          "hash": "SfB1Lt9kzbhu84gzyOGiAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GameTexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GameTexture.html",
+          "hash": "EFX1/akyYvgD5hSLhUkB9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GraphicsScreenTextureComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GraphicsScreenTextureComponent.html",
+          "hash": "o6OLDR1RgvEK92R4nm7OJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GridPlaneComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GridPlaneComponent.html",
+          "hash": "hGcKrho1ZyYU6cPBO2apsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.GtkUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.GtkUI.html",
+          "hash": "ai8dhDsaYl7ZKWGYZh2Jcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.ISceneInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.ISceneInterface.html",
+          "hash": "n79X68t0FwNfFsWboJAGkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.LightComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.LightComponent.html",
+          "hash": "Y1VgnkJy5UokrVTY6Sec7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.LineComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.LineComponent.html",
+          "hash": "Ay+NY4yuAJLQRhf0spbYuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.MaterialManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.MaterialManager.html",
+          "hash": "Qj5aWva2cQT49LjHhfZFdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.MeshComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.MeshComponent.html",
+          "hash": "KfXXxHSxUJidrAFxDUMglQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.MouseButtonArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.MouseButtonArgs.html",
+          "hash": "T46d3taBMOzx+4amYp0T8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.MouseMoveArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.MouseMoveArgs.html",
+          "hash": "MzgeJZx1V514qHO8/WQYyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.PipelineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.PipelineType.html",
+          "hash": "XbPhTWcncFnUKHztyZf8uw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.PointLightComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.PointLightComponent.html",
+          "hash": "1J+YFNvvEFQedUZNUrIb/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.PrimitiveComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.PrimitiveComponent.html",
+          "hash": "QoaL4kFlkBWbOs69yEy72w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.PrimitiveDrawInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.PrimitiveDrawInterface.html",
+          "hash": "eAYcD5aZsq8FwikNL6NWbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.PrimitiveSceneProxy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.PrimitiveSceneProxy.html",
+          "hash": "kEn+UqRGcKs6QWNj3fr2cg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.QuadComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.QuadComponent.html",
+          "hash": "VdfDbqAHQxjm+uDW8cPNYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.RenderApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.RenderApplication.html",
+          "hash": "gm6rnDXjZBBJIeKuLk/3yA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.RenderApplicationConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.RenderApplicationConfig.html",
+          "hash": "KEZ9X+jTjUncSEmxQW76/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.RenderWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.RenderWindow.html",
+          "hash": "+Z/idgNeqjtAF0nuQDsiVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.SceneComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.SceneComponent.html",
+          "hash": "cEEvPl2wfI9nRLkRF8DRXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.ScreenTextureComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.ScreenTextureComponent.html",
+          "hash": "N4JbTzvkAgtD9Tnl6xLhlQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.SkyBoxComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.SkyBoxComponent.html",
+          "hash": "yd2310lrg6ydQQgqL9gJNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.SphereComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.SphereComponent.html",
+          "hash": "m07phdYMT4RFJsg+ysSU4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.StaticMeshComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.StaticMeshComponent.html",
+          "hash": "vMpmrmbN7v0wDlkfAt+5uQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.StaticMeshSceneProxy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.StaticMeshSceneProxy.html",
+          "hash": "qWWJzv28Trg8avdIWepqbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface.html",
+          "hash": "rWpVVY7xStAsMoDu59hhDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.StatsComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.StatsComponent.html",
+          "hash": "/Sq1EeHC4jGmrQdebpO0Eg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TaskQueue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TaskQueue.html",
+          "hash": "1T7gbLF5G3F8OEeCUHwuug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TextureManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TextureManager.html",
+          "hash": "I2DNvqCk+S7r6fUFNmKzIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIAnchors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIAnchors.html",
+          "hash": "sKIPJVvcw9FRTd8h5p+7EQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIButton.html",
+          "hash": "HH8zeKsaTanhsk6kmH5VrQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIButtonComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIButtonComponent.html",
+          "hash": "Jq4bzLb57OcCzS6UidsbbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIComponent.html",
+          "hash": "YdOWGM4z3xLqB71pa+LOPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIContainerComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIContainerComponent.html",
+          "hash": "4tO3pgkPMcW1Dz91vlKbXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIDock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIDock.html",
+          "hash": "RyG7filiDrrmcagFx9SSIQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIFloatingContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIFloatingContainer.html",
+          "hash": "46K5NZhkLX2Nr7zHp48Vlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIFlowContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIFlowContainer.html",
+          "hash": "em6VYk1bO0z3ItYn4Nf7Iw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIImage.html",
+          "hash": "Q453Aih3L5cA74K86NtkNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UILabelComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UILabelComponent.html",
+          "hash": "CQbDK/0+nb5ZI9qb8rquBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIPanelComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIPanelComponent.html",
+          "hash": "4fFnwPe5j3Rd4HwndszD5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.UIRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.UIRect.html",
+          "hash": "rFfPK4WnpiM3/DELfVMMcQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Win32Native.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Win32Native.html",
+          "hash": "tg4oaz64SNHArr6vn5NMbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.WindowContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.WindowContext.html",
+          "hash": "jnCrSEwAmKTKsglylzycLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.html",
+          "hash": "LKg1zBQlfRnzAboNOD9x8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.EventCounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.EventCounter.html",
+          "hash": "SYphCfAhQJYTNWv6UOHkdQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.FaceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.FaceExtensions.html",
+          "hash": "WugVpAhughydvST0GF+cAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.GamePixelFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.GamePixelFormat.html",
+          "hash": "qU3AZ7K6wLO6j8hxmikAcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.GenerateFileDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.GenerateFileDelegate.html",
+          "hash": "/XbX53ZyUAhM6OPYPGFYiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircle.html",
+          "hash": "M9SsNCu0tJkeYJ1WfuntrQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.html",
+          "hash": "UfHZYLbX37kCpLw5DYVkKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom.html",
+          "hash": "+Boc3P7EpcLf5BJHVn7pqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw.html",
+          "hash": "7tmr8Nn3gzUXMprl6CL2KA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Generators.AlchemyCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.html",
+          "hash": "WXgQeOGi2VN/a0hXYDnrgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.IArray-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.IArray-1.html",
+          "hash": "RaUAoLAa0CsGxBtwEWMmTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.IDynamicArray-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.IDynamicArray-1.html",
+          "hash": "dxU2eXT35EjJbLVGoW6bJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.IVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.IVisitor.html",
+          "hash": "6+A7Ng3vj6tXHf7wOxC4Ew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.IVisitorNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.IVisitorNode.html",
+          "hash": "btkh6degy0/c7F8Cvpmngg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.ImageExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.ImageExtensions.html",
+          "hash": "2rmWqMPp1lJnc550EsxsCw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Line2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Line2.html",
+          "hash": "29z8cKAr7cO6WaoMT8bGvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Line3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Line3.html",
+          "hash": "aDSisY0n2mToggynRLgqcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.ListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.ListExtensions.html",
+          "hash": "ocDh0onKtEyyIHNu8XGB9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Log.html",
+          "hash": "082IHReeXXQjRTuoLRUT/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.LogExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.LogExtensions.html",
+          "hash": "VVLXojOaucKPGazFG340jg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Mesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Mesh.html",
+          "hash": "/2hN0T4jUuzIFqH0KpBRiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshColorComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshColorComponent.html",
+          "hash": "3LT1KDKidDY8E6VnLWGFXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshComponent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshComponent-1.html",
+          "hash": "cnndXwDxF9Q6OUpFEl9mLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshComponent.html",
+          "hash": "pKCAqkdNPM3iBDl8eFvi8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshComponentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshComponentType.html",
+          "hash": "nvslKUy3K2mNogQB0Iz/fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshFace-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshFace-1.html",
+          "hash": "VyfAmhD9u8xFpKhNX+4HYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshFaceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshFaceType.html",
+          "hash": "wZBrCnMUCY7UCNHgpOradA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshNormalComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshNormalComponent.html",
+          "hash": "SADta2Nm3qz8Qva1KHi0qA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshPosition2Component.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshPosition2Component.html",
+          "hash": "JfPc8dnrTU8Et4gDTx5Exg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshPosition3Component.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshPosition3Component.html",
+          "hash": "2e7uCPScQHnrU1yCfv5kjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshPositionComponent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshPositionComponent-1.html",
+          "hash": "HpQWpZykD2HY0yP20TwS+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshUVComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshUVComponent.html",
+          "hash": "yi/Ilk3tworhugqIp9XZig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.MeshVertexList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.MeshVertexList-1.html",
+          "hash": "lZtU+ZA9ImDsONlT4QplmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.PathBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.PathBuilder.html",
+          "hash": "PZga/75bcetflutPnKvWCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Plane.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Plane.html",
+          "hash": "0onbBQag7OGNOKkAg86MNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Ray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Ray.html",
+          "hash": "hO7M24fTFzcI3DBV9QSdrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.AxPrimitiveType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.AxPrimitiveType.html",
+          "hash": "UZIyfk8vHwlVAB0Chis54Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.BindingPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.BindingPoint.html",
+          "hash": "kXSbQdRkARhpYQ2oCqeaNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.BufferObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.BufferObject.html",
+          "hash": "KqX2rjGAzNuW8AHaRFfWSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Camera.CameraChangedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Camera.CameraChangedDelegate.html",
+          "hash": "qIPtOAaxNO4ZVcK4PZqTSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Camera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Camera.html",
+          "hash": "nwBBHYZoj7RLCWqKs/5N2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.CameraType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.CameraType.html",
+          "hash": "jkuyld4jcLf+ueB7uw7lXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.DataHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.DataHelper.html",
+          "hash": "HmXBsTviEQafcaRNZqZRHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.DeferredPass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.DeferredPass.html",
+          "hash": "/7BvU9zdFm9DOhl4O50B6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.DeferredRenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.DeferredRenderPipeline.html",
+          "hash": "QwOTexcjP7yrlt4ejg5L8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.DirectionalShadowRenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.DirectionalShadowRenderPipeline.html",
+          "hash": "uXKY8QvH6irUugORm+fmQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.DynamicInternalMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.DynamicInternalMesh.html",
+          "hash": "sz8k/pVJ8H4JJQfVZ8SEMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ElementsBufferObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ElementsBufferObject.html",
+          "hash": "POVw3Wnwsq5JIV2Tr8pdxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.EngineExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.EngineExtensions.html",
+          "hash": "FWZqd5t3mSE2/FOumo+iPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.FlushRenderBackend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.FlushRenderBackend.html",
+          "hash": "f20j1X+NqQ746O/B7us1TA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ForwardRenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ForwardRenderPipeline.html",
+          "hash": "3uU6mkfHsFsQcabsjuG1Mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.FrameBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.FrameBuffer.html",
+          "hash": "gjYibL9gSR/D7rrbKoxTFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.GraphicsTexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.GraphicsTexture.html",
+          "hash": "kkvKa6k9oXOHYw/kSoMpbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IBounds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IBounds.html",
+          "hash": "3dEYj5o4rWUWBULXLqpicw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IData.html",
+          "hash": "QBKTmX3CSz0EWStiVvdQWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IDeferredRenderable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IDeferredRenderable.html",
+          "hash": "vgpdnEIlGHtKLZES6wiKRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IForwardRenderable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IForwardRenderable.html",
+          "hash": "7fPR5qwj63mkUgi+D7/Hjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ILightObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ILightObject.html",
+          "hash": "EupkaBZ14X/+Z/iZSwHAfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ILightTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ILightTarget.html",
+          "hash": "z0R1tBC3JZ3tS7mEJCENyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IMeshObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IMeshObject.html",
+          "hash": "DqgKFuS5frIBoD1OQFBoFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IObjectHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IObjectHandle.html",
+          "hash": "dS0oBmDIqI8pm9YyalUO5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IObjectIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IObjectIdentifier.html",
+          "hash": "YgkEU+bC1YWEiEU4UFyEBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IObjectLabel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IObjectLabel.html",
+          "hash": "9SViOcQrNHLmHeHDAYpAQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IPosition.html",
+          "hash": "8TAydT0ddXArkqNn0O3s9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IPrimitive-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IPrimitive-1.html",
+          "hash": "Fw9dS21HC8jENAIryEF4Vw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IPrimitive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IPrimitive.html",
+          "hash": "4kTWD+6ZBX4OjsA/l64pfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IReloadable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IReloadable.html",
+          "hash": "DJ49y9sy5W7MwONh5lQZiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IRenderObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IRenderObject.html",
+          "hash": "fDFmWVh71+GAoPKIi+e3zg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IRenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IRenderPipeline.html",
+          "hash": "0HIblsneL1ctEeyASZoJYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IRenderTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IRenderTarget.html",
+          "hash": "yA0HHwxGl1mVKU2+qRkZCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IRenderableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IRenderableObject.html",
+          "hash": "kM4KWb7oVHPp80vrwTrLEA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IScaleRotate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IScaleRotate.html",
+          "hash": "bWCf9VzP1ZYpz20R2apnPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IScreenRenderable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IScreenRenderable.html",
+          "hash": "XaWXlN9dwY+ihytnIlstog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IShadowObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IShadowObject.html",
+          "hash": "GuxcOHDN1MgBDYUNRYfwnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IUpdateFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IUpdateFrame.html",
+          "hash": "4D7LSKVIdyG90a/eqCI7cA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertex.html",
+          "hash": "Q0NXmX6JrM1nwfTXKZ6d6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexColor.html",
+          "hash": "cZuYiEL7FS/TVRPpC3131A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexNormal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexNormal.html",
+          "hash": "OAhrJRCQWCXpLwzrQF8qIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPos2UV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPos2UV.html",
+          "hash": "+SoApFKWC/B2mbjqih4hZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosColor.html",
+          "hash": "3MfVZohUZ4dgOENb3fNmbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosNormalColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosNormalColor.html",
+          "hash": "My8AnTmggLDOiyHKeO1v1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosNormalUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosNormalUV.html",
+          "hash": "T0iSWvZywuzIqEzuqPN2xw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosUV.html",
+          "hash": "BIzIccuKMB+57NloNC42xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosition-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosition-1.html",
+          "hash": "bHsxYvRrp/jmBirFDGa0RA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosition2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosition2.html",
+          "hash": "XPX2mz3o8PbiuqdJNIVNFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexPosition3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexPosition3.html",
+          "hash": "Q8RT1sTkHkJNS/SOaKoocg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.IVertexUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.IVertexUV.html",
+          "hash": "sd+mhGAIENG8bkYCS1nC2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.InternalLightManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.InternalLightManager.html",
+          "hash": "3T2HlhHrahPQJHU16nmUVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.InternalMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.InternalMesh.html",
+          "hash": "QvSnqKRLuMmxgXaQGduE2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.InternalTextureManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.InternalTextureManager.html",
+          "hash": "UVvOb+E3KhCCOhiK1765GQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.LightObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.LightObject.html",
+          "hash": "iJ7pZfDPzuJ1g5W41c1Itg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.LightType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.LightType.html",
+          "hash": "Q3Fe3F5nDYE8JLYP6+DKzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Line-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Line-1.html",
+          "hash": "KWagB4J9VbH4ggCBnBzvgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Material.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Material.html",
+          "hash": "wN9F3SqW71Ursd0RBV61mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.MaterialColorBlendMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.MaterialColorBlendMode.html",
+          "hash": "oI0rTH488RbP4gDMLST8bA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.MeshData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.MeshData-1.html",
+          "hash": "M9bIzU5z6T1PBYHvsiKMpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.MeshData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.MeshData.html",
+          "hash": "zH8uzOL8qMZdlNANDtNoWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.MeshDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.MeshDataBuilder.html",
+          "hash": "jMZ8nJzPj4UN/4WnQqDm0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.MeshDepthSorter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.MeshDepthSorter.html",
+          "hash": "8Cz6NT472pNG6yjXobTs1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ObjectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ObjectManager.html",
+          "hash": "UKpA7CYCj3CPoeCD2XZFtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereCreator.html",
+          "hash": "w0RuJr46fYvGTLFrSuWDSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereMesh.html",
+          "hash": "IYYg7dICw2h2Lxr0/CInMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.MeshGeometry3D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.MeshGeometry3D.html",
+          "hash": "Kwzud2ZscvN5FIaFYp+bCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.TriangleIndices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.TriangleIndices.html",
+          "hash": "YLm8fDg9A7HoytjERdGFJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.VertexSoup-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.VertexSoup-1.html",
+          "hash": "gb1V9LLCT6wGKn3BUX7bqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.html",
+          "hash": "UQSm2AnI59iwSbYKHxfmcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.OrthographicCamera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.OrthographicCamera.html",
+          "hash": "Jo3N3Qr/+FHJfPNuLyuVPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.PerspectiveFieldOfViewCamera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.PerspectiveFieldOfViewCamera.html",
+          "hash": "P5E7wy2anp4VrTqx/4XXJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.PixelFormatExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.PixelFormatExtensions.html",
+          "hash": "9oh2xDCm6mlOBper1JMS4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.PointShadowRenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.PointShadowRenderPipeline.html",
+          "hash": "31eCFQ/lveYahi6mC4eZbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Polygon-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Polygon-1.html",
+          "hash": "8kEX+76Qo7Y9YexKJ4H3TA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.PrimitiveObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.PrimitiveObject.html",
+          "hash": "DLBf74tyNs7o1ZkWlmI8+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Quad-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Quad-1.html",
+          "hash": "w2uZI1hUEDpsxNCFnVpTqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.RenderBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.RenderBuffer.html",
+          "hash": "5bi9fcwCE5ly720ojBHasg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.RenderContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.RenderContext.html",
+          "hash": "5jBz/nvQhuIGiFxC9F5IHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.RenderObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.RenderObject.html",
+          "hash": "hgo5NLAWx/nV8DnmtfO6kQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.RenderObjectBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.RenderObjectBase.html",
+          "hash": "JB20gL9lMa6wacTwqUnd+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.RenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.RenderPipeline.html",
+          "hash": "plNOe3jWWbh3GbIM+si9RQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Renderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Renderer.html",
+          "hash": "ArovB+jjgSMcX8Hgn7YqOg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ScreenPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ScreenPipeline.html",
+          "hash": "9O+W3MIgtqUiL/AijQcM4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ScreenSceneObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ScreenSceneObject.html",
+          "hash": "EvyGpglE2Z1B3CroqwDJ+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ScreenTextureObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ScreenTextureObject.html",
+          "hash": "w41ovOKy/cWJVKClK9w9+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ScreenshotObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ScreenshotObject.html",
+          "hash": "GxapHBrdYY+7JBI/qdlm1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Shader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Shader.html",
+          "hash": "zzWxy5Co0VU3IGOHSYt8Vg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ShaderCompilation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ShaderCompilation.html",
+          "hash": "TtEAUq3VyGQY+tfLnEmWOw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.ShaderSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.ShaderSource.html",
+          "hash": "GIT70MOijAY1ZB9Hmnze0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.SimpleVertexObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.SimpleVertexObject.html",
+          "hash": "owTHZlOSsv2pqRRH9ckQMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.SkyboxObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.SkyboxObject.html",
+          "hash": "Rtd+2bnI7hy8w3X9P3vbgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.SlotAllocator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.SlotAllocator-1.html",
+          "hash": "Fp4LLB5HBSGCNVWJTNNlzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.StaticInternalMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.StaticInternalMesh.html",
+          "hash": "ui0EQqRN77zh1oZrjc5T1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.StructHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.StructHelper.html",
+          "hash": "Hxc9BwG2770hZwF5gnBJ0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.Texture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.Texture.html",
+          "hash": "5U2/mSSVn2oieG1N28TYjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.UniformBufferObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.UniformBufferObject.html",
+          "hash": "0Pl869DEavxGIhq+c7qqqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexArrayObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexArrayObject.html",
+          "hash": "37YzNwgXj0Nh6aYaN580lA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexBufferObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexBufferObject.html",
+          "hash": "pdacRxoVPmWR4ZJTvBj5xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPos.html",
+          "hash": "uxqhChr1Pic8Fo8Gvr29zw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPos2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPos2.html",
+          "hash": "cqqzHuGpt2AOvh219LZM5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPos2UV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPos2UV.html",
+          "hash": "CdhvSwYUwylNYFjrDTX6mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPosColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPosColor.html",
+          "hash": "PKOdP4+cuhp0giAKMN3Eqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPosNormalColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPosNormalColor.html",
+          "hash": "PaLYBxDVCQADq/DefPQ74g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPosNormalUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPosNormalUV.html",
+          "hash": "TpIVrCcZ8GWFrF33P0vtVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexDataPosUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexDataPosUV.html",
+          "hash": "byehmUfdxxpFWtOAgBqAww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexLayoutBinded.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexLayoutBinded.html",
+          "hash": "BtLiLa8jsKDZ0A9sOyZPbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexLayoutBindedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexLayoutBindedAttribute.html",
+          "hash": "B6ZYji5HYX/80aseN9A8Qg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexLayoutDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexLayoutDefinition.html",
+          "hash": "DTDMuMT6mtkXeM8G9ImyHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.VertexLayoutDefinitionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.VertexLayoutDefinitionAttribute.html",
+          "hash": "VZaMGi2FddQuApOixURLdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.html",
+          "hash": "Vxe2GPdIC5cub3h2Q/+eDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.ScreenResizeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.ScreenResizeEventArgs.html",
+          "hash": "G9yp+r+jQjqnpHYLCNb6QA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.SharedLib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.SharedLib.html",
+          "hash": "zxkSDRvVIatV4W7ROJSjCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.StringExtensions.html",
+          "hash": "V/waL3VTKlln1isJOVZzbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Transform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Transform.html",
+          "hash": "hELddTS5OSxsln/czIm7gQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.VectorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.VectorExtensions.html",
+          "hash": "HmG8Yk2fxdfX8bi7wnAbQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.VectorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.VectorHelper.html",
+          "hash": "0Sl5LkXjjM9kWXI83LPInA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.html",
+          "hash": "+qoxW6yJvNacKrzx5WYi5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.AxisAlignedBoundingBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.AxisAlignedBoundingBox.html",
+          "hash": "tyyFOJSVtjk8HXsU/0/rnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.BooleanModeller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.BooleanModeller.html",
+          "hash": "Is8un1AyUrYahrygl62KVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Bound.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Bound.html",
+          "hash": "i2imdoHW/zmKNq7pJM2ddQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.DefaultCoordinates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.DefaultCoordinates.html",
+          "hash": "JuYKRaZ7uOZWM9hZtbPzuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Face.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Face.html",
+          "hash": "R83gcd6ROOgsDmsXII1xmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.IntersectionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.IntersectionType.html",
+          "hash": "abSJbrtd3o3Y9MQLL5kgCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Line.html",
+          "hash": "vE6CunW8+nIbOoBt8p9dAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Object3D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Object3D.html",
+          "hash": "/BOvEY0Z4KnqlknRY1wvfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Plane.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Plane.html",
+          "hash": "IQ5VEVbHhW8YCwAiqnorIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Ray.RaySign.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Ray.RaySign.html",
+          "hash": "DPKfJ+dN+oD7Co5w0T6niw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Ray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Ray.html",
+          "hash": "rGxIYFYLhrSjt1ENHZzGAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Segment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Segment.html",
+          "hash": "gjBYYy78OGYyLS1djBlivg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Solid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Solid.html",
+          "hash": "0v38Qq8FT0yIKssICLs+3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Status.html",
+          "hash": "pi2NnVGQmyz3/c1fjYLeHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Vector3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Vector3.html",
+          "hash": "G4KN9KYMXABUry/y/zC6tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.Vertex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.Vertex.html",
+          "hash": "hVNE6l0V7oR8iOsmgLl7dg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBool.html",
+          "hash": "iCQUeo+mT9dUy6B9nYwqSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBoolDemo.Demo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBoolDemo.Demo.html",
+          "hash": "CN5WlEQL+JkDm4PxXS0RNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBoolDemo.Window.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBoolDemo.Window.html",
+          "hash": "YmnGSJ4lNHPjBTxJjcFiKw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Net3dBoolDemo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Net3dBoolDemo.html",
+          "hash": "Dl8nzGYzKbSYYRX4uvxWrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenToolkit.Mathematics.AntiVector4d.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenToolkit.Mathematics.AntiVector4d.html",
+          "hash": "2FhJI36VLIjzUYL0jFypwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenToolkit.Mathematics.BiVector3d.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenToolkit.Mathematics.BiVector3d.html",
+          "hash": "il/H+R6R9y/sbxr4E/cT9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenToolkit.Mathematics.BiVector4d.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenToolkit.Mathematics.BiVector4d.html",
+          "hash": "hjUwGcJ29IvIGIO2hv6scw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenToolkit.Mathematics.Rotor3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenToolkit.Mathematics.Rotor3.html",
+          "hash": "X+phviNhpJpwO7swKBQH4g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenToolkit.Mathematics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenToolkit.Mathematics.html",
+          "hash": "fVk5eudUiO5uGQBmTWYOaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "k3W8t6krav3hmLE5gVUxvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "AtGmCzbQINzDWd1ab0D4mQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "JL7ZF4kLIgPj9fQNqteu4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 277,
+          "skipped_file_count": 277
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
