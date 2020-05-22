@@ -1785,19 +1785,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.ActorComponent.HasChanges
   nameWithType: ActorComponent.HasChanges
-- uid: Aximo.Engine.ActorComponent.Update
-  name: Update()
-  href: api/Aximo.Engine.ActorComponent.html#Aximo_Engine_ActorComponent_Update
-  commentId: M:Aximo.Engine.ActorComponent.Update
-  fullName: Aximo.Engine.ActorComponent.Update()
-  nameWithType: ActorComponent.Update()
-- uid: Aximo.Engine.ActorComponent.Update*
-  name: Update
-  href: api/Aximo.Engine.ActorComponent.html#Aximo_Engine_ActorComponent_Update_
-  commentId: Overload:Aximo.Engine.ActorComponent.Update
-  isSpec: "True"
-  fullName: Aximo.Engine.ActorComponent.Update
-  nameWithType: ActorComponent.Update
 - uid: Aximo.Engine.ActorComponent.UpdateFrame
   name: UpdateFrame()
   href: api/Aximo.Engine.ActorComponent.html#Aximo_Engine_ActorComponent_UpdateFrame
@@ -2635,12 +2622,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Components.Geometry.StaticMeshComponent.Mesh
   nameWithType: StaticMeshComponent.Mesh
-- uid: Aximo.Engine.Components.Geometry.StaticMeshComponent.MeshChanged
-  name: MeshChanged
-  href: api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html#Aximo_Engine_Components_Geometry_StaticMeshComponent_MeshChanged
-  commentId: F:Aximo.Engine.Components.Geometry.StaticMeshComponent.MeshChanged
-  fullName: Aximo.Engine.Components.Geometry.StaticMeshComponent.MeshChanged
-  nameWithType: StaticMeshComponent.MeshChanged
 - uid: Aximo.Engine.Components.Geometry.StaticMeshComponent.SetMesh(Aximo.Mesh)
   name: SetMesh(Mesh)
   href: api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html#Aximo_Engine_Components_Geometry_StaticMeshComponent_SetMesh_Aximo_Mesh_
@@ -2654,19 +2635,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Components.Geometry.StaticMeshComponent.SetMesh
   nameWithType: StaticMeshComponent.SetMesh
-- uid: Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh
-  name: UpdateMesh()
-  href: api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html#Aximo_Engine_Components_Geometry_StaticMeshComponent_UpdateMesh
-  commentId: M:Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh
-  fullName: Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh()
-  nameWithType: StaticMeshComponent.UpdateMesh()
-- uid: Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh*
-  name: UpdateMesh
-  href: api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html#Aximo_Engine_Components_Geometry_StaticMeshComponent_UpdateMesh_
-  commentId: Overload:Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh
-  isSpec: "True"
-  fullName: Aximo.Engine.Components.Geometry.StaticMeshComponent.UpdateMesh
-  nameWithType: StaticMeshComponent.UpdateMesh
 - uid: Aximo.Engine.Components.Geometry.StatsComponent
   name: StatsComponent
   href: api/Aximo.Engine.Components.Geometry.StatsComponent.html
@@ -3158,30 +3126,6 @@ references:
   commentId: F:Aximo.Engine.Components.UI.UIComponent._NeedRedraw
   fullName: Aximo.Engine.Components.UI.UIComponent._NeedRedraw
   nameWithType: UIComponent._NeedRedraw
-- uid: Aximo.Engine.Components.UI.UIComponent.AbsoluteClientRect
-  name: AbsoluteClientRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_AbsoluteClientRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.AbsoluteClientRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.AbsoluteClientRect
-  nameWithType: UIComponent.AbsoluteClientRect
-- uid: Aximo.Engine.Components.UI.UIComponent.AbsoluteDrawRect
-  name: AbsoluteDrawRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_AbsoluteDrawRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.AbsoluteDrawRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.AbsoluteDrawRect
-  nameWithType: UIComponent.AbsoluteDrawRect
-- uid: Aximo.Engine.Components.UI.UIComponent.AbsoluteOuterRect
-  name: AbsoluteOuterRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_AbsoluteOuterRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.AbsoluteOuterRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.AbsoluteOuterRect
-  nameWithType: UIComponent.AbsoluteOuterRect
-- uid: Aximo.Engine.Components.UI.UIComponent.AbsolutePaddingRect
-  name: AbsolutePaddingRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_AbsolutePaddingRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.AbsolutePaddingRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.AbsolutePaddingRect
-  nameWithType: UIComponent.AbsolutePaddingRect
 - uid: Aximo.Engine.Components.UI.UIComponent.Border
   name: Border
   href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_Border
@@ -3323,19 +3267,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Components.UI.UIComponent.OnScreenMouseUp
   nameWithType: UIComponent.OnScreenMouseUp
-- uid: Aximo.Engine.Components.UI.UIComponent.PaddingInternal
-  name: PaddingInternal
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_PaddingInternal
-  commentId: P:Aximo.Engine.Components.UI.UIComponent.PaddingInternal
-  fullName: Aximo.Engine.Components.UI.UIComponent.PaddingInternal
-  nameWithType: UIComponent.PaddingInternal
-- uid: Aximo.Engine.Components.UI.UIComponent.PaddingInternal*
-  name: PaddingInternal
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_PaddingInternal_
-  commentId: Overload:Aximo.Engine.Components.UI.UIComponent.PaddingInternal
-  isSpec: "True"
-  fullName: Aximo.Engine.Components.UI.UIComponent.PaddingInternal
-  nameWithType: UIComponent.PaddingInternal
 - uid: Aximo.Engine.Components.UI.UIComponent.Redraw
   name: Redraw()
   href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_Redraw
@@ -3349,24 +3280,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Components.UI.UIComponent.Redraw
   nameWithType: UIComponent.Redraw
-- uid: Aximo.Engine.Components.UI.UIComponent.RelatativeClientRect
-  name: RelatativeClientRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_RelatativeClientRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.RelatativeClientRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.RelatativeClientRect
-  nameWithType: UIComponent.RelatativeClientRect
-- uid: Aximo.Engine.Components.UI.UIComponent.RelatativeDrawRect
-  name: RelatativeDrawRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_RelatativeDrawRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.RelatativeDrawRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.RelatativeDrawRect
-  nameWithType: UIComponent.RelatativeDrawRect
-- uid: Aximo.Engine.Components.UI.UIComponent.RelatativePaddingRect
-  name: RelatativePaddingRect
-  href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_RelatativePaddingRect
-  commentId: F:Aximo.Engine.Components.UI.UIComponent.RelatativePaddingRect
-  fullName: Aximo.Engine.Components.UI.UIComponent.RelatativePaddingRect
-  nameWithType: UIComponent.RelatativePaddingRect
 - uid: Aximo.Engine.Components.UI.UIComponent.SetRectanglePixels(SixLabors.ImageSharp.RectangleF)
   name: SetRectanglePixels(RectangleF)
   href: api/Aximo.Engine.Components.UI.UIComponent.html#Aximo_Engine_Components_UI_UIComponent_SetRectanglePixels_SixLabors_ImageSharp_RectangleF_
@@ -3444,19 +3357,6 @@ references:
   commentId: F:Aximo.Engine.Components.UI.UIContainerComponent.Padding
   fullName: Aximo.Engine.Components.UI.UIContainerComponent.Padding
   nameWithType: UIContainerComponent.Padding
-- uid: Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal
-  name: PaddingInternal
-  href: api/Aximo.Engine.Components.UI.UIContainerComponent.html#Aximo_Engine_Components_UI_UIContainerComponent_PaddingInternal
-  commentId: P:Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal
-  fullName: Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal
-  nameWithType: UIContainerComponent.PaddingInternal
-- uid: Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal*
-  name: PaddingInternal
-  href: api/Aximo.Engine.Components.UI.UIContainerComponent.html#Aximo_Engine_Components_UI_UIContainerComponent_PaddingInternal_
-  commentId: Overload:Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal
-  isSpec: "True"
-  fullName: Aximo.Engine.Components.UI.UIContainerComponent.PaddingInternal
-  nameWithType: UIContainerComponent.PaddingInternal
 - uid: Aximo.Engine.Components.UI.UIDock
   name: UIDock
   href: api/Aximo.Engine.Components.UI.UIDock.html
@@ -6330,12 +6230,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.SceneComponent.Parent
   nameWithType: SceneComponent.Parent
-- uid: Aximo.Engine.SceneComponent.ParentChanged
-  name: ParentChanged
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_ParentChanged
-  commentId: F:Aximo.Engine.SceneComponent.ParentChanged
-  fullName: Aximo.Engine.SceneComponent.ParentChanged
-  nameWithType: SceneComponent.ParentChanged
 - uid: Aximo.Engine.SceneComponent.ParentComponents
   name: ParentComponents
   href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_ParentComponents
@@ -6427,44 +6321,12 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.SceneComponent.Transform
   nameWithType: SceneComponent.Transform
-- uid: Aximo.Engine.SceneComponent.TransformChanged
-  name: TransformChanged
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_TransformChanged
-  commentId: F:Aximo.Engine.SceneComponent.TransformChanged
-  fullName: Aximo.Engine.SceneComponent.TransformChanged
-  nameWithType: SceneComponent.TransformChanged
 - uid: Aximo.Engine.SceneComponent.TranslationMatrix
   name: TranslationMatrix
   href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_TranslationMatrix
   commentId: F:Aximo.Engine.SceneComponent.TranslationMatrix
   fullName: Aximo.Engine.SceneComponent.TranslationMatrix
   nameWithType: SceneComponent.TranslationMatrix
-- uid: Aximo.Engine.SceneComponent.UpdateParent
-  name: UpdateParent()
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_UpdateParent
-  commentId: M:Aximo.Engine.SceneComponent.UpdateParent
-  fullName: Aximo.Engine.SceneComponent.UpdateParent()
-  nameWithType: SceneComponent.UpdateParent()
-- uid: Aximo.Engine.SceneComponent.UpdateParent*
-  name: UpdateParent
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_UpdateParent_
-  commentId: Overload:Aximo.Engine.SceneComponent.UpdateParent
-  isSpec: "True"
-  fullName: Aximo.Engine.SceneComponent.UpdateParent
-  nameWithType: SceneComponent.UpdateParent
-- uid: Aximo.Engine.SceneComponent.UpdateTransform
-  name: UpdateTransform()
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_UpdateTransform
-  commentId: M:Aximo.Engine.SceneComponent.UpdateTransform
-  fullName: Aximo.Engine.SceneComponent.UpdateTransform()
-  nameWithType: SceneComponent.UpdateTransform()
-- uid: Aximo.Engine.SceneComponent.UpdateTransform*
-  name: UpdateTransform
-  href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_UpdateTransform_
-  commentId: Overload:Aximo.Engine.SceneComponent.UpdateTransform
-  isSpec: "True"
-  fullName: Aximo.Engine.SceneComponent.UpdateTransform
-  nameWithType: SceneComponent.UpdateTransform
 - uid: Aximo.Engine.SceneComponent.UpdateWorldBounds
   name: UpdateWorldBounds()
   href: api/Aximo.Engine.SceneComponent.html#Aximo_Engine_SceneComponent_UpdateWorldBounds

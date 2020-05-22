@@ -7,176 +7,176 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.AxMath.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.AxMath.html",
+        "": {
+          "relative_path": "api/Aximo.AxMath",
           "hash": "+XgIwj18chJ33BWr7jS+jw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BoxExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BoxExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.BoxExtensions",
           "hash": "SGTq1ypQcVNvwS/nyCAMdA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BoxHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BoxHelper.html",
+        "": {
+          "relative_path": "api/Aximo.BoxHelper",
           "hash": "Vmz7Ow7JP/h6i/vHdQBIbw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData",
           "hash": "pRjOFN+qpNEEBXz954Qs/Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData1D-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData1D-1.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData1D-1",
           "hash": "iJ4bbNBP4ScEI8o5e3BviA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData1D.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData1D.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData1D",
           "hash": "YmPbIdBMpe+1izOBNvI0HQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData2D-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData2D-1.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData2D-1",
           "hash": "zTO0pkR9a2tD1QQhSnffLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData2D.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData2D.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData2D",
           "hash": "ETJTZJwOOq19ePTKeC/4Ag=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData3D-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData3D-1.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData3D-1",
           "hash": "+m/NwPFaw/qi8m35XdsW5Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferData3D.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferData3D.html",
+        "": {
+          "relative_path": "api/Aximo.BufferData3D",
           "hash": "+eZxzwNIoBBtqBwKIWtQJg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.BufferDataExtentions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.BufferDataExtentions.html",
+        "": {
+          "relative_path": "api/Aximo.BufferDataExtentions",
           "hash": "s1KmSGLe3wfNmmXsVNT9yQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.DebugHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.DebugHelper.html",
+        "": {
+          "relative_path": "api/Aximo.DebugHelper",
           "hash": "JJUXORSpAWCsBef8RCsirQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.DictionaryExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.DictionaryExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.DictionaryExtensions",
           "hash": "wsLbdtboJKyAL+BCa3YbDg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.DirectoryHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.DirectoryHelper.html",
+        "": {
+          "relative_path": "api/Aximo.DirectoryHelper",
           "hash": "KZydXphE/bMATVK52mA4tg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Actor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Actor.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Actor",
           "hash": "Hd+beS1CFXrZ18nMjibGwA=="
         }
       },
@@ -187,9 +187,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.ActorComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.ActorComponent.html",
-          "hash": "/IrBoByy+I75mbKaymnq3w=="
+        "": {
+          "relative_path": "api/Aximo.Engine.ActorComponent",
+          "hash": "yipK6Cwt5YSa9vxdPbHaGQ=="
         }
       },
       "is_incremental": false,
@@ -199,93 +199,93 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate",
           "hash": "PoJRBAOYMmwJcBDqYg5PxA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Animation.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Animation.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Animation",
           "hash": "KIKk1ejFH5UiuX1XKFjOSw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.AnimationFinishedDelegate",
           "hash": "htXarC/NpTaeJoC+/O5Zeg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.AnimationFunc.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFunc.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.AnimationFunc",
           "hash": "OoFkqqlP4ephWR5+6nUfgg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.AnimationFuncs.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFuncs.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.AnimationFuncs",
           "hash": "4yODmFiLcMLl/F6OIVZ0Fg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Audio.AudioManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Audio.AudioManager.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Audio.AudioManager",
           "hash": "+TXyFn6A25Ac9w6c/PbxMw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Audio.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Audio.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Audio",
           "hash": "wYo7cfGa38tfPWlYlUzvtA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.BufferComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.BufferComponent.html",
-          "hash": "XiHrY1Lddvp3+QEzy3uepQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.BufferComponent",
+          "hash": "flJOK2iG3zgTVlfH45Ifrg=="
         }
       },
       "is_incremental": false,
@@ -295,21 +295,21 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.CommandLineOptions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.CommandLineOptions.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.CommandLineOptions",
           "hash": "wGmeaIS3YCnYD34xgdNuow=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.CrossLineComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.CrossLineComponent.html",
-          "hash": "nkQN2xncx1Qh8ylzhd+Sgg=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.CrossLineComponent",
+          "hash": "HFzSQGRzH4IRJgefZsWwNQ=="
         }
       },
       "is_incremental": false,
@@ -319,9 +319,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.CubeComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.CubeComponent.html",
-          "hash": "mvoc4pT/XMn8DG3S0twcxA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.CubeComponent",
+          "hash": "c5zMAic4P6+UFdlqJEHl6w=="
         }
       },
       "is_incremental": false,
@@ -331,9 +331,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.DebugCubeComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.DebugCubeComponent.html",
-          "hash": "leC/rDZ/xz/FVt7/wECxOA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.DebugCubeComponent",
+          "hash": "Tc2rZVpkak0m33g3A5LJJg=="
         }
       },
       "is_incremental": false,
@@ -343,9 +343,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.GraphicsScreenTextureComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.GraphicsScreenTextureComponent.html",
-          "hash": "wO6Vo7Luz/Oe02r+QXdmGA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.GraphicsScreenTextureComponent",
+          "hash": "QySx1/Z2UkZdMtWTCMHEKg=="
         }
       },
       "is_incremental": false,
@@ -355,9 +355,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.GridPlaneComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.GridPlaneComponent.html",
-          "hash": "POWcl/oDajbStDSYrj3ACQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.GridPlaneComponent",
+          "hash": "9qYilgdDCXaIICpkOYFGyA=="
         }
       },
       "is_incremental": false,
@@ -367,9 +367,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.LineComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.LineComponent.html",
-          "hash": "oVcBQwIuOaholLG3bWiEXQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.LineComponent",
+          "hash": "n1+K886HpOKA4nQ+8+NltA=="
         }
       },
       "is_incremental": false,
@@ -379,9 +379,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.MeshComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.MeshComponent.html",
-          "hash": "j2frrsC9JNcqpEon+ROPZA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.MeshComponent",
+          "hash": "hoq/qE2N/0T/5JjDBj9LqA=="
         }
       },
       "is_incremental": false,
@@ -391,9 +391,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.PrimitiveComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.PrimitiveComponent.html",
-          "hash": "zAtOaIGlqtzRJHuAwG1p8A=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.PrimitiveComponent",
+          "hash": "BlbPxhlInAwjVwyPuPnevA=="
         }
       },
       "is_incremental": false,
@@ -403,9 +403,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.QuadComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.QuadComponent.html",
-          "hash": "bEfuZF7vSOUS012SoQRFvg=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.QuadComponent",
+          "hash": "bDkLwOfIN4nIlvr3AbY73g=="
         }
       },
       "is_incremental": false,
@@ -415,9 +415,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.ScreenTextureComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.ScreenTextureComponent.html",
-          "hash": "LI/78M38rERdmURyedvLcA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.ScreenTextureComponent",
+          "hash": "EoLP3MKOFVdLcUtVlQ2+fg=="
         }
       },
       "is_incremental": false,
@@ -427,9 +427,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.SkyBoxComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.SkyBoxComponent.html",
-          "hash": "2ybJVa64oQgk+CD83SKhzQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.SkyBoxComponent",
+          "hash": "W/C+R64FlicVwupE5GnhMA=="
         }
       },
       "is_incremental": false,
@@ -439,9 +439,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.SphereComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.SphereComponent.html",
-          "hash": "XjUhFokt228QiB5gptkbWQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.SphereComponent",
+          "hash": "cJAeiF2ALV6nwd8GkwHQWQ=="
         }
       },
       "is_incremental": false,
@@ -451,9 +451,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.StaticMeshComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html",
-          "hash": "OGkx9Wz8hmrebgrXZo60ig=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.StaticMeshComponent",
+          "hash": "sjM//+1f9t9DXKeEa2IqtQ=="
         }
       },
       "is_incremental": false,
@@ -463,9 +463,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.StatsComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.StatsComponent.html",
-          "hash": "O772jnD0vgxKiFoRwDiqjQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry.StatsComponent",
+          "hash": "QbZD6nvGTIkG2H/rdO9Cvw=="
         }
       },
       "is_incremental": false,
@@ -475,8 +475,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Geometry.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Geometry.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Geometry",
           "hash": "1YNnMDj+LBzvWonKh1befg=="
         }
       },
@@ -487,9 +487,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Lights.DirectionalLightComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Lights.DirectionalLightComponent.html",
-          "hash": "JJe2+GWgT+yGE31cW1KvNg=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Lights.DirectionalLightComponent",
+          "hash": "r/RAcucg9c58FZjm85599g=="
         }
       },
       "is_incremental": false,
@@ -499,9 +499,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Lights.LightComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Lights.LightComponent.html",
-          "hash": "SpKg44Lui2/eCUejOiPhmA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Lights.LightComponent",
+          "hash": "Tebrq0ogfs5/jEgQBRN13A=="
         }
       },
       "is_incremental": false,
@@ -511,9 +511,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Lights.PointLightComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Lights.PointLightComponent.html",
-          "hash": "XsqV45A1KI7HcSvVt8/Nsw=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Lights.PointLightComponent",
+          "hash": "T0JvqAYNRPvNdLJUTacCnQ=="
         }
       },
       "is_incremental": false,
@@ -523,8 +523,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.Lights.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.Lights.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.Lights",
           "hash": "4CcoFLZSZYfDqqiYZJXStw=="
         }
       },
@@ -535,21 +535,21 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIAnchors.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIAnchors.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIAnchors",
           "hash": "dRoTSGZbMr1cKksIdSzZjA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIButton.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIButton.html",
-          "hash": "7wkkIvGSs2Onooqxp2tIlw=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIButton",
+          "hash": "gfmPE2Vr3XjisAMOR/OnKQ=="
         }
       },
       "is_incremental": false,
@@ -559,9 +559,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIButtonComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIButtonComponent.html",
-          "hash": "xaFwiPbmSbL1GIBQxYJ22A=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIButtonComponent",
+          "hash": "5YbjXupg21CwXIpVl+7OBw=="
         }
       },
       "is_incremental": false,
@@ -571,9 +571,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIComponent.html",
-          "hash": "tSUJg8fDU7BsO4xHDM5bUw=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIComponent",
+          "hash": "G4AJJ0SBIqE7g0612MjYHw=="
         }
       },
       "is_incremental": false,
@@ -583,9 +583,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIContainerComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIContainerComponent.html",
-          "hash": "gGYGv+trbMd+c6oogTNhFg=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIContainerComponent",
+          "hash": "vhLM+PVsXvE5iX1GYsdJEA=="
         }
       },
       "is_incremental": false,
@@ -595,21 +595,21 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIDock.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIDock.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIDock",
           "hash": "KRCZsbXcmAhZDo3294J3pg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIFloatingContainer.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIFloatingContainer.html",
-          "hash": "yhs/Zu1KOYkMmxuOqgTB8A=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIFloatingContainer",
+          "hash": "aiY2hcYzIDyx4vBq0NmW9w=="
         }
       },
       "is_incremental": false,
@@ -619,9 +619,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIFlowContainer.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIFlowContainer.html",
-          "hash": "FGgoy00KiR+3c0GkBKvhFA=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIFlowContainer",
+          "hash": "Ufmdq8fPFUe6iMZZlvOFRw=="
         }
       },
       "is_incremental": false,
@@ -631,9 +631,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIImage.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIImage.html",
-          "hash": "Y16dJe6UC00Y+kXQR3orGQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIImage",
+          "hash": "kGRkEzOEZqJzQNq8M71aQg=="
         }
       },
       "is_incremental": false,
@@ -643,9 +643,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UILabelComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UILabelComponent.html",
-          "hash": "0PxeKiXXg8StvJYUVr1ZtQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UILabelComponent",
+          "hash": "h8N0LBjSwHQAY72QMgAxfg=="
         }
       },
       "is_incremental": false,
@@ -655,9 +655,9 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIPanelComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIPanelComponent.html",
-          "hash": "OIkBL1m0yeHiBL6ivWMpiQ=="
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIPanelComponent",
+          "hash": "RoAu4T+cUfRadSBJHHN8Gw=="
         }
       },
       "is_incremental": false,
@@ -667,20 +667,20 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.UIRect.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.UIRect.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI.UIRect",
           "hash": "LCxhNttY5oMk+GSnJfi4Hw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Components.UI.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Components.UI.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Components.UI",
           "hash": "EmQW2+JuyAI16k/3ZQXOqA=="
         }
       },
@@ -691,8 +691,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameContext.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameContext.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameContext",
           "hash": "xpeO+8+fiyyL3s7mGMgu0w=="
         }
       },
@@ -703,32 +703,32 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameMaterial.Parameter.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameMaterial.Parameter.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameMaterial.Parameter",
           "hash": "WKQfqIhQmP6zCvfgPk9tRg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameMaterial.ParamterType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameMaterial.ParamterType.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameMaterial.ParamterType",
           "hash": "jLAoOVO77nrfEDdnxktrzQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameMaterial.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameMaterial.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameMaterial",
           "hash": "c/JF2FAaV2c8jZCEnqM+eA=="
         }
       },
@@ -739,8 +739,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameMeshBuilder.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameMeshBuilder.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameMeshBuilder",
           "hash": "pZbVvUSV78iDyufipbadxQ=="
         }
       },
@@ -751,8 +751,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameObject.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameObject",
           "hash": "Zrd6wWoW5rTKxdfx4H4PpQ=="
         }
       },
@@ -763,44 +763,44 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameShader.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameShader.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameShader",
           "hash": "mJNNTYZlEZU0WG4hQxVvgw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameStartup-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameStartup-1.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameStartup-1",
           "hash": "94bP/slVBb/cJ+VLazpg6A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameStartup-2.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameStartup-2.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameStartup-2",
           "hash": "9xwxuiLSEor+smJMUjyyVA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.GameTexture.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.GameTexture.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.GameTexture",
           "hash": "sW9ScKdWWcjCOqUa1tGnqg=="
         }
       },
@@ -811,8 +811,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.ISceneInterface.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.ISceneInterface.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.ISceneInterface",
           "hash": "wWbFGXCRWf20LX15YTi21g=="
         }
       },
@@ -823,44 +823,44 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.MaterialManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.MaterialManager.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.MaterialManager",
           "hash": "UhkhagwSYbLSVDUIOtiAQg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.PipelineType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.PipelineType.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.PipelineType",
           "hash": "tZX86CY6XivCBd37hTANwg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.PrimitiveDrawInterface.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.PrimitiveDrawInterface.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.PrimitiveDrawInterface",
           "hash": "DSapdMabQ/tqz6/cJg2pbw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.PrimitiveSceneProxy.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.PrimitiveSceneProxy.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.PrimitiveSceneProxy",
           "hash": "3tDWEHFRe8NyypROHLFxkQ=="
         }
       },
@@ -871,33 +871,33 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.RenderApplication.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.RenderApplication.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.RenderApplication",
           "hash": "qtL4vW3sIViGnkQJmdS48Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.RenderApplicationConfig.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.RenderApplicationConfig.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.RenderApplicationConfig",
           "hash": "hyuRtg1zVIuDZtH8p0VFdA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.SceneComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.SceneComponent.html",
-          "hash": "BSqL7i/pdtpftnR4tFfuBg=="
+        "": {
+          "relative_path": "api/Aximo.Engine.SceneComponent",
+          "hash": "Tl3rEb0wlPxkvocfw2jmiw=="
         }
       },
       "is_incremental": false,
@@ -907,8 +907,8 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.StaticMeshSceneProxy.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.StaticMeshSceneProxy.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.StaticMeshSceneProxy",
           "hash": "0g1bz4Ig3mG6n4mm4OZiFg=="
         }
       },
@@ -919,116 +919,116 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface",
           "hash": "FCYE8zxoedtrE6llnS8FyQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.TaskQueue.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.TaskQueue.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.TaskQueue",
           "hash": "ZlBwte1c/g/Mfp4IDa8EBA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.TextureManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.TextureManager.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.TextureManager",
           "hash": "q/u2IMwE7Dej6HFrItk9qg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.GtkUI.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.GtkUI.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows.GtkUI",
           "hash": "7XvV74f/YGNkfhCihYxarg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.MouseButtonArgs.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.MouseButtonArgs.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows.MouseButtonArgs",
           "hash": "Uuzawb/07PXZMDiYx3Hd/w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.MouseMoveArgs.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.MouseMoveArgs.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows.MouseMoveArgs",
           "hash": "biRlzysJlJcbpd8cm4zWcw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.RenderWindow.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.RenderWindow.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows.RenderWindow",
           "hash": "Z95jgOkf0y7OdgjDGKyB+g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.WindowContext.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.WindowContext.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows.WindowContext",
           "hash": "ZPyEzQv7p6xWyoqdlJLxSQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.Windows.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Windows.html",
+        "": {
+          "relative_path": "api/Aximo.Engine.Windows",
           "hash": "ltfPNnI1cCNuOC7xFP58vw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Engine.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.html",
+        "": {
+          "relative_path": "api/Aximo.Engine",
           "hash": "dDsNx1n1jpUMDlErEqyGxQ=="
         }
       },
@@ -1039,1964 +1039,1964 @@
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.EventCounter.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.EventCounter.html",
+        "": {
+          "relative_path": "api/Aximo.EventCounter",
           "hash": "FPgJW01O9CivKs8J8dvTAg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.FaceExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.FaceExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.FaceExtensions",
           "hash": "CKGvEi5TOHIDVPyd4JdB/Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.GamePixelFormat.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.GamePixelFormat.html",
+        "": {
+          "relative_path": "api/Aximo.GamePixelFormat",
           "hash": "x6nBMIE+D3Upbti+KLWtUQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.GenerateFileDelegate.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.GenerateFileDelegate.html",
+        "": {
+          "relative_path": "api/Aximo.GenerateFileDelegate",
           "hash": "NhaFSQQNlWO30Qset7RNnw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircle.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircle.html",
+        "": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircle",
           "hash": "A1Rv906dPzwQaQRAnSfGmw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.html",
+        "": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions",
           "hash": "tb3PJjxkN12lt36QGopi8g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom.html",
+        "": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom",
           "hash": "WiWXGUmagq6ZAPtxJxsnCg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw.html",
+        "": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw",
           "hash": "3xsFfrDRXyPVvuWxpazHWw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Generators.AlchemyCircle.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Generators.AlchemyCircle.html",
+        "": {
+          "relative_path": "api/Aximo.Generators.AlchemyCircle",
           "hash": "+cWCgWIJDlO4kswCrK6ahg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.IArray-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.IArray-1.html",
+        "": {
+          "relative_path": "api/Aximo.IArray-1",
           "hash": "MxPAEiwuMj4h9kdvE6VT0w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.IDynamicArray-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.IDynamicArray-1.html",
+        "": {
+          "relative_path": "api/Aximo.IDynamicArray-1",
           "hash": "bIn0SesUJNh1RU+nlcbBEw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.IVisitor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.IVisitor.html",
+        "": {
+          "relative_path": "api/Aximo.IVisitor",
           "hash": "3VoUoGvhFVvhYxTftt3YAQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.IVisitorNode.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.IVisitorNode.html",
+        "": {
+          "relative_path": "api/Aximo.IVisitorNode",
           "hash": "oX5nzUUk7dHk9iCJuXuUrA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.ImageExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.ImageExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.ImageExtensions",
           "hash": "WAbcFOtfvgWgWHdz81MExw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Line2.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Line2.html",
+        "": {
+          "relative_path": "api/Aximo.Line2",
           "hash": "F3zZTyp5i1fPxX3oVGP5AA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Line3.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Line3.html",
+        "": {
+          "relative_path": "api/Aximo.Line3",
           "hash": "3eI617+LIMZgJNfOyeDilQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.ListExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.ListExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.ListExtensions",
           "hash": "DG8ppm9ZaRCCsshWoDSRPw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Log.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Log.html",
+        "": {
+          "relative_path": "api/Aximo.Log",
           "hash": "/79fGZNY60GCe8DKkNkZEg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.LogExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.LogExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.LogExtensions",
           "hash": "a+SgDmj8d9zoO2DmTmg9SQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Mesh.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Mesh.html",
+        "": {
+          "relative_path": "api/Aximo.Mesh",
           "hash": "/KN8hnadOQyp+R8pH1snIQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshColorComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshColorComponent.html",
+        "": {
+          "relative_path": "api/Aximo.MeshColorComponent",
           "hash": "thv5CVqBKiGM78iJoae+tQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshComponent-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshComponent-1.html",
+        "": {
+          "relative_path": "api/Aximo.MeshComponent-1",
           "hash": "hzq3CR6sRrU65/pT58VgKw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshComponent.html",
+        "": {
+          "relative_path": "api/Aximo.MeshComponent",
           "hash": "w0HCxbnlS2dIUrbPY9/o7Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshComponentType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshComponentType.html",
+        "": {
+          "relative_path": "api/Aximo.MeshComponentType",
           "hash": "e1UWVN89jOSwWRMY9symdg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshFace-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshFace-1.html",
+        "": {
+          "relative_path": "api/Aximo.MeshFace-1",
           "hash": "Pc+bwl0jfHNKKmP4CH4dSw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshFaceType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshFaceType.html",
+        "": {
+          "relative_path": "api/Aximo.MeshFaceType",
           "hash": "zxCHlfliF4uwbLIAmkps+w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshNormalComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshNormalComponent.html",
+        "": {
+          "relative_path": "api/Aximo.MeshNormalComponent",
           "hash": "JiYyTVrEzVCX4mF0TNR+hg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshPosition2Component.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshPosition2Component.html",
+        "": {
+          "relative_path": "api/Aximo.MeshPosition2Component",
           "hash": "x7QnWMPC0ly9MG1eAw1H+A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshPosition3Component.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshPosition3Component.html",
+        "": {
+          "relative_path": "api/Aximo.MeshPosition3Component",
           "hash": "JX+pn1X5gRND34SQdXNJpw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshPositionComponent-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshPositionComponent-1.html",
+        "": {
+          "relative_path": "api/Aximo.MeshPositionComponent-1",
           "hash": "f9MSyeXlrUlih5g/YFD0MQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshUVComponent.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshUVComponent.html",
+        "": {
+          "relative_path": "api/Aximo.MeshUVComponent",
           "hash": "htgCln+wRWSuJ/ff5roKuQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.MeshVertexList-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.MeshVertexList-1.html",
+        "": {
+          "relative_path": "api/Aximo.MeshVertexList-1",
           "hash": "rny95jjMsHTSfEK7j0Iqyg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.PathBuilder.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.PathBuilder.html",
+        "": {
+          "relative_path": "api/Aximo.PathBuilder",
           "hash": "o/XIm/hksBnVrsjERUnhDQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Plane.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Plane.html",
+        "": {
+          "relative_path": "api/Aximo.Plane",
           "hash": "hmGvrZtJ3i3fjIOgcfsUXg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Ray.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Ray.html",
+        "": {
+          "relative_path": "api/Aximo.Ray",
           "hash": "nR6obtOBOsgHhwXfpg4VKA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Camera.CameraChangedDelegate.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Camera.CameraChangedDelegate.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Camera.CameraChangedDelegate",
           "hash": "5+hpblkMuuKJ+lkdffAEaA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Camera.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Camera.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Camera",
           "hash": "vWjE2W81N8K30wN0TnWoaA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.CameraType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.CameraType.html",
+        "": {
+          "relative_path": "api/Aximo.Render.CameraType",
           "hash": "3p3k9cr3DjRT8P5DHX89cA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.DataHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.DataHelper.html",
+        "": {
+          "relative_path": "api/Aximo.Render.DataHelper",
           "hash": "aUYq9I/EjJmhIQu5fn4T7w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IBounds.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IBounds.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IBounds",
           "hash": "8lXuGS0+ULxoYmOqqr6cWg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IData.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IData.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IData",
           "hash": "cU2s+WxCEsnpEzqprx3a3w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IDeferredRenderable.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IDeferredRenderable.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IDeferredRenderable",
           "hash": "RZ/4zmefrcUfRSjErpd7Ig=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IForwardRenderable.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IForwardRenderable.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IForwardRenderable",
           "hash": "z1ubf/bK4RlLJJRZccF46w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.ILightObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.ILightObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.ILightObject",
           "hash": "8NjUNVfbXJK4AL4iNt6HHA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.ILightTarget.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.ILightTarget.html",
+        "": {
+          "relative_path": "api/Aximo.Render.ILightTarget",
           "hash": "pu01LQ5xhKclcwNX37txjg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IMeshObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IMeshObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IMeshObject",
           "hash": "BqlbYpnybiEiFKR6zxCiBg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IPosition.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IPosition.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IPosition",
           "hash": "H9tUYOu4fL8KcrHqYFfN6Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IReloadable.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IReloadable.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IReloadable",
           "hash": "7tYnBY/cJkUy87LccfdRkA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IRenderObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IRenderObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IRenderObject",
           "hash": "uOwLjJnZA7i7DYPt6wA/6w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IRenderTarget.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IRenderTarget.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IRenderTarget",
           "hash": "Thwka2kuoC1A9XqhGI0EKQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IRenderableObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IRenderableObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IRenderableObject",
           "hash": "Qy/qmbCFrk+A5HqM8rPhow=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IScaleRotate.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IScaleRotate.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IScaleRotate",
           "hash": "h0/dK+khaKP7S3V80Hn9ZA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IScreenRenderable.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IScreenRenderable.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IScreenRenderable",
           "hash": "04InppKPoMNlTqDekR855A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IShadowObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IShadowObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IShadowObject",
           "hash": "i5imPhrVe4BtY2y0avd9JA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.IUpdateFrame.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.IUpdateFrame.html",
+        "": {
+          "relative_path": "api/Aximo.Render.IUpdateFrame",
           "hash": "ptKjzNaODSQonjkPtD7RNg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.LightType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.LightType.html",
+        "": {
+          "relative_path": "api/Aximo.Render.LightType",
           "hash": "Ujt+HF6GnhQ1V7dPY9qByg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Material.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Material.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Material",
           "hash": "nCa+0xVkMopCXtFgCMOMzQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.MaterialColorBlendMode.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.MaterialColorBlendMode.html",
+        "": {
+          "relative_path": "api/Aximo.Render.MaterialColorBlendMode",
           "hash": "gEZLab6VMd8t0ccltECuRg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.MeshDepthSorter.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.MeshDepthSorter.html",
+        "": {
+          "relative_path": "api/Aximo.Render.MeshDepthSorter",
           "hash": "wokjGdyqXRICgSQXgLUDpg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.LightObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.LightObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.LightObject",
           "hash": "25+JJD9/0QHFgbO3wj6idQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.RenderObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.RenderObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.RenderObject",
           "hash": "85u1cn2kQ9QN5tBdiJo1eA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.RenderObjectBase.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.RenderObjectBase.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.RenderObjectBase",
           "hash": "NcvngTXnZIiPtu+A4n8pgg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.ScreenSceneObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.ScreenSceneObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.ScreenSceneObject",
           "hash": "pttE3quIGElSI28QgFYf4w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.ScreenshotObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.ScreenshotObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.ScreenshotObject",
           "hash": "RIEHB1lfi5lv/PpP0lInpA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.SimpleVertexObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.SimpleVertexObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.SimpleVertexObject",
           "hash": "QRgjcSFObzs/wVIPZaYPMQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.SkyboxObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.SkyboxObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.SkyboxObject",
           "hash": "Z0zv3qX/RUXEuqCDckAHNg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereCreator.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereCreator.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereCreator",
           "hash": "mrGH1OsWRMpovpqoePr7OQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereMesh.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereMesh.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.IcoSphereMesh",
           "hash": "T/7DDEfawDk3Zfz+duFvXA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.MeshGeometry3D.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.MeshGeometry3D.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.MeshGeometry3D",
           "hash": "a90S5LFd9m2YXB+sPTpFqw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.TriangleIndices.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.TriangleIndices.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.TriangleIndices",
           "hash": "Pw4UiAGkCwr4J2dpudTSwQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.VertexSoup-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.VertexSoup-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.VertexSoup-1",
           "hash": "2klv0bDk7QfH96/D8JnvVg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects.Util.IcoSphere",
           "hash": "zFKwtY4ni67Wy3EQvYuqJA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Objects.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Objects.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Objects",
           "hash": "nkxqPl341gGuoLX1WScM0g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.AxPrimitiveType.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.AxPrimitiveType.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.AxPrimitiveType",
           "hash": "5jZ0iFU/P2+qIgz/C4i19g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.BindingPoint.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.BindingPoint.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.BindingPoint",
           "hash": "02PEiMu8juimaOUuoyWfjg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.BufferObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.BufferObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.BufferObject",
           "hash": "5NMROjFP89QD6/8H+3ITug=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.DynamicInternalMesh.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.DynamicInternalMesh.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.DynamicInternalMesh",
           "hash": "hE9LDYJGGjvoJ2/Uo0XV+A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.ElementsBufferObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.ElementsBufferObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.ElementsBufferObject",
           "hash": "lAWY4XucAZubOMpwyYygPQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.FlushRenderBackend.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.FlushRenderBackend.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.FlushRenderBackend",
           "hash": "xCiiHtDh1G2STn9JOlSAxg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.FrameBuffer.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.FrameBuffer.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.FrameBuffer",
           "hash": "wGs2hpVIG4YCBKijVxnnZQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.GraphicsTexture.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.GraphicsTexture.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.GraphicsTexture",
           "hash": "ygrvXdS/452/Is5vbNM1KA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.IObjectHandle.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.IObjectHandle.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.IObjectHandle",
           "hash": "CVY6WQtwS/BcmZns71CKcg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.IObjectIdentifier.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.IObjectIdentifier.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.IObjectIdentifier",
           "hash": "ejOX0n43CLx0/y/4UuqcNQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.IObjectLabel.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.IObjectLabel.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.IObjectLabel",
           "hash": "spmXG/Ifp/dDT587zXtyXQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.InternalLightManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.InternalLightManager.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.InternalLightManager",
           "hash": "ljkX7qW8ZC3S77jkgbvjfQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.InternalMesh.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.InternalMesh.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.InternalMesh",
           "hash": "5uen9QJ7zTl1K+0VpjshOw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.InternalTextureManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.InternalTextureManager.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.InternalTextureManager",
           "hash": "fFQTgvoNBAyKjdwLSYLgiw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.MeshData-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.MeshData-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.MeshData-1",
           "hash": "YqQ68aOXBigIj1cIJOZDSw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.MeshData.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.MeshData.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.MeshData",
           "hash": "Wwg/ClWzqxef/q44B6KJlQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.MeshDataBuilder.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.MeshDataBuilder.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.MeshDataBuilder",
           "hash": "A4uiXYy/z87+oZzUuqdmzg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.ObjectManager.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.ObjectManager.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.ObjectManager",
           "hash": "qKXQRB+2r+A9sez7qke1bg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.RenderBuffer.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.RenderBuffer.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.RenderBuffer",
           "hash": "3yPTPyrWeUxv0OfJ/n+G0w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.Shader.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.Shader.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.Shader",
           "hash": "i18+gyD13LmHEvmwg3Xdzg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.ShaderCompilation.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.ShaderCompilation.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.ShaderCompilation",
           "hash": "G4D0uV9GZTLZ+PzPewi84w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.ShaderSource.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.ShaderSource.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.ShaderSource",
           "hash": "UFh1t1dcYP4Gj5oOrkhvzQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.StaticInternalMesh.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.StaticInternalMesh.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.StaticInternalMesh",
           "hash": "WBZrlqM7bznmOk0UMRCojw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.StructHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.StructHelper.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.StructHelper",
           "hash": "igQa4r9nFOEl3faYcDVwjA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.Texture.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.Texture.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.Texture",
           "hash": "+0mdS28SFQ9wRjFhxDJUXQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.UniformBufferObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.UniformBufferObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.UniformBufferObject",
           "hash": "wcGD/Yo9IEtLGirqLiDQDA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexArrayObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexArrayObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexArrayObject",
           "hash": "Ay59dRql+W1L8Mp2a5i6BQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexBufferObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexBufferObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexBufferObject",
           "hash": "sLV2RTt/xHOh6LfJSyl2UQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBinded.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBinded.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBinded",
           "hash": "BVN9bEsgzg/ip/8zXvPHRw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute",
           "hash": "7hJa92G3M7WaZAinHk6MZg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinition.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinition.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinition",
           "hash": "x2/wSx73A/Qv4ZfMuyQuyw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute",
           "hash": "IRUZ1o8qFx23NlhKVKvLeA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OpenGL.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OpenGL.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OpenGL",
           "hash": "OVoo1XC9Ass+9tGsIAADXg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.OrthographicCamera.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.OrthographicCamera.html",
+        "": {
+          "relative_path": "api/Aximo.Render.OrthographicCamera",
           "hash": "WMRHRa5eX3rreWS1qVATOg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.PerspectiveFieldOfViewCamera.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.PerspectiveFieldOfViewCamera.html",
+        "": {
+          "relative_path": "api/Aximo.Render.PerspectiveFieldOfViewCamera",
           "hash": "R34+Vs3lFLUrkVmLlNJxxA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.DeferredPass.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.DeferredPass.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.DeferredPass",
           "hash": "I2yvV227WyUu9XmjdiUfwg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.DeferredRenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.DeferredRenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.DeferredRenderPipeline",
           "hash": "ur43e6dd7koqYHIjjmGrUw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.DirectionalShadowRenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.DirectionalShadowRenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.DirectionalShadowRenderPipeline",
           "hash": "nLRC1QD6oj923a4jwW+wLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.ForwardRenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.ForwardRenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.ForwardRenderPipeline",
           "hash": "fnphd0oRUuvZO3cPGXe5Aw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.IRenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.IRenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.IRenderPipeline",
           "hash": "y9R7W43D5IKQrH7/QuJG/g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.PointShadowRenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.PointShadowRenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.PointShadowRenderPipeline",
           "hash": "dhQRws/UYqm5gsiVwitc0g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.RenderPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.RenderPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.RenderPipeline",
           "hash": "j4b4tDkfZVrKOlMmrdoocQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.ScreenPipeline.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.ScreenPipeline.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines.ScreenPipeline",
           "hash": "jAh3Ff3aTcIdxoM3wpx09A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Pipelines.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Pipelines.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Pipelines",
           "hash": "jqkAVNX5CyMcvgr/9p6EIg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.PixelFormatExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.PixelFormatExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.Render.PixelFormatExtensions",
           "hash": "HaT8Y9+tP3jh8YXydLQZmg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.PrimitiveObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.PrimitiveObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.PrimitiveObject",
           "hash": "ux6ynb/Sk3ndC/EFjtObmg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.RenderContext.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.RenderContext.html",
+        "": {
+          "relative_path": "api/Aximo.Render.RenderContext",
           "hash": "XMc4lOtySSsNdyWjaD7PyA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.Renderer.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.Renderer.html",
+        "": {
+          "relative_path": "api/Aximo.Render.Renderer",
           "hash": "PEN9U8ryTRIKOG3jH+wXKA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.ScreenTextureObject.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.ScreenTextureObject.html",
+        "": {
+          "relative_path": "api/Aximo.Render.ScreenTextureObject",
           "hash": "uB3wH2GvWHxAQce4ZwUT9g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.SlotAllocator-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.SlotAllocator-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.SlotAllocator-1",
           "hash": "oKJ3KwzD33iH2I/FiRiySQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.EngineExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.EngineExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.EngineExtensions",
           "hash": "JaNjro6B8aocl/D7yO8wcQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IPrimitive-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IPrimitive-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IPrimitive-1",
           "hash": "bIPB3aYRCxZWoOtIjJ0O8A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IPrimitive.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IPrimitive.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IPrimitive",
           "hash": "/JwA8//ypYKW265OPSNtKA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertex.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertex.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertex",
           "hash": "XdR3tdIzpRXL5LB+G3eceg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexColor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexColor.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexColor",
           "hash": "5N4c9ahGdAyIH/o5d3CUFg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexNormal.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexNormal.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexNormal",
           "hash": "2STTexyco4hRWkr6xVO7yQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPos2UV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPos2UV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPos2UV",
           "hash": "K3rHZJU0Vzn6xFnHgDdILg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosColor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosColor.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosColor",
           "hash": "FyNYK/ee7WegT+4kWUrlMQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalColor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalColor.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalColor",
           "hash": "R9KzrhDjRGsS8Zw2m9rIwQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalUV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalUV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosNormalUV",
           "hash": "knDocUY27nlAdZwrOlMGyw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosUV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosUV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosUV",
           "hash": "B8C2i3f2TeZqZGM2F525Sg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosition-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition-1",
           "hash": "AAs3kxHhJg9kxhk9sWDAKw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosition2.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition2.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition2",
           "hash": "QeDV/w2Drz7jZHCOiGvb2w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexPosition3.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition3.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexPosition3",
           "hash": "AifyxMa+eY24IGMmkXXYog=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.IVertexUV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.IVertexUV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.IVertexUV",
           "hash": "TzV/oDSQKe6zpiPewanXfA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.Line-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.Line-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.Line-1",
           "hash": "BShxgOMZMu4AFc1fEzUuFA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.Polygon-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.Polygon-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.Polygon-1",
           "hash": "7x77yI9vfu+NdQ6z5YyKlg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.Quad-1.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.Quad-1.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.Quad-1",
           "hash": "eNfATHG1if3EYwUxBpax2Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPos.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos",
           "hash": "P9qSC4Sma/TLCnI4UVSrSA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPos2.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos2.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos2",
           "hash": "rSHSHA1U8NL85YmT29XPkQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPos2UV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos2UV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPos2UV",
           "hash": "8muvxAxo/yN/CvwK+iwiBg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPosColor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosColor.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosColor",
           "hash": "+Bsw4UdViQJ/TBBl02KJJg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalColor.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalColor.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalColor",
           "hash": "/xiPy3IbyGQMqgUpBmE0mw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalUV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalUV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosNormalUV",
           "hash": "IBkcojTbJLtkhCQbVNEEyg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.VertexDataPosUV.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosUV.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData.VertexDataPosUV",
           "hash": "3WnvZuEhLRwSbGG4zu0bNA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.VertexData.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.VertexData.html",
+        "": {
+          "relative_path": "api/Aximo.Render.VertexData",
           "hash": "KaSYg1sItCy9gxB3ggLbbA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Render.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Render.html",
+        "": {
+          "relative_path": "api/Aximo.Render",
           "hash": "xpWxnWsF7JO4a6WY2XREiQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.ScreenResizeEventArgs.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.ScreenResizeEventArgs.html",
+        "": {
+          "relative_path": "api/Aximo.ScreenResizeEventArgs",
           "hash": "1l4k+tEOC4Ny8bCbP/M1zg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.SharedLib.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.SharedLib.html",
+        "": {
+          "relative_path": "api/Aximo.SharedLib",
           "hash": "0+NOnTghjzz/z8cJeMYxDg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.StringExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.StringExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.StringExtensions",
           "hash": "4DbeChtmxHUxJ1A2zlyDnQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.Transform.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Transform.html",
+        "": {
+          "relative_path": "api/Aximo.Transform",
           "hash": "863zWsVXriiFv+i6EjX9Aw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.VectorExtensions.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.VectorExtensions.html",
+        "": {
+          "relative_path": "api/Aximo.VectorExtensions",
           "hash": "SVNW8zACjyb8rzIp+HLGig=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.VectorHelper.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.VectorHelper.html",
+        "": {
+          "relative_path": "api/Aximo.VectorHelper",
           "hash": "LZepi04Xu1DH+IxBc9M4ww=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/Aximo.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/Aximo.html",
+        "": {
+          "relative_path": "api/Aximo",
           "hash": "w+DaFej1V126vUFmnWWHCQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/OpenToolkit.Mathematics.AntiVector4d.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/OpenToolkit.Mathematics.AntiVector4d.html",
+        "": {
+          "relative_path": "api/OpenToolkit.Mathematics.AntiVector4d",
           "hash": "ZfN0El5eLytkAhdnbQS1XA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/OpenToolkit.Mathematics.BiVector3d.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/OpenToolkit.Mathematics.BiVector3d.html",
+        "": {
+          "relative_path": "api/OpenToolkit.Mathematics.BiVector3d",
           "hash": "HSOMFKKdK4co+WLC4D6wOA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/OpenToolkit.Mathematics.BiVector4d.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/OpenToolkit.Mathematics.BiVector4d.html",
+        "": {
+          "relative_path": "api/OpenToolkit.Mathematics.BiVector4d",
           "hash": "9NJw5FiTssUwCYAkxjY06w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/OpenToolkit.Mathematics.Rotor3.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/OpenToolkit.Mathematics.Rotor3.html",
+        "": {
+          "relative_path": "api/OpenToolkit.Mathematics.Rotor3",
           "hash": "/8R49RNPFOjx65Gn9tZUIA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
       "source_relative_path": "api/OpenToolkit.Mathematics.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/OpenToolkit.Mathematics.html",
+        "": {
+          "relative_path": "api/OpenToolkit.Mathematics",
           "hash": "q6uc8M23juNVuIP5SCRh+g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
-        ".html": {
-          "relative_path": "api/index.html",
+        "": {
+          "relative_path": "api/",
           "hash": "iv+s/6+ePTRI61TE1OHxLg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
-        ".html": {
-          "relative_path": "articles/intro.html",
+        "": {
+          "relative_path": "articles/intro",
           "hash": "vdtB/60lHweXGfx8Gb631g=="
         }
       },
@@ -3010,12 +3010,12 @@
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
-        ".html": {
-          "relative_path": "index.html",
+        "": {
+          "relative_path": "",
           "hash": "DmBqadS00xlTDqdo+j5vLw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     }
   ],
@@ -3032,13 +3032,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 2
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 248,
-          "skipped_file_count": 245
+          "skipped_file_count": 219
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
