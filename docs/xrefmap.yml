@@ -7,6 +7,180 @@ references:
   commentId: N:Aximo
   fullName: Aximo
   nameWithType: Aximo
+- uid: Aximo.AssetManager
+  name: AssetManager
+  href: api/Aximo.AssetManager.html
+  commentId: T:Aximo.AssetManager
+  fullName: Aximo.AssetManager
+  nameWithType: AssetManager
+- uid: Aximo.AssetManager.AddFileGenerator(Aximo.GenerateFileDelegate)
+  name: AddFileGenerator(GenerateFileDelegate)
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AddFileGenerator_Aximo_GenerateFileDelegate_
+  commentId: M:Aximo.AssetManager.AddFileGenerator(Aximo.GenerateFileDelegate)
+  fullName: Aximo.AssetManager.AddFileGenerator(Aximo.GenerateFileDelegate)
+  nameWithType: AssetManager.AddFileGenerator(GenerateFileDelegate)
+- uid: Aximo.AssetManager.AddFileGenerator(System.String,Aximo.GenerateFileDelegate)
+  name: AddFileGenerator(String, GenerateFileDelegate)
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AddFileGenerator_System_String_Aximo_GenerateFileDelegate_
+  commentId: M:Aximo.AssetManager.AddFileGenerator(System.String,Aximo.GenerateFileDelegate)
+  fullName: Aximo.AssetManager.AddFileGenerator(System.String, Aximo.GenerateFileDelegate)
+  nameWithType: AssetManager.AddFileGenerator(String, GenerateFileDelegate)
+- uid: Aximo.AssetManager.AddFileGenerator*
+  name: AddFileGenerator
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AddFileGenerator_
+  commentId: Overload:Aximo.AssetManager.AddFileGenerator
+  isSpec: "True"
+  fullName: Aximo.AssetManager.AddFileGenerator
+  nameWithType: AssetManager.AddFileGenerator
+- uid: Aximo.AssetManager.AppCacheDir
+  name: AppCacheDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppCacheDir
+  commentId: P:Aximo.AssetManager.AppCacheDir
+  fullName: Aximo.AssetManager.AppCacheDir
+  nameWithType: AssetManager.AppCacheDir
+- uid: Aximo.AssetManager.AppCacheDir*
+  name: AppCacheDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppCacheDir_
+  commentId: Overload:Aximo.AssetManager.AppCacheDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.AppCacheDir
+  nameWithType: AssetManager.AppCacheDir
+- uid: Aximo.AssetManager.AppRootDir
+  name: AppRootDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppRootDir
+  commentId: P:Aximo.AssetManager.AppRootDir
+  fullName: Aximo.AssetManager.AppRootDir
+  nameWithType: AssetManager.AppRootDir
+- uid: Aximo.AssetManager.AppRootDir*
+  name: AppRootDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppRootDir_
+  commentId: Overload:Aximo.AssetManager.AppRootDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.AppRootDir
+  nameWithType: AssetManager.AppRootDir
+- uid: Aximo.AssetManager.AppSourceDir
+  name: AppSourceDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppSourceDir
+  commentId: P:Aximo.AssetManager.AppSourceDir
+  fullName: Aximo.AssetManager.AppSourceDir
+  nameWithType: AssetManager.AppSourceDir
+- uid: Aximo.AssetManager.AppSourceDir*
+  name: AppSourceDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AppSourceDir_
+  commentId: Overload:Aximo.AssetManager.AppSourceDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.AppSourceDir
+  nameWithType: AssetManager.AppSourceDir
+- uid: Aximo.AssetManager.AssemblyName
+  name: AssemblyName
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AssemblyName
+  commentId: P:Aximo.AssetManager.AssemblyName
+  fullName: Aximo.AssetManager.AssemblyName
+  nameWithType: AssetManager.AssemblyName
+- uid: Aximo.AssetManager.AssemblyName*
+  name: AssemblyName
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_AssemblyName_
+  commentId: Overload:Aximo.AssetManager.AssemblyName
+  isSpec: "True"
+  fullName: Aximo.AssetManager.AssemblyName
+  nameWithType: AssetManager.AssemblyName
+- uid: Aximo.AssetManager.BinDir
+  name: BinDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_BinDir
+  commentId: P:Aximo.AssetManager.BinDir
+  fullName: Aximo.AssetManager.BinDir
+  nameWithType: AssetManager.BinDir
+- uid: Aximo.AssetManager.BinDir*
+  name: BinDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_BinDir_
+  commentId: Overload:Aximo.AssetManager.BinDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.BinDir
+  nameWithType: AssetManager.BinDir
+- uid: Aximo.AssetManager.EngineRootDir
+  name: EngineRootDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_EngineRootDir
+  commentId: P:Aximo.AssetManager.EngineRootDir
+  fullName: Aximo.AssetManager.EngineRootDir
+  nameWithType: AssetManager.EngineRootDir
+- uid: Aximo.AssetManager.EngineRootDir*
+  name: EngineRootDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_EngineRootDir_
+  commentId: Overload:Aximo.AssetManager.EngineRootDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.EngineRootDir
+  nameWithType: AssetManager.EngineRootDir
+- uid: Aximo.AssetManager.GetAssetsPath(System.String)
+  name: GetAssetsPath(String)
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_GetAssetsPath_System_String_
+  commentId: M:Aximo.AssetManager.GetAssetsPath(System.String)
+  fullName: Aximo.AssetManager.GetAssetsPath(System.String)
+  nameWithType: AssetManager.GetAssetsPath(String)
+- uid: Aximo.AssetManager.GetAssetsPath(System.String,System.Object)
+  name: GetAssetsPath(String, Object)
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_GetAssetsPath_System_String_System_Object_
+  commentId: M:Aximo.AssetManager.GetAssetsPath(System.String,System.Object)
+  fullName: Aximo.AssetManager.GetAssetsPath(System.String, System.Object)
+  nameWithType: AssetManager.GetAssetsPath(String, Object)
+- uid: Aximo.AssetManager.GetAssetsPath*
+  name: GetAssetsPath
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_GetAssetsPath_
+  commentId: Overload:Aximo.AssetManager.GetAssetsPath
+  isSpec: "True"
+  fullName: Aximo.AssetManager.GetAssetsPath
+  nameWithType: AssetManager.GetAssetsPath
+- uid: Aximo.AssetManager.LibsDir
+  name: LibsDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_LibsDir
+  commentId: P:Aximo.AssetManager.LibsDir
+  fullName: Aximo.AssetManager.LibsDir
+  nameWithType: AssetManager.LibsDir
+- uid: Aximo.AssetManager.LibsDir*
+  name: LibsDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_LibsDir_
+  commentId: Overload:Aximo.AssetManager.LibsDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.LibsDir
+  nameWithType: AssetManager.LibsDir
+- uid: Aximo.AssetManager.NativeRuntimeDir
+  name: NativeRuntimeDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_NativeRuntimeDir
+  commentId: P:Aximo.AssetManager.NativeRuntimeDir
+  fullName: Aximo.AssetManager.NativeRuntimeDir
+  nameWithType: AssetManager.NativeRuntimeDir
+- uid: Aximo.AssetManager.NativeRuntimeDir*
+  name: NativeRuntimeDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_NativeRuntimeDir_
+  commentId: Overload:Aximo.AssetManager.NativeRuntimeDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.NativeRuntimeDir
+  nameWithType: AssetManager.NativeRuntimeDir
+- uid: Aximo.AssetManager.ResetFileGenerator
+  name: ResetFileGenerator()
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_ResetFileGenerator
+  commentId: M:Aximo.AssetManager.ResetFileGenerator
+  fullName: Aximo.AssetManager.ResetFileGenerator()
+  nameWithType: AssetManager.ResetFileGenerator()
+- uid: Aximo.AssetManager.ResetFileGenerator*
+  name: ResetFileGenerator
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_ResetFileGenerator_
+  commentId: Overload:Aximo.AssetManager.ResetFileGenerator
+  isSpec: "True"
+  fullName: Aximo.AssetManager.ResetFileGenerator
+  nameWithType: AssetManager.ResetFileGenerator
+- uid: Aximo.AssetManager.SearchDirectories
+  name: SearchDirectories
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_SearchDirectories
+  commentId: P:Aximo.AssetManager.SearchDirectories
+  fullName: Aximo.AssetManager.SearchDirectories
+  nameWithType: AssetManager.SearchDirectories
+- uid: Aximo.AssetManager.SearchDirectories*
+  name: SearchDirectories
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_SearchDirectories_
+  commentId: Overload:Aximo.AssetManager.SearchDirectories
+  isSpec: "True"
+  fullName: Aximo.AssetManager.SearchDirectories
+  nameWithType: AssetManager.SearchDirectories
 - uid: Aximo.AxMath
   name: AxMath
   href: api/Aximo.AxMath.html
@@ -1328,180 +1502,6 @@ references:
   fullName.vb: Aximo.DictionaryExtensions.TryAdd(Of TKey, TValue)(System.Collections.Generic.IDictionary(Of TKey, TValue), TKey, TValue)
   nameWithType: DictionaryExtensions.TryAdd<TKey, TValue>(IDictionary<TKey, TValue>, TKey, TValue)
   nameWithType.vb: DictionaryExtensions.TryAdd(Of TKey, TValue)(IDictionary(Of TKey, TValue), TKey, TValue)
-- uid: Aximo.DirectoryHelper
-  name: DirectoryHelper
-  href: api/Aximo.DirectoryHelper.html
-  commentId: T:Aximo.DirectoryHelper
-  fullName: Aximo.DirectoryHelper
-  nameWithType: DirectoryHelper
-- uid: Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
-  name: AddFileGenerator(GenerateFileDelegate)
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AddFileGenerator_Aximo_GenerateFileDelegate_
-  commentId: M:Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
-  fullName: Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
-  nameWithType: DirectoryHelper.AddFileGenerator(GenerateFileDelegate)
-- uid: Aximo.DirectoryHelper.AddFileGenerator(System.String,Aximo.GenerateFileDelegate)
-  name: AddFileGenerator(String, GenerateFileDelegate)
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AddFileGenerator_System_String_Aximo_GenerateFileDelegate_
-  commentId: M:Aximo.DirectoryHelper.AddFileGenerator(System.String,Aximo.GenerateFileDelegate)
-  fullName: Aximo.DirectoryHelper.AddFileGenerator(System.String, Aximo.GenerateFileDelegate)
-  nameWithType: DirectoryHelper.AddFileGenerator(String, GenerateFileDelegate)
-- uid: Aximo.DirectoryHelper.AddFileGenerator*
-  name: AddFileGenerator
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AddFileGenerator_
-  commentId: Overload:Aximo.DirectoryHelper.AddFileGenerator
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.AddFileGenerator
-  nameWithType: DirectoryHelper.AddFileGenerator
-- uid: Aximo.DirectoryHelper.AppCacheDir
-  name: AppCacheDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppCacheDir
-  commentId: P:Aximo.DirectoryHelper.AppCacheDir
-  fullName: Aximo.DirectoryHelper.AppCacheDir
-  nameWithType: DirectoryHelper.AppCacheDir
-- uid: Aximo.DirectoryHelper.AppCacheDir*
-  name: AppCacheDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppCacheDir_
-  commentId: Overload:Aximo.DirectoryHelper.AppCacheDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.AppCacheDir
-  nameWithType: DirectoryHelper.AppCacheDir
-- uid: Aximo.DirectoryHelper.AppRootDir
-  name: AppRootDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppRootDir
-  commentId: P:Aximo.DirectoryHelper.AppRootDir
-  fullName: Aximo.DirectoryHelper.AppRootDir
-  nameWithType: DirectoryHelper.AppRootDir
-- uid: Aximo.DirectoryHelper.AppRootDir*
-  name: AppRootDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppRootDir_
-  commentId: Overload:Aximo.DirectoryHelper.AppRootDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.AppRootDir
-  nameWithType: DirectoryHelper.AppRootDir
-- uid: Aximo.DirectoryHelper.AppSourceDir
-  name: AppSourceDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppSourceDir
-  commentId: P:Aximo.DirectoryHelper.AppSourceDir
-  fullName: Aximo.DirectoryHelper.AppSourceDir
-  nameWithType: DirectoryHelper.AppSourceDir
-- uid: Aximo.DirectoryHelper.AppSourceDir*
-  name: AppSourceDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AppSourceDir_
-  commentId: Overload:Aximo.DirectoryHelper.AppSourceDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.AppSourceDir
-  nameWithType: DirectoryHelper.AppSourceDir
-- uid: Aximo.DirectoryHelper.AssemblyName
-  name: AssemblyName
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AssemblyName
-  commentId: P:Aximo.DirectoryHelper.AssemblyName
-  fullName: Aximo.DirectoryHelper.AssemblyName
-  nameWithType: DirectoryHelper.AssemblyName
-- uid: Aximo.DirectoryHelper.AssemblyName*
-  name: AssemblyName
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AssemblyName_
-  commentId: Overload:Aximo.DirectoryHelper.AssemblyName
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.AssemblyName
-  nameWithType: DirectoryHelper.AssemblyName
-- uid: Aximo.DirectoryHelper.BinDir
-  name: BinDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_BinDir
-  commentId: P:Aximo.DirectoryHelper.BinDir
-  fullName: Aximo.DirectoryHelper.BinDir
-  nameWithType: DirectoryHelper.BinDir
-- uid: Aximo.DirectoryHelper.BinDir*
-  name: BinDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_BinDir_
-  commentId: Overload:Aximo.DirectoryHelper.BinDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.BinDir
-  nameWithType: DirectoryHelper.BinDir
-- uid: Aximo.DirectoryHelper.EngineRootDir
-  name: EngineRootDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_EngineRootDir
-  commentId: P:Aximo.DirectoryHelper.EngineRootDir
-  fullName: Aximo.DirectoryHelper.EngineRootDir
-  nameWithType: DirectoryHelper.EngineRootDir
-- uid: Aximo.DirectoryHelper.EngineRootDir*
-  name: EngineRootDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_EngineRootDir_
-  commentId: Overload:Aximo.DirectoryHelper.EngineRootDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.EngineRootDir
-  nameWithType: DirectoryHelper.EngineRootDir
-- uid: Aximo.DirectoryHelper.GetAssetsPath(System.String)
-  name: GetAssetsPath(String)
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_GetAssetsPath_System_String_
-  commentId: M:Aximo.DirectoryHelper.GetAssetsPath(System.String)
-  fullName: Aximo.DirectoryHelper.GetAssetsPath(System.String)
-  nameWithType: DirectoryHelper.GetAssetsPath(String)
-- uid: Aximo.DirectoryHelper.GetAssetsPath(System.String,System.Object)
-  name: GetAssetsPath(String, Object)
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_GetAssetsPath_System_String_System_Object_
-  commentId: M:Aximo.DirectoryHelper.GetAssetsPath(System.String,System.Object)
-  fullName: Aximo.DirectoryHelper.GetAssetsPath(System.String, System.Object)
-  nameWithType: DirectoryHelper.GetAssetsPath(String, Object)
-- uid: Aximo.DirectoryHelper.GetAssetsPath*
-  name: GetAssetsPath
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_GetAssetsPath_
-  commentId: Overload:Aximo.DirectoryHelper.GetAssetsPath
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.GetAssetsPath
-  nameWithType: DirectoryHelper.GetAssetsPath
-- uid: Aximo.DirectoryHelper.LibsDir
-  name: LibsDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_LibsDir
-  commentId: P:Aximo.DirectoryHelper.LibsDir
-  fullName: Aximo.DirectoryHelper.LibsDir
-  nameWithType: DirectoryHelper.LibsDir
-- uid: Aximo.DirectoryHelper.LibsDir*
-  name: LibsDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_LibsDir_
-  commentId: Overload:Aximo.DirectoryHelper.LibsDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.LibsDir
-  nameWithType: DirectoryHelper.LibsDir
-- uid: Aximo.DirectoryHelper.NativeRuntimeDir
-  name: NativeRuntimeDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_NativeRuntimeDir
-  commentId: P:Aximo.DirectoryHelper.NativeRuntimeDir
-  fullName: Aximo.DirectoryHelper.NativeRuntimeDir
-  nameWithType: DirectoryHelper.NativeRuntimeDir
-- uid: Aximo.DirectoryHelper.NativeRuntimeDir*
-  name: NativeRuntimeDir
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_NativeRuntimeDir_
-  commentId: Overload:Aximo.DirectoryHelper.NativeRuntimeDir
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.NativeRuntimeDir
-  nameWithType: DirectoryHelper.NativeRuntimeDir
-- uid: Aximo.DirectoryHelper.ResetFileGenerator
-  name: ResetFileGenerator()
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_ResetFileGenerator
-  commentId: M:Aximo.DirectoryHelper.ResetFileGenerator
-  fullName: Aximo.DirectoryHelper.ResetFileGenerator()
-  nameWithType: DirectoryHelper.ResetFileGenerator()
-- uid: Aximo.DirectoryHelper.ResetFileGenerator*
-  name: ResetFileGenerator
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_ResetFileGenerator_
-  commentId: Overload:Aximo.DirectoryHelper.ResetFileGenerator
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.ResetFileGenerator
-  nameWithType: DirectoryHelper.ResetFileGenerator
-- uid: Aximo.DirectoryHelper.SearchDirectories
-  name: SearchDirectories
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_SearchDirectories
-  commentId: P:Aximo.DirectoryHelper.SearchDirectories
-  fullName: Aximo.DirectoryHelper.SearchDirectories
-  nameWithType: DirectoryHelper.SearchDirectories
-- uid: Aximo.DirectoryHelper.SearchDirectories*
-  name: SearchDirectories
-  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_SearchDirectories_
-  commentId: Overload:Aximo.DirectoryHelper.SearchDirectories
-  isSpec: "True"
-  fullName: Aximo.DirectoryHelper.SearchDirectories
-  nameWithType: DirectoryHelper.SearchDirectories
 - uid: Aximo.Engine
   name: Aximo.Engine
   href: api/Aximo.Engine.html
@@ -4537,6 +4537,56 @@ references:
   commentId: F:Aximo.Engine.GameShader.VertexShaderPath
   fullName: Aximo.Engine.GameShader.VertexShaderPath
   nameWithType: GameShader.VertexShaderPath
+- uid: Aximo.Engine.GameStartup
+  name: GameStartup
+  href: api/Aximo.Engine.GameStartup.html
+  commentId: T:Aximo.Engine.GameStartup
+  fullName: Aximo.Engine.GameStartup
+  nameWithType: GameStartup
+- uid: Aximo.Engine.GameStartup.Dispose
+  name: Dispose()
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Dispose
+  commentId: M:Aximo.Engine.GameStartup.Dispose
+  fullName: Aximo.Engine.GameStartup.Dispose()
+  nameWithType: GameStartup.Dispose()
+- uid: Aximo.Engine.GameStartup.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Dispose_System_Boolean_
+  commentId: M:Aximo.Engine.GameStartup.Dispose(System.Boolean)
+  fullName: Aximo.Engine.GameStartup.Dispose(System.Boolean)
+  nameWithType: GameStartup.Dispose(Boolean)
+- uid: Aximo.Engine.GameStartup.Dispose*
+  name: Dispose
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Dispose_
+  commentId: Overload:Aximo.Engine.GameStartup.Dispose
+  isSpec: "True"
+  fullName: Aximo.Engine.GameStartup.Dispose
+  nameWithType: GameStartup.Dispose
+- uid: Aximo.Engine.GameStartup.Start*
+  name: Start
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Start_
+  commentId: Overload:Aximo.Engine.GameStartup.Start
+  isSpec: "True"
+  fullName: Aximo.Engine.GameStartup.Start
+  nameWithType: GameStartup.Start
+- uid: Aximo.Engine.GameStartup.Start``1
+  name: Start<TApp>()
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Start__1
+  commentId: M:Aximo.Engine.GameStartup.Start``1
+  name.vb: Start(Of TApp)()
+  fullName: Aximo.Engine.GameStartup.Start<TApp>()
+  fullName.vb: Aximo.Engine.GameStartup.Start(Of TApp)()
+  nameWithType: GameStartup.Start<TApp>()
+  nameWithType.vb: GameStartup.Start(Of TApp)()
+- uid: Aximo.Engine.GameStartup.Start``1(Aximo.Engine.RenderApplicationConfig)
+  name: Start<TApp>(RenderApplicationConfig)
+  href: api/Aximo.Engine.GameStartup.html#Aximo_Engine_GameStartup_Start__1_Aximo_Engine_RenderApplicationConfig_
+  commentId: M:Aximo.Engine.GameStartup.Start``1(Aximo.Engine.RenderApplicationConfig)
+  name.vb: Start(Of TApp)(RenderApplicationConfig)
+  fullName: Aximo.Engine.GameStartup.Start<TApp>(Aximo.Engine.RenderApplicationConfig)
+  fullName.vb: Aximo.Engine.GameStartup.Start(Of TApp)(Aximo.Engine.RenderApplicationConfig)
+  nameWithType: GameStartup.Start<TApp>(RenderApplicationConfig)
+  nameWithType.vb: GameStartup.Start(Of TApp)(RenderApplicationConfig)
 - uid: Aximo.Engine.GameStartup`1
   name: GameStartup<TApp>
   href: api/Aximo.Engine.GameStartup-1.html
@@ -4546,6 +4596,14 @@ references:
   fullName.vb: Aximo.Engine.GameStartup(Of TApp)
   nameWithType: GameStartup<TApp>
   nameWithType.vb: GameStartup(Of TApp)
+- uid: Aximo.Engine.GameStartup`1.#ctor
+  name: GameStartup()
+  href: api/Aximo.Engine.GameStartup-1.html#Aximo_Engine_GameStartup_1__ctor
+  commentId: M:Aximo.Engine.GameStartup`1.#ctor
+  fullName: Aximo.Engine.GameStartup<TApp>.GameStartup()
+  fullName.vb: Aximo.Engine.GameStartup(Of TApp).GameStartup()
+  nameWithType: GameStartup<TApp>.GameStartup()
+  nameWithType.vb: GameStartup(Of TApp).GameStartup()
 - uid: Aximo.Engine.GameStartup`1.#ctor(Aximo.Engine.RenderApplicationConfig)
   name: GameStartup(RenderApplicationConfig)
   href: api/Aximo.Engine.GameStartup-1.html#Aximo_Engine_GameStartup_1__ctor_Aximo_Engine_RenderApplicationConfig_
@@ -4563,14 +4621,6 @@ references:
   fullName.vb: Aximo.Engine.GameStartup(Of TApp).GameStartup
   nameWithType: GameStartup<TApp>.GameStartup
   nameWithType.vb: GameStartup(Of TApp).GameStartup
-- uid: Aximo.Engine.GameStartup`1.Dispose
-  name: Dispose()
-  href: api/Aximo.Engine.GameStartup-1.html#Aximo_Engine_GameStartup_1_Dispose
-  commentId: M:Aximo.Engine.GameStartup`1.Dispose
-  fullName: Aximo.Engine.GameStartup<TApp>.Dispose()
-  fullName.vb: Aximo.Engine.GameStartup(Of TApp).Dispose()
-  nameWithType: GameStartup<TApp>.Dispose()
-  nameWithType.vb: GameStartup(Of TApp).Dispose()
 - uid: Aximo.Engine.GameStartup`1.Dispose(System.Boolean)
   name: Dispose(Boolean)
   href: api/Aximo.Engine.GameStartup-1.html#Aximo_Engine_GameStartup_1_Dispose_System_Boolean_

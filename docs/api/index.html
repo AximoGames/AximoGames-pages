@@ -85,6 +85,9 @@
                         
                         <ul class="nav level2">
                           <li class="">
+                            <a href="Aximo.AssetManager" title="AssetManager" class="">AssetManager</a>
+                          </li>
+                          <li class="">
                             <a href="Aximo.AxMath" title="AxMath" class="">AxMath</a>
                           </li>
                           <li class="">
@@ -122,9 +125,6 @@
                           </li>
                           <li class="">
                             <a href="Aximo.DictionaryExtensions" title="DictionaryExtensions" class="">DictionaryExtensions</a>
-                          </li>
-                          <li class="">
-                            <a href="Aximo.DirectoryHelper" title="DirectoryHelper" class="">DirectoryHelper</a>
                           </li>
                           <li class="">
                             <a href="Aximo.EventCounter" title="EventCounter" class="">EventCounter</a>
@@ -290,6 +290,9 @@
                           </li>
                           <li class="">
                             <a href="Aximo.Engine.GameShader" title="GameShader" class="">GameShader</a>
+                          </li>
+                          <li class="">
+                            <a href="Aximo.Engine.GameStartup" title="GameStartup" class="">GameStartup</a>
                           </li>
                           <li class="">
                             <a href="Aximo.Engine.GameStartup-2" title="GameStartup&lt;TApp, TGtk&gt;" class="">GameStartup&lt;TApp, TGtk&gt;</a>
@@ -887,6 +890,15 @@ using Aximo.Engine;
 using Aximo.Engine.Components.Geometry;
 using Aximo.Engine.Components.Lights;
 using OpenToolkit.Mathematics;
+using OpenToolkit.Windowing.Common;
+
+internal class Program
+{
+    public static void Main(string[] args)
+    {
+        GameStartup.Start&lt;MyApplication&gt;();
+    }
+}
 
 public class MyApplication : RenderApplication
 {
@@ -896,12 +908,14 @@ public class MyApplication : RenderApplication
 
     protected override void SetupScene()
     {
-        GameContext.AddActor(new Actor(new DirectionalLightComponent()
+        // it's not required, but we should have a least one light.
+        GameContext.AddActor(new Actor(new PointLightComponent()
         {
-            RelativeTranslation = new Vector3(2f, -1.5f, 3.25f),
             Name = &quot;StaticLight&quot;,
+            RelativeTranslation = new Vector3(2f, -1.5f, 3.25f),
         }));
 
+        // add a cube
         GameContext.AddActor(new Actor(new CubeComponent()
         {
             Name = &quot;Box1&quot;,
@@ -916,28 +930,6 @@ public class MyApplication : RenderApplication
     }
 }
 </code></pre>
-<p>Now initialize the application:</p>
-<pre><code class="lang-c#">using Aximo.Engine;
-using OpenToolkit.Mathematics;
-using OpenToolkit.Windowing.Common;
-
-internal class Program
-{
-    public static void Main(string[] args)
-    {
-        var config = new RenderApplicationConfig
-        {
-            WindowTitle = &quot;Sample&quot;,
-            WindowSize = new Vector2i(800, 600),
-            VSync = VSyncMode.Off,
-            UseConsole = true,
-            IsMultiThreaded = true,
-        };
-
-        new GameStartup&lt;MyApplication&gt;(config).Start();
-    }
-}
-</code></pre>
 </article>
           </div>
           
@@ -946,7 +938,7 @@ internal class Program
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AximoGames/AxEngine/blob/master/Documentation/api/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Documentation/api/index.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

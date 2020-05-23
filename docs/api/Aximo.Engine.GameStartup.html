@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Interface IPrimitive
+    <title>Class GameStartup
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Interface IPrimitive
+    <meta name="title" content="Class GameStartup
    ">
     <meta name="generator" content="docfx 2.53.1.0">
     
@@ -293,8 +293,8 @@
                           <li class="">
                             <a href="Aximo.Engine.GameShader" title="GameShader" class="">GameShader</a>
                           </li>
-                          <li class="">
-                            <a href="Aximo.Engine.GameStartup" title="GameStartup" class="">GameStartup</a>
+                          <li class="active">
+                            <a href="Aximo.Engine.GameStartup" title="GameStartup" class="active">GameStartup</a>
                           </li>
                           <li class="">
                             <a href="Aximo.Engine.GameStartup-2" title="GameStartup&lt;TApp, TGtk&gt;" class="">GameStartup&lt;TApp, TGtk&gt;</a>
@@ -785,8 +785,8 @@
                           <li class="">
                             <a href="Aximo.Render.VertexData.EngineExtensions" title="EngineExtensions" class="">EngineExtensions</a>
                           </li>
-                          <li class="active">
-                            <a href="Aximo.Render.VertexData.IPrimitive" title="IPrimitive" class="active">IPrimitive</a>
+                          <li class="">
+                            <a href="Aximo.Render.VertexData.IPrimitive" title="IPrimitive" class="">IPrimitive</a>
                           </li>
                           <li class="">
                             <a href="Aximo.Render.VertexData.IPrimitive-1" title="IPrimitive&lt;TVertex&gt;" class="">IPrimitive&lt;TVertex&gt;</a>
@@ -883,67 +883,61 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Aximo.Render.VertexData.IPrimitive">
+            <article class="content wrap" id="_content" data-uid="Aximo.Engine.GameStartup">
   
   
-  <h1 id="Aximo_Render_VertexData_IPrimitive" data-uid="Aximo.Render.VertexData.IPrimitive" class="text-break">Interface IPrimitive
+  <h1 id="Aximo_Engine_GameStartup" data-uid="Aximo.Engine.GameStartup" class="text-break">Class GameStartup
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Wrapper to start the <a class="xref" href="Aximo.Engine.RenderApplication">RenderApplication</a>. Takes care about thread ownership.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Aximo.Render.VertexData">Aximo.Render.VertexData</a></h6>
-  <h6><strong>Assembly</strong>: Aximo.Render.dll</h6>
-  <h5 id="Aximo_Render_VertexData_IPrimitive_syntax">Syntax</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public interface IPrimitive</code></pre>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">GameStartup</span></div>
+      <div class="level2"><a class="xref" href="Aximo.Engine.GameStartup-1">GameStartup&lt;TApp&gt;</a></div>
   </div>
-  <h3 id="properties">Properties
-  </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Render_VertexData_IPrimitive_Count.md&amp;value=---%0Auid%3A%20Aximo.Render.VertexData.IPrimitive.Count%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Render/VertexData/Primitives/IPrimitive.cs/#L10">View Source</a>
-  </span>
-  <a id="Aximo_Render_VertexData_IPrimitive_Count_" data-uid="Aximo.Render.VertexData.IPrimitive.Count*"></a>
-  <h4 id="Aximo_Render_VertexData_IPrimitive_Count" data-uid="Aximo.Render.VertexData.IPrimitive.Count">Count</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">int Count { get; }</code></pre>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IDisposable</span></div>
   </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Aximo.Engine">Aximo.Engine</a></h6>
+  <h6><strong>Assembly</strong>: AxEngine.dll</h6>
+  <h5 id="Aximo_Engine_GameStartup_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract class GameStartup : IDisposable</code></pre>
+  </div>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Render_VertexData_IPrimitive_CopyTo_System_Collections_Generic_ICollection_Aximo_Render_VertexData_IPrimitive__.md&amp;value=---%0Auid%3A%20Aximo.Render.VertexData.IPrimitive.CopyTo(System.Collections.Generic.ICollection%7BAximo.Render.VertexData.IPrimitive%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Engine_GameStartup_Dispose.md&amp;value=---%0Auid%3A%20Aximo.Engine.GameStartup.Dispose%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Render/VertexData/Primitives/IPrimitive.cs/#L11">View Source</a>
+    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Engine/GameStartup.cs/#L20">View Source</a>
   </span>
-  <a id="Aximo_Render_VertexData_IPrimitive_CopyTo_" data-uid="Aximo.Render.VertexData.IPrimitive.CopyTo*"></a>
-  <h4 id="Aximo_Render_VertexData_IPrimitive_CopyTo_System_Collections_Generic_ICollection_Aximo_Render_VertexData_IPrimitive__" data-uid="Aximo.Render.VertexData.IPrimitive.CopyTo(System.Collections.Generic.ICollection{Aximo.Render.VertexData.IPrimitive})">CopyTo(ICollection&lt;IPrimitive&gt;)</h4>
+  <a id="Aximo_Engine_GameStartup_Dispose_" data-uid="Aximo.Engine.GameStartup.Dispose*"></a>
+  <h4 id="Aximo_Engine_GameStartup_Dispose" data-uid="Aximo.Engine.GameStartup.Dispose">Dispose()</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">void CopyTo(ICollection&lt;IPrimitive&gt; destination)</code></pre>
+    <pre><code class="lang-csharp hljs">public void Dispose()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Engine_GameStartup_Dispose_System_Boolean_.md&amp;value=---%0Auid%3A%20Aximo.Engine.GameStartup.Dispose(System.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Engine/GameStartup.cs/#L18">View Source</a>
+  </span>
+  <a id="Aximo_Engine_GameStartup_Dispose_" data-uid="Aximo.Engine.GameStartup.Dispose*"></a>
+  <h4 id="Aximo_Engine_GameStartup_Dispose_System_Boolean_" data-uid="Aximo.Engine.GameStartup.Dispose(System.Boolean)">Dispose(Boolean)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected abstract void Dispose(bool disposing)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -956,12 +950,95 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Collections.Generic.ICollection</span>&lt;<a class="xref" href="Aximo.Render.VertexData.IPrimitive">IPrimitive</a>&gt;</td>
-        <td><span class="parametername">destination</span></td>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">disposing</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Engine_GameStartup_Start__1.md&amp;value=---%0Auid%3A%20Aximo.Engine.GameStartup.Start%60%601%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Engine/GameStartup.cs/#L25">View Source</a>
+  </span>
+  <a id="Aximo_Engine_GameStartup_Start_" data-uid="Aximo.Engine.GameStartup.Start*"></a>
+  <h4 id="Aximo_Engine_GameStartup_Start__1" data-uid="Aximo.Engine.GameStartup.Start``1">Start&lt;TApp&gt;()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void Start&lt;TApp&gt;()
+    where TApp : RenderApplication</code></pre>
+  </div>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TApp</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Engine_GameStartup_Start__1_Aximo_Engine_RenderApplicationConfig_.md&amp;value=---%0Auid%3A%20Aximo.Engine.GameStartup.Start%60%601(Aximo.Engine.RenderApplicationConfig)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Engine/GameStartup.cs/#L31">View Source</a>
+  </span>
+  <a id="Aximo_Engine_GameStartup_Start_" data-uid="Aximo.Engine.GameStartup.Start*"></a>
+  <h4 id="Aximo_Engine_GameStartup_Start__1_Aximo_Engine_RenderApplicationConfig_" data-uid="Aximo.Engine.GameStartup.Start``1(Aximo.Engine.RenderApplicationConfig)">Start&lt;TApp&gt;(RenderApplicationConfig)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void Start&lt;TApp&gt;(RenderApplicationConfig config)
+    where TApp : RenderApplication</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Aximo.Engine.RenderApplicationConfig">RenderApplicationConfig</a></td>
+        <td><span class="parametername">config</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TApp</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IDisposable</span>
+  </div>
 </article>
           </div>
           
@@ -970,10 +1047,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Render_VertexData_IPrimitive.md&amp;value=---%0Auid%3A%20Aximo.Render.VertexData.IPrimitive%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AximoGames/AxEngine/new/develop/apiSpec/new?filename=Aximo_Engine_GameStartup.md&amp;value=---%0Auid%3A%20Aximo.Engine.GameStartup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Render/VertexData/Primitives/IPrimitive.cs/#L8" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Engine/GameStartup.cs/#L16" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
