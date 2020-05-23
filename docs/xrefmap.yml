@@ -1334,6 +1334,12 @@ references:
   commentId: T:Aximo.DirectoryHelper
   fullName: Aximo.DirectoryHelper
   nameWithType: DirectoryHelper
+- uid: Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
+  name: AddFileGenerator(GenerateFileDelegate)
+  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AddFileGenerator_Aximo_GenerateFileDelegate_
+  commentId: M:Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
+  fullName: Aximo.DirectoryHelper.AddFileGenerator(Aximo.GenerateFileDelegate)
+  nameWithType: DirectoryHelper.AddFileGenerator(GenerateFileDelegate)
 - uid: Aximo.DirectoryHelper.AddFileGenerator(System.String,Aximo.GenerateFileDelegate)
   name: AddFileGenerator(String, GenerateFileDelegate)
   href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_AddFileGenerator_System_String_Aximo_GenerateFileDelegate_
@@ -1457,6 +1463,19 @@ references:
   isSpec: "True"
   fullName: Aximo.DirectoryHelper.LibsDir
   nameWithType: DirectoryHelper.LibsDir
+- uid: Aximo.DirectoryHelper.NativeRuntimeDir
+  name: NativeRuntimeDir
+  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_NativeRuntimeDir
+  commentId: P:Aximo.DirectoryHelper.NativeRuntimeDir
+  fullName: Aximo.DirectoryHelper.NativeRuntimeDir
+  nameWithType: DirectoryHelper.NativeRuntimeDir
+- uid: Aximo.DirectoryHelper.NativeRuntimeDir*
+  name: NativeRuntimeDir
+  href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_NativeRuntimeDir_
+  commentId: Overload:Aximo.DirectoryHelper.NativeRuntimeDir
+  isSpec: "True"
+  fullName: Aximo.DirectoryHelper.NativeRuntimeDir
+  nameWithType: DirectoryHelper.NativeRuntimeDir
 - uid: Aximo.DirectoryHelper.ResetFileGenerator
   name: ResetFileGenerator()
   href: api/Aximo.DirectoryHelper.html#Aximo_DirectoryHelper_ResetFileGenerator
@@ -6767,6 +6786,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Windows.RenderWindow.OnKeyDown
   nameWithType: RenderWindow.OnKeyDown
+- uid: Aximo.Engine.Windows.RenderWindow.OnKeyUp(OpenToolkit.Windowing.Common.KeyboardKeyEventArgs)
+  name: OnKeyUp(KeyboardKeyEventArgs)
+  href: api/Aximo.Engine.Windows.RenderWindow.html#Aximo_Engine_Windows_RenderWindow_OnKeyUp_OpenToolkit_Windowing_Common_KeyboardKeyEventArgs_
+  commentId: M:Aximo.Engine.Windows.RenderWindow.OnKeyUp(OpenToolkit.Windowing.Common.KeyboardKeyEventArgs)
+  fullName: Aximo.Engine.Windows.RenderWindow.OnKeyUp(OpenToolkit.Windowing.Common.KeyboardKeyEventArgs)
+  nameWithType: RenderWindow.OnKeyUp(KeyboardKeyEventArgs)
+- uid: Aximo.Engine.Windows.RenderWindow.OnKeyUp*
+  name: OnKeyUp
+  href: api/Aximo.Engine.Windows.RenderWindow.html#Aximo_Engine_Windows_RenderWindow_OnKeyUp_
+  commentId: Overload:Aximo.Engine.Windows.RenderWindow.OnKeyUp
+  isSpec: "True"
+  fullName: Aximo.Engine.Windows.RenderWindow.OnKeyUp
+  nameWithType: RenderWindow.OnKeyUp
 - uid: Aximo.Engine.Windows.RenderWindow.OnLoad
   name: OnLoad()
   href: api/Aximo.Engine.Windows.RenderWindow.html#Aximo_Engine_Windows_RenderWindow_OnLoad
@@ -6896,6 +6928,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Windows.WindowContext.Init
   nameWithType: WindowContext.Init
+- uid: Aximo.Engine.Windows.WindowContext.IsFocused
+  name: IsFocused
+  href: api/Aximo.Engine.Windows.WindowContext.html#Aximo_Engine_Windows_WindowContext_IsFocused
+  commentId: P:Aximo.Engine.Windows.WindowContext.IsFocused
+  fullName: Aximo.Engine.Windows.WindowContext.IsFocused
+  nameWithType: WindowContext.IsFocused
+- uid: Aximo.Engine.Windows.WindowContext.IsFocused*
+  name: IsFocused
+  href: api/Aximo.Engine.Windows.WindowContext.html#Aximo_Engine_Windows_WindowContext_IsFocused_
+  commentId: Overload:Aximo.Engine.Windows.WindowContext.IsFocused
+  isSpec: "True"
+  fullName: Aximo.Engine.Windows.WindowContext.IsFocused
+  nameWithType: WindowContext.IsFocused
 - uid: Aximo.Engine.Windows.WindowContext.RenderFrame
   name: RenderFrame
   href: api/Aximo.Engine.Windows.WindowContext.html#Aximo_Engine_Windows_WindowContext_RenderFrame
@@ -7049,25 +7094,25 @@ references:
   commentId: N:Aximo.Generators.AlchemyCircle
   fullName: Aximo.Generators.AlchemyCircle
   nameWithType: Aximo.Generators.AlchemyCircle
-- uid: Aximo.Generators.AlchemyCircle.AlchemyCircle
-  name: AlchemyCircle
-  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircle.html
-  commentId: T:Aximo.Generators.AlchemyCircle.AlchemyCircle
-  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircle
-  nameWithType: AlchemyCircle
-- uid: Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate(System.Int32,SixLabors.ImageSharp.Color,SixLabors.ImageSharp.Color,System.Int32,System.Int32)
+- uid: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator
+  name: AlchemyCircleGenerator
+  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.html
+  commentId: T:Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator
+  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator
+  nameWithType: AlchemyCircleGenerator
+- uid: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate(System.Int32,SixLabors.ImageSharp.Color,SixLabors.ImageSharp.Color,System.Int32,System.Int32)
   name: Generate(Int32, Color, Color, Int32, Int32)
-  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircle.html#Aximo_Generators_AlchemyCircle_AlchemyCircle_Generate_System_Int32_SixLabors_ImageSharp_Color_SixLabors_ImageSharp_Color_System_Int32_System_Int32_
-  commentId: M:Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate(System.Int32,SixLabors.ImageSharp.Color,SixLabors.ImageSharp.Color,System.Int32,System.Int32)
-  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate(System.Int32, SixLabors.ImageSharp.Color, SixLabors.ImageSharp.Color, System.Int32, System.Int32)
-  nameWithType: AlchemyCircle.Generate(Int32, Color, Color, Int32, Int32)
-- uid: Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate*
+  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.html#Aximo_Generators_AlchemyCircle_AlchemyCircleGenerator_Generate_System_Int32_SixLabors_ImageSharp_Color_SixLabors_ImageSharp_Color_System_Int32_System_Int32_
+  commentId: M:Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate(System.Int32,SixLabors.ImageSharp.Color,SixLabors.ImageSharp.Color,System.Int32,System.Int32)
+  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate(System.Int32, SixLabors.ImageSharp.Color, SixLabors.ImageSharp.Color, System.Int32, System.Int32)
+  nameWithType: AlchemyCircleGenerator.Generate(Int32, Color, Color, Int32, Int32)
+- uid: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate*
   name: Generate
-  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircle.html#Aximo_Generators_AlchemyCircle_AlchemyCircle_Generate_
-  commentId: Overload:Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate
+  href: api/Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.html#Aximo_Generators_AlchemyCircle_AlchemyCircleGenerator_Generate_
+  commentId: Overload:Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate
   isSpec: "True"
-  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircle.Generate
-  nameWithType: AlchemyCircle.Generate
+  fullName: Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.Generate
+  nameWithType: AlchemyCircleGenerator.Generate
 - uid: Aximo.Generators.AlchemyCircle.AlchemyCircleOptions
   name: AlchemyCircleOptions
   href: api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.html
@@ -7348,6 +7393,22 @@ references:
   isSpec: "True"
   fullName: Aximo.ImageExtensions.DrawButton
   nameWithType: ImageExtensions.DrawButton
+- uid: Aximo.ImageExtensions.GetPixelSpan*
+  name: GetPixelSpan
+  href: api/Aximo.ImageExtensions.html#Aximo_ImageExtensions_GetPixelSpan_
+  commentId: Overload:Aximo.ImageExtensions.GetPixelSpan
+  isSpec: "True"
+  fullName: Aximo.ImageExtensions.GetPixelSpan
+  nameWithType: ImageExtensions.GetPixelSpan
+- uid: Aximo.ImageExtensions.GetPixelSpan``1(SixLabors.ImageSharp.Image{``0})
+  name: GetPixelSpan<TPixel>(Image<TPixel>)
+  href: api/Aximo.ImageExtensions.html#Aximo_ImageExtensions_GetPixelSpan__1_SixLabors_ImageSharp_Image___0__
+  commentId: M:Aximo.ImageExtensions.GetPixelSpan``1(SixLabors.ImageSharp.Image{``0})
+  name.vb: GetPixelSpan(Of TPixel)(Image(Of TPixel))
+  fullName: Aximo.ImageExtensions.GetPixelSpan<TPixel>(SixLabors.ImageSharp.Image<TPixel>)
+  fullName.vb: Aximo.ImageExtensions.GetPixelSpan(Of TPixel)(SixLabors.ImageSharp.Image(Of TPixel))
+  nameWithType: ImageExtensions.GetPixelSpan<TPixel>(Image<TPixel>)
+  nameWithType.vb: ImageExtensions.GetPixelSpan(Of TPixel)(Image(Of TPixel))
 - uid: Aximo.ImageExtensions.UseData(SixLabors.ImageSharp.Image,System.Action{System.IntPtr})
   name: UseData(Image, Action<IntPtr>)
   href: api/Aximo.ImageExtensions.html#Aximo_ImageExtensions_UseData_SixLabors_ImageSharp_Image_System_Action_System_IntPtr__
@@ -19864,6 +19925,25 @@ references:
   commentId: F:Aximo.SharedLib.LocaleInvariant
   fullName: Aximo.SharedLib.LocaleInvariant
   nameWithType: SharedLib.LocaleInvariant
+- uid: Aximo.StreamExtensions
+  name: StreamExtensions
+  href: api/Aximo.StreamExtensions.html
+  commentId: T:Aximo.StreamExtensions
+  fullName: Aximo.StreamExtensions
+  nameWithType: StreamExtensions
+- uid: Aximo.StreamExtensions.ReadToEnd(System.IO.Stream)
+  name: ReadToEnd(Stream)
+  href: api/Aximo.StreamExtensions.html#Aximo_StreamExtensions_ReadToEnd_System_IO_Stream_
+  commentId: M:Aximo.StreamExtensions.ReadToEnd(System.IO.Stream)
+  fullName: Aximo.StreamExtensions.ReadToEnd(System.IO.Stream)
+  nameWithType: StreamExtensions.ReadToEnd(Stream)
+- uid: Aximo.StreamExtensions.ReadToEnd*
+  name: ReadToEnd
+  href: api/Aximo.StreamExtensions.html#Aximo_StreamExtensions_ReadToEnd_
+  commentId: Overload:Aximo.StreamExtensions.ReadToEnd
+  isSpec: "True"
+  fullName: Aximo.StreamExtensions.ReadToEnd
+  nameWithType: StreamExtensions.ReadToEnd
 - uid: Aximo.StringExtensions
   name: StringExtensions
   href: api/Aximo.StringExtensions.html

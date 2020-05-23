@@ -47,7 +47,7 @@
                 
                 <ul class="nav level1 navbar-nav">
                       <li>
-                          <a href="articles/intro" title="Articles">Articles</a>
+                          <a href="" title="Home">Home</a>
                       </li>
                       <li>
                           <a href="api/" title="Api Documentation">Api Documentation</a>
@@ -70,7 +70,7 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="aximo-game-engine">Aximo Game Engine</h1>
 
-<p><strong>Aximo Engine</strong> is a simple Game Engine written in C#.</p>
+<p><strong>Aximo Engine</strong> is a Game Engine written in C#.</p>
 <div class="row">
     <div class="col-md-4">
         <div class="panel panel-default" style="min-height: 140px">
@@ -80,64 +80,40 @@
             </div>
         </div>
     </div>
+    <div class="col-md-4">
+        <div class="panel panel-default" style="min-height: 140px">
+            <div class="panel-body">
+                <p><strong><a href="https://github.com/AximoGames/AxEngine">Source code</a></strong></p>
+                <p>View the Engine's source code.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default" style="min-height: 140px">
+            <div class="panel-body">
+                <p><strong><a href="https://www.nuget.org/packages/Aximo">Nuget package</a></strong></p>
+                <p>You can integrate Aximo Engine via nuget package.</p>
+            </div>
+        </div>
+    </div>
 </div>
-<p>Here's a small sample:</p>
-<pre><code class="lang-c#">using Aximo;
-using Aximo.Engine;
-using Aximo.Engine.Components.Geometry;
-using Aximo.Engine.Components.Lights;
-using OpenToolkit.Mathematics;
-
-public class MyApplication : RenderApplication
-{
-    public MyApplication(RenderApplicationConfig startup) : base(startup)
-    {
-    }
-
-    protected override void SetupScene()
-    {
-        GameContext.AddActor(new Actor(new DirectionalLightComponent()
-        {
-            RelativeTranslation = new Vector3(2f, -1.5f, 3.25f),
-            Name = &quot;StaticLight&quot;,
-        }));
-
-        GameContext.AddActor(new Actor(new CubeComponent()
-        {
-            Name = &quot;Box1&quot;,
-            RelativeRotation = new Vector3(0, 0, 0.5f).ToQuaternion(),
-            RelativeScale = new Vector3(1),
-            RelativeTranslation = new Vector3(0, 0, 0.5f),
-            Material = new GameMaterial
-            {
-                Color = new Vector4(1, 0, 1, 1),
-            },
-        }));
-    }
-}
-</code></pre>
-<p>Initialize the application:</p>
-<pre><code class="lang-c#">using Aximo.Engine;
-using OpenToolkit.Mathematics;
-using OpenToolkit.Windowing.Common;
-
-internal class Program
-{
-    public static void Main(string[] args)
-    {
-        var config = new RenderApplicationConfig
-        {
-            WindowTitle = &quot;Sample&quot;,
-            WindowSize = new Vector2i(800, 600),
-            VSync = VSyncMode.Off,
-            UseConsole = true,
-            IsMultiThreaded = true,
-        };
-
-        new GameStartup&lt;MyApplication&gt;(config).Start();
-    }
-}
-</code></pre>
+<h3 id="features">Features</h3>
+<ul>
+<li>Free Open Source</li>
+<li>Platform independent, runs on Windows &amp; Linux via OpenGL</li>
+<li>Multi-Threaded</li>
+<li>Dynamic Mesh Creation and Manipulation</li>
+<li>Several Geometry Components.</li>
+<li>Phong-Lighning</li>
+<li>Multiple Lights with Shadows (Directional- and Pointlights)</li>
+<li>Deferred and forward shading (can be mixed)</li>
+<li>UI Components (Buttons, Panels, Labels, Performance Statistics)</li>
+<li>Custom Shaders / Materials</li>
+<li>Asset Management (incl. dynamic generation on-the-fly)</li>
+<li>Scene Management via Actors, Components and relative transformations.</li>
+<li>Audio (only global).</li>
+<li>Flexible Vertex data layout.</li>
+</ul>
 </article>
           </div>
           
@@ -146,7 +122,7 @@ internal class Program
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AximoGames/AxEngine/blob/develop/Documentation/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AximoGames/AxEngine/blob/master/Documentation/index.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
