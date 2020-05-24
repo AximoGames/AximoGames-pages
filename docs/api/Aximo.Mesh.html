@@ -1243,6 +1243,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public T AddComponent&lt;T&gt;()
+
     where T : MeshComponent, new()</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -1289,6 +1290,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void AddComponents&lt;T&gt;()
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="typeParameters">Type Parameters</h5>
@@ -1742,6 +1744,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void AddVertices&lt;T&gt;(ICollection&lt;T&gt; values)
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
@@ -2051,6 +2054,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public static Mesh CreateFromVertices&lt;T&gt;(T[] vertices, int[] indicies = null, MeshFaceType primitiveType = MeshFaceType.Triangle)
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
@@ -2603,6 +2607,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public IList&lt;MeshFace&lt;T&gt;&gt; FaceView&lt;T&gt;()
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -2696,6 +2701,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public T GetComponent&lt;T&gt;()
+
     where T : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -2742,6 +2748,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public T GetComponent&lt;T&gt;(MeshComponentType componentType)
+
     where T : MeshComponent</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
@@ -2882,6 +2889,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public T[] GetIndiciesArray&lt;T&gt;()
+
     where T : struct</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -2928,6 +2936,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public BufferData1D&lt;T&gt; GetIndiciesBuffer&lt;T&gt;()
+
     where T : struct</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3096,6 +3105,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool HasComponent&lt;T&gt;()
+
     where T : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3142,6 +3152,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool HasComponents&lt;T1, T2&gt;()
+
     where T1 : MeshComponent where T2 : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3192,6 +3203,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool HasComponents&lt;T1, T2, T3&gt;()
+
     where T1 : MeshComponent where T2 : MeshComponent where T3 : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3246,6 +3258,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool IsCompatible&lt;T&gt;()
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3292,6 +3305,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool IsComponents&lt;T1, T2&gt;()
+
     where T1 : MeshComponent where T2 : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3342,6 +3356,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public bool IsComponents&lt;T1, T2, T3&gt;()
+
     where T1 : MeshComponent where T2 : MeshComponent where T3 : MeshComponent</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3934,6 +3949,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public MeshVertexList&lt;T&gt; View&lt;T&gt;()
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="returns">Returns</h5>
@@ -3980,6 +3996,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void Visit&lt;T&gt;(Action&lt;T, int&gt; callback)
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
@@ -4028,6 +4045,7 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void Visit&lt;T&gt;(Action&lt;T&gt; callback)
+
     where T : IVertex</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>

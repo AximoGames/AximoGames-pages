@@ -129,6 +129,19 @@ references:
   isSpec: "True"
   fullName: Aximo.AssetManager.GetAssetsPath
   nameWithType: AssetManager.GetAssetsPath
+- uid: Aximo.AssetManager.GlobalCacheDir
+  name: GlobalCacheDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_GlobalCacheDir
+  commentId: P:Aximo.AssetManager.GlobalCacheDir
+  fullName: Aximo.AssetManager.GlobalCacheDir
+  nameWithType: AssetManager.GlobalCacheDir
+- uid: Aximo.AssetManager.GlobalCacheDir*
+  name: GlobalCacheDir
+  href: api/Aximo.AssetManager.html#Aximo_AssetManager_GlobalCacheDir_
+  commentId: Overload:Aximo.AssetManager.GlobalCacheDir
+  isSpec: "True"
+  fullName: Aximo.AssetManager.GlobalCacheDir
+  nameWithType: AssetManager.GlobalCacheDir
 - uid: Aximo.AssetManager.LibsDir
   name: LibsDir
   href: api/Aximo.AssetManager.html#Aximo_AssetManager_LibsDir
