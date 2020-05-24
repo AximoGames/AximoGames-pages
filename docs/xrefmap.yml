@@ -2579,19 +2579,6 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.Application.Disposed
   nameWithType: Application.Disposed
-- uid: Aximo.Engine.Application.Init
-  name: Init()
-  href: api/Aximo.Engine.Application.html#Aximo_Engine_Application_Init
-  commentId: M:Aximo.Engine.Application.Init
-  fullName: Aximo.Engine.Application.Init()
-  nameWithType: Application.Init()
-- uid: Aximo.Engine.Application.Init*
-  name: Init
-  href: api/Aximo.Engine.Application.html#Aximo_Engine_Application_Init_
-  commentId: Overload:Aximo.Engine.Application.Init
-  isSpec: "True"
-  fullName: Aximo.Engine.Application.Init
-  nameWithType: Application.Init
 - uid: Aximo.Engine.Application.Initialized
   name: Initialized
   href: api/Aximo.Engine.Application.html#Aximo_Engine_Application_Initialized

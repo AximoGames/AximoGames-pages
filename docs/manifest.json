@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/sebastian/projects/AximoGames/AxEngine/Documentation",
+  "source_base_path": "C:/Users/sebastian/projects/AximoGames/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -321,7 +321,7 @@
       "output": {
         "": {
           "relative_path": "api/Aximo.Engine.Application",
-          "hash": "TAbFnnAPkKokSnuFLTFr0Q=="
+          "hash": "AWY0wIzqN5Zf3cuLg/UrjA=="
         }
       },
       "is_incremental": false,
@@ -3009,7 +3009,7 @@
       "output": {
         "": {
           "relative_path": "api/",
-          "hash": "zBymAwRNp5N5NY60L/evBA=="
+          "hash": "mJ1jribN5t68DmUQ9zFZoA=="
         }
       },
       "is_incremental": false,
@@ -3021,10 +3021,10 @@
       "output": {
         "": {
           "relative_path": "articles/intro",
-          "hash": "Hr5SepLvkr3zoD4qhFSGTA=="
+          "hash": "cWXvmFVbo7nZQjaEZxw7Xg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3036,7 +3036,7 @@
       "output": {
         "": {
           "relative_path": "",
-          "hash": "QpiHmdvkWRiKCkiG4qHZkQ=="
+          "hash": "36S64Qne2BZLbScBkDXvTA=="
         }
       },
       "is_incremental": false,
@@ -3046,23 +3046,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 1
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 250,
-          "skipped_file_count": 88
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -3075,8 +3077,8 @@
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
