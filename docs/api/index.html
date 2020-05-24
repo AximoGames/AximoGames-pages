@@ -50,6 +50,9 @@
                           <a href="../" title="Home">Home</a>
                       </li>
                       <li>
+                          <a href="../samples/intro" title="Samples">Samples</a>
+                      </li>
+                      <li>
                           <a href="../api/" title="Api Documentation">Api Documentation</a>
                       </li>
                 </ul>    </div>
@@ -885,7 +888,7 @@
 <h1 id="aximo-game-engine-api-reference">Aximo Game Engine Api Reference</h1>
 
 <p>Here's a small sample:</p>
-<pre><code class="lang-c#">using Aximo;
+<pre><code class="lang-cs" name="Main">using Aximo;
 using Aximo.Engine;
 using Aximo.Engine.Components.Geometry;
 using Aximo.Engine.Components.Lights;
@@ -907,25 +910,20 @@ public class MyApplication : Application
         SceneContext.AddActor(new Actor(new PointLightComponent()
         {
             Name = &quot;StaticLight&quot;,
-            RelativeTranslation = new Vector3(2f, -1.5f, 3.25f),
+            RelativeTranslation = new Vector3(2f, -2.5f, 3.25f),
         }));
 
-        // add a cube
+        // add a cube with default material
         SceneContext.AddActor(new Actor(new CubeComponent()
         {
             Name = &quot;Box1&quot;,
             RelativeRotation = new Vector3(0, 0, 0.5f).ToQuaternion(),
             RelativeScale = new Vector3(1),
             RelativeTranslation = new Vector3(0, 0, 0.5f),
-            Material = new Material
-            {
-                Color = new Vector4(1, 0, 1, 1),
-            },
         }));
     }
 }
-</code></pre>
-</article>
+</code></pre></article>
           </div>
           
           <div class="hidden-sm col-md-2" role="complementary">
@@ -933,7 +931,7 @@ public class MyApplication : Application
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AximoGames/Aximo.Documentation/blob/master/api/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AximoGames/Aximo.Documentation/blob/develop/api/index.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
