@@ -3048,7 +3048,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/color-cube/index.html",
-          "hash": "mpiEUL6GP0xrQGOg72CpOQ=="
+          "hash": "Tzh3tlmSdx0ZkIt8UBLJ7A=="
         }
       },
       "is_incremental": true,
@@ -3067,11 +3067,34 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "samples/combine-mesh/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "samples/combine-mesh/index.html",
+          "hash": "eB99oPa0x1L5FmnDr40GJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "samples/combine-mesh/screenshot.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "samples/combine-mesh/screenshot.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "samples/hello-cube/index.md",
       "output": {
         ".html": {
           "relative_path": "samples/hello-cube/index.html",
-          "hash": "iQY3zLQOG+eRhpNVRe68EQ=="
+          "hash": "oPFBs8+/5bm61NIukl2DYA=="
         }
       },
       "is_incremental": true,
@@ -3094,7 +3117,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/intro.html",
-          "hash": "9/Hk2Zn6su17PCn/cpvWtA=="
+          "hash": "6MiQwRxv6MsgSpto7IkW9g=="
         }
       },
       "is_incremental": true,
@@ -3106,10 +3129,10 @@
       "output": {
         ".html": {
           "relative_path": "samples/texture-cube/index.html",
-          "hash": "SXfZJ/0OJoeUUq5Y/QmXNA=="
+          "hash": "e3sSWypGGe/sNb8BdkIp5w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3136,8 +3159,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 7,
-          "skipped_file_count": 6
+          "total_file_count": 8,
+          "skipped_file_count": 7
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
