@@ -3048,7 +3048,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/color-cube/index.html",
-          "hash": "Tzh3tlmSdx0ZkIt8UBLJ7A=="
+          "hash": "1/jWpauU80KBftDWnwIrFg=="
         }
       },
       "is_incremental": true,
@@ -3071,10 +3071,10 @@
       "output": {
         ".html": {
           "relative_path": "samples/combine-mesh/index.html",
-          "hash": "eB99oPa0x1L5FmnDr40GJA=="
+          "hash": "9MrwK0gd2BgCykqNcP+enQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3094,7 +3094,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/hello-cube/index.html",
-          "hash": "oPFBs8+/5bm61NIukl2DYA=="
+          "hash": "tm7ZWbtj3XiVLov3NrdSdw=="
         }
       },
       "is_incremental": true,
@@ -3117,10 +3117,33 @@
       "output": {
         ".html": {
           "relative_path": "samples/intro.html",
-          "hash": "6MiQwRxv6MsgSpto7IkW9g=="
+          "hash": "JKXhff0sETbd35sL3rYFPQ=="
         }
       },
       "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "samples/shadows/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "samples/shadows/index.html",
+          "hash": "fi4JGyWjoVgo0lvDG5DPaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "samples/shadows/screenshot.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "samples/shadows/screenshot.jpg"
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3129,7 +3152,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/texture-cube/index.html",
-          "hash": "e3sSWypGGe/sNb8BdkIp5w=="
+          "hash": "/8X/opyIbREcAQh92LqbJA=="
         }
       },
       "is_incremental": true,
@@ -3159,8 +3182,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 8,
-          "skipped_file_count": 7
+          "total_file_count": 9,
+          "skipped_file_count": 8
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
