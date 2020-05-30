@@ -213,6 +213,32 @@ references:
   isSpec: "True"
   fullName: Aximo.AxMath.Approximately
   nameWithType: AxMath.Approximately
+- uid: Aximo.AxMath.CosDeg(System.Single)
+  name: CosDeg(Single)
+  href: api/Aximo.AxMath.html#Aximo_AxMath_CosDeg_System_Single_
+  commentId: M:Aximo.AxMath.CosDeg(System.Single)
+  fullName: Aximo.AxMath.CosDeg(System.Single)
+  nameWithType: AxMath.CosDeg(Single)
+- uid: Aximo.AxMath.CosDeg*
+  name: CosDeg
+  href: api/Aximo.AxMath.html#Aximo_AxMath_CosDeg_
+  commentId: Overload:Aximo.AxMath.CosDeg
+  isSpec: "True"
+  fullName: Aximo.AxMath.CosDeg
+  nameWithType: AxMath.CosDeg
+- uid: Aximo.AxMath.CosNorm(System.Single)
+  name: CosNorm(Single)
+  href: api/Aximo.AxMath.html#Aximo_AxMath_CosNorm_System_Single_
+  commentId: M:Aximo.AxMath.CosNorm(System.Single)
+  fullName: Aximo.AxMath.CosNorm(System.Single)
+  nameWithType: AxMath.CosNorm(Single)
+- uid: Aximo.AxMath.CosNorm*
+  name: CosNorm
+  href: api/Aximo.AxMath.html#Aximo_AxMath_CosNorm_
+  commentId: Overload:Aximo.AxMath.CosNorm
+  isSpec: "True"
+  fullName: Aximo.AxMath.CosNorm
+  nameWithType: AxMath.CosNorm
 - uid: Aximo.AxMath.Deg2Rad
   name: Deg2Rad
   href: api/Aximo.AxMath.html#Aximo_AxMath_Deg2Rad
@@ -282,6 +308,12 @@ references:
   isSpec: "True"
   fullName: Aximo.AxMath.MapToNDC
   nameWithType: AxMath.MapToNDC
+- uid: Aximo.AxMath.Norm2Rad
+  name: Norm2Rad
+  href: api/Aximo.AxMath.html#Aximo_AxMath_Norm2Rad
+  commentId: F:Aximo.AxMath.Norm2Rad
+  fullName: Aximo.AxMath.Norm2Rad
+  nameWithType: AxMath.Norm2Rad
 - uid: Aximo.AxMath.NormalizedToRadians(System.Single)
   name: NormalizedToRadians(Single)
   href: api/Aximo.AxMath.html#Aximo_AxMath_NormalizedToRadians_System_Single_
@@ -320,6 +352,12 @@ references:
   commentId: F:Aximo.AxMath.Rad2Deg
   fullName: Aximo.AxMath.Rad2Deg
   nameWithType: AxMath.Rad2Deg
+- uid: Aximo.AxMath.Rad2Norm
+  name: Rad2Norm
+  href: api/Aximo.AxMath.html#Aximo_AxMath_Rad2Norm
+  commentId: F:Aximo.AxMath.Rad2Norm
+  fullName: Aximo.AxMath.Rad2Norm
+  nameWithType: AxMath.Rad2Norm
 - uid: Aximo.AxMath.Round(OpenToolkit.Mathematics.Vector3)
   name: Round(Vector3)
   href: api/Aximo.AxMath.html#Aximo_AxMath_Round_OpenToolkit_Mathematics_Vector3_
@@ -339,6 +377,32 @@ references:
   isSpec: "True"
   fullName: Aximo.AxMath.Round
   nameWithType: AxMath.Round
+- uid: Aximo.AxMath.SinDeg(System.Single)
+  name: SinDeg(Single)
+  href: api/Aximo.AxMath.html#Aximo_AxMath_SinDeg_System_Single_
+  commentId: M:Aximo.AxMath.SinDeg(System.Single)
+  fullName: Aximo.AxMath.SinDeg(System.Single)
+  nameWithType: AxMath.SinDeg(Single)
+- uid: Aximo.AxMath.SinDeg*
+  name: SinDeg
+  href: api/Aximo.AxMath.html#Aximo_AxMath_SinDeg_
+  commentId: Overload:Aximo.AxMath.SinDeg
+  isSpec: "True"
+  fullName: Aximo.AxMath.SinDeg
+  nameWithType: AxMath.SinDeg
+- uid: Aximo.AxMath.SinNorm(System.Single)
+  name: SinNorm(Single)
+  href: api/Aximo.AxMath.html#Aximo_AxMath_SinNorm_System_Single_
+  commentId: M:Aximo.AxMath.SinNorm(System.Single)
+  fullName: Aximo.AxMath.SinNorm(System.Single)
+  nameWithType: AxMath.SinNorm(Single)
+- uid: Aximo.AxMath.SinNorm*
+  name: SinNorm
+  href: api/Aximo.AxMath.html#Aximo_AxMath_SinNorm_
+  commentId: Overload:Aximo.AxMath.SinNorm
+  isSpec: "True"
+  fullName: Aximo.AxMath.SinNorm
+  nameWithType: AxMath.SinNorm
 - uid: Aximo.AxMath.ToQuaternion(OpenToolkit.Mathematics.Vector3)
   name: ToQuaternion(Vector3)
   href: api/Aximo.AxMath.html#Aximo_AxMath_ToQuaternion_OpenToolkit_Mathematics_Vector3_
@@ -659,6 +723,23 @@ references:
   fullName.vb: Aximo.BufferData1D(Of T).ElementSize
   nameWithType: BufferData1D<T>.ElementSize
   nameWithType.vb: BufferData1D(Of T).ElementSize
+- uid: Aximo.BufferData1D`1.GetHashCode
+  name: GetHashCode()
+  href: api/Aximo.BufferData1D-1.html#Aximo_BufferData1D_1_GetHashCode
+  commentId: M:Aximo.BufferData1D`1.GetHashCode
+  fullName: Aximo.BufferData1D<T>.GetHashCode()
+  fullName.vb: Aximo.BufferData1D(Of T).GetHashCode()
+  nameWithType: BufferData1D<T>.GetHashCode()
+  nameWithType.vb: BufferData1D(Of T).GetHashCode()
+- uid: Aximo.BufferData1D`1.GetHashCode*
+  name: GetHashCode
+  href: api/Aximo.BufferData1D-1.html#Aximo_BufferData1D_1_GetHashCode_
+  commentId: Overload:Aximo.BufferData1D`1.GetHashCode
+  isSpec: "True"
+  fullName: Aximo.BufferData1D<T>.GetHashCode
+  fullName.vb: Aximo.BufferData1D(Of T).GetHashCode
+  nameWithType: BufferData1D<T>.GetHashCode
+  nameWithType.vb: BufferData1D(Of T).GetHashCode
 - uid: Aximo.BufferData1D`1.Item(System.Int32)
   name: Item[Int32]
   href: api/Aximo.BufferData1D-1.html#Aximo_BufferData1D_1_Item_System_Int32_
@@ -2236,156 +2317,6 @@ references:
   commentId: T:Aximo.Engine.AfterApplicationInitializedDelegate
   fullName: Aximo.Engine.AfterApplicationInitializedDelegate
   nameWithType: AfterApplicationInitializedDelegate
-- uid: Aximo.Engine.Animation
-  name: Animation
-  href: api/Aximo.Engine.Animation.html
-  commentId: T:Aximo.Engine.Animation
-  fullName: Aximo.Engine.Animation
-  nameWithType: Animation
-- uid: Aximo.Engine.Animation.AnimationFinished
-  name: AnimationFinished
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_AnimationFinished
-  commentId: E:Aximo.Engine.Animation.AnimationFinished
-  fullName: Aximo.Engine.Animation.AnimationFinished
-  nameWithType: Animation.AnimationFinished
-- uid: Aximo.Engine.Animation.AnimationFunc
-  name: AnimationFunc
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_AnimationFunc
-  commentId: F:Aximo.Engine.Animation.AnimationFunc
-  fullName: Aximo.Engine.Animation.AnimationFunc
-  nameWithType: Animation.AnimationFunc
-- uid: Aximo.Engine.Animation.Duration
-  name: Duration
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Duration
-  commentId: F:Aximo.Engine.Animation.Duration
-  fullName: Aximo.Engine.Animation.Duration
-  nameWithType: Animation.Duration
-- uid: Aximo.Engine.Animation.Enabled
-  name: Enabled
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Enabled
-  commentId: F:Aximo.Engine.Animation.Enabled
-  fullName: Aximo.Engine.Animation.Enabled
-  nameWithType: Animation.Enabled
-- uid: Aximo.Engine.Animation.Position
-  name: Position
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Position
-  commentId: P:Aximo.Engine.Animation.Position
-  fullName: Aximo.Engine.Animation.Position
-  nameWithType: Animation.Position
-- uid: Aximo.Engine.Animation.Position*
-  name: Position
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Position_
-  commentId: Overload:Aximo.Engine.Animation.Position
-  isSpec: "True"
-  fullName: Aximo.Engine.Animation.Position
-  nameWithType: Animation.Position
-- uid: Aximo.Engine.Animation.ProcessAnimation
-  name: ProcessAnimation()
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_ProcessAnimation
-  commentId: M:Aximo.Engine.Animation.ProcessAnimation
-  fullName: Aximo.Engine.Animation.ProcessAnimation()
-  nameWithType: Animation.ProcessAnimation()
-- uid: Aximo.Engine.Animation.ProcessAnimation*
-  name: ProcessAnimation
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_ProcessAnimation_
-  commentId: Overload:Aximo.Engine.Animation.ProcessAnimation
-  isSpec: "True"
-  fullName: Aximo.Engine.Animation.ProcessAnimation
-  nameWithType: Animation.ProcessAnimation
-- uid: Aximo.Engine.Animation.Repeat
-  name: Repeat
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Repeat
-  commentId: F:Aximo.Engine.Animation.Repeat
-  fullName: Aximo.Engine.Animation.Repeat
-  nameWithType: Animation.Repeat
-- uid: Aximo.Engine.Animation.Start
-  name: Start()
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Start
-  commentId: M:Aximo.Engine.Animation.Start
-  fullName: Aximo.Engine.Animation.Start()
-  nameWithType: Animation.Start()
-- uid: Aximo.Engine.Animation.Start*
-  name: Start
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Start_
-  commentId: Overload:Aximo.Engine.Animation.Start
-  isSpec: "True"
-  fullName: Aximo.Engine.Animation.Start
-  nameWithType: Animation.Start
-- uid: Aximo.Engine.Animation.StartTime
-  name: StartTime
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_StartTime
-  commentId: F:Aximo.Engine.Animation.StartTime
-  fullName: Aximo.Engine.Animation.StartTime
-  nameWithType: Animation.StartTime
-- uid: Aximo.Engine.Animation.Value
-  name: Value
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Value
-  commentId: P:Aximo.Engine.Animation.Value
-  fullName: Aximo.Engine.Animation.Value
-  nameWithType: Animation.Value
-- uid: Aximo.Engine.Animation.Value*
-  name: Value
-  href: api/Aximo.Engine.Animation.html#Aximo_Engine_Animation_Value_
-  commentId: Overload:Aximo.Engine.Animation.Value
-  isSpec: "True"
-  fullName: Aximo.Engine.Animation.Value
-  nameWithType: Animation.Value
-- uid: Aximo.Engine.AnimationFinishedDelegate
-  name: AnimationFinishedDelegate
-  href: api/Aximo.Engine.AnimationFinishedDelegate.html
-  commentId: T:Aximo.Engine.AnimationFinishedDelegate
-  fullName: Aximo.Engine.AnimationFinishedDelegate
-  nameWithType: AnimationFinishedDelegate
-- uid: Aximo.Engine.AnimationFunc
-  name: AnimationFunc
-  href: api/Aximo.Engine.AnimationFunc.html
-  commentId: T:Aximo.Engine.AnimationFunc
-  fullName: Aximo.Engine.AnimationFunc
-  nameWithType: AnimationFunc
-- uid: Aximo.Engine.AnimationFuncs
-  name: AnimationFuncs
-  href: api/Aximo.Engine.AnimationFuncs.html
-  commentId: T:Aximo.Engine.AnimationFuncs
-  fullName: Aximo.Engine.AnimationFuncs
-  nameWithType: AnimationFuncs
-- uid: Aximo.Engine.AnimationFuncs.Linear
-  name: Linear()
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_Linear
-  commentId: M:Aximo.Engine.AnimationFuncs.Linear
-  fullName: Aximo.Engine.AnimationFuncs.Linear()
-  nameWithType: AnimationFuncs.Linear()
-- uid: Aximo.Engine.AnimationFuncs.Linear(System.Single)
-  name: Linear(Single)
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_Linear_System_Single_
-  commentId: M:Aximo.Engine.AnimationFuncs.Linear(System.Single)
-  fullName: Aximo.Engine.AnimationFuncs.Linear(System.Single)
-  nameWithType: AnimationFuncs.Linear(Single)
-- uid: Aximo.Engine.AnimationFuncs.Linear*
-  name: Linear
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_Linear_
-  commentId: Overload:Aximo.Engine.AnimationFuncs.Linear
-  isSpec: "True"
-  fullName: Aximo.Engine.AnimationFuncs.Linear
-  nameWithType: AnimationFuncs.Linear
-- uid: Aximo.Engine.AnimationFuncs.LinearReverse
-  name: LinearReverse()
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_LinearReverse
-  commentId: M:Aximo.Engine.AnimationFuncs.LinearReverse
-  fullName: Aximo.Engine.AnimationFuncs.LinearReverse()
-  nameWithType: AnimationFuncs.LinearReverse()
-- uid: Aximo.Engine.AnimationFuncs.LinearReverse(System.Single)
-  name: LinearReverse(Single)
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_LinearReverse_System_Single_
-  commentId: M:Aximo.Engine.AnimationFuncs.LinearReverse(System.Single)
-  fullName: Aximo.Engine.AnimationFuncs.LinearReverse(System.Single)
-  nameWithType: AnimationFuncs.LinearReverse(Single)
-- uid: Aximo.Engine.AnimationFuncs.LinearReverse*
-  name: LinearReverse
-  href: api/Aximo.Engine.AnimationFuncs.html#Aximo_Engine_AnimationFuncs_LinearReverse_
-  commentId: Overload:Aximo.Engine.AnimationFuncs.LinearReverse
-  isSpec: "True"
-  fullName: Aximo.Engine.AnimationFuncs.LinearReverse
-  nameWithType: AnimationFuncs.LinearReverse
 - uid: Aximo.Engine.Application
   name: Application
   href: api/Aximo.Engine.Application.html
@@ -3201,6 +3132,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.ApplicationConfig.UseConsole
   nameWithType: ApplicationConfig.UseConsole
+- uid: Aximo.Engine.ApplicationConfig.UseFrameDebug
+  name: UseFrameDebug
+  href: api/Aximo.Engine.ApplicationConfig.html#Aximo_Engine_ApplicationConfig_UseFrameDebug
+  commentId: P:Aximo.Engine.ApplicationConfig.UseFrameDebug
+  fullName: Aximo.Engine.ApplicationConfig.UseFrameDebug
+  nameWithType: ApplicationConfig.UseFrameDebug
+- uid: Aximo.Engine.ApplicationConfig.UseFrameDebug*
+  name: UseFrameDebug
+  href: api/Aximo.Engine.ApplicationConfig.html#Aximo_Engine_ApplicationConfig_UseFrameDebug_
+  commentId: Overload:Aximo.Engine.ApplicationConfig.UseFrameDebug
+  isSpec: "True"
+  fullName: Aximo.Engine.ApplicationConfig.UseFrameDebug
+  nameWithType: ApplicationConfig.UseFrameDebug
 - uid: Aximo.Engine.ApplicationConfig.UseGtkUI
   name: UseGtkUI
   href: api/Aximo.Engine.ApplicationConfig.html#Aximo_Engine_ApplicationConfig_UseGtkUI
@@ -4994,6 +4938,15 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.ISceneInterface.RemovePrimitive
   nameWithType: ISceneInterface.RemovePrimitive
+- uid: Aximo.Engine.LerpFunc`1
+  name: LerpFunc<TValue>
+  href: api/Aximo.Engine.LerpFunc-1.html
+  commentId: T:Aximo.Engine.LerpFunc`1
+  name.vb: LerpFunc(Of TValue)
+  fullName: Aximo.Engine.LerpFunc<TValue>
+  fullName.vb: Aximo.Engine.LerpFunc(Of TValue)
+  nameWithType: LerpFunc<TValue>
+  nameWithType.vb: LerpFunc(Of TValue)
 - uid: Aximo.Engine.Material
   name: Material
   href: api/Aximo.Engine.Material.html
@@ -5648,6 +5601,170 @@ references:
   commentId: F:Aximo.Engine.PrimitiveSceneProxy.Materials
   fullName: Aximo.Engine.PrimitiveSceneProxy.Materials
   nameWithType: PrimitiveSceneProxy.Materials
+- uid: Aximo.Engine.ScaleFunc
+  name: ScaleFunc
+  href: api/Aximo.Engine.ScaleFunc.html
+  commentId: T:Aximo.Engine.ScaleFunc
+  fullName: Aximo.Engine.ScaleFunc
+  nameWithType: ScaleFunc
+- uid: Aximo.Engine.ScaleFuncs
+  name: ScaleFuncs
+  href: api/Aximo.Engine.ScaleFuncs.html
+  commentId: T:Aximo.Engine.ScaleFuncs
+  fullName: Aximo.Engine.ScaleFuncs
+  nameWithType: ScaleFuncs
+- uid: Aximo.Engine.ScaleFuncs.Linear
+  name: Linear()
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Linear
+  commentId: M:Aximo.Engine.ScaleFuncs.Linear
+  fullName: Aximo.Engine.ScaleFuncs.Linear()
+  nameWithType: ScaleFuncs.Linear()
+- uid: Aximo.Engine.ScaleFuncs.Linear(System.Single)
+  name: Linear(Single)
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Linear_System_Single_
+  commentId: M:Aximo.Engine.ScaleFuncs.Linear(System.Single)
+  fullName: Aximo.Engine.ScaleFuncs.Linear(System.Single)
+  nameWithType: ScaleFuncs.Linear(Single)
+- uid: Aximo.Engine.ScaleFuncs.Linear*
+  name: Linear
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Linear_
+  commentId: Overload:Aximo.Engine.ScaleFuncs.Linear
+  isSpec: "True"
+  fullName: Aximo.Engine.ScaleFuncs.Linear
+  nameWithType: ScaleFuncs.Linear
+- uid: Aximo.Engine.ScaleFuncs.Linear_
+  name: Linear_
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Linear_
+  commentId: F:Aximo.Engine.ScaleFuncs.Linear_
+  fullName: Aximo.Engine.ScaleFuncs.Linear_
+  nameWithType: ScaleFuncs.Linear_
+- uid: Aximo.Engine.ScaleFuncs.LinearReverse
+  name: LinearReverse()
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_LinearReverse
+  commentId: M:Aximo.Engine.ScaleFuncs.LinearReverse
+  fullName: Aximo.Engine.ScaleFuncs.LinearReverse()
+  nameWithType: ScaleFuncs.LinearReverse()
+- uid: Aximo.Engine.ScaleFuncs.LinearReverse(System.Single)
+  name: LinearReverse(Single)
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_LinearReverse_System_Single_
+  commentId: M:Aximo.Engine.ScaleFuncs.LinearReverse(System.Single)
+  fullName: Aximo.Engine.ScaleFuncs.LinearReverse(System.Single)
+  nameWithType: ScaleFuncs.LinearReverse(Single)
+- uid: Aximo.Engine.ScaleFuncs.LinearReverse*
+  name: LinearReverse
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_LinearReverse_
+  commentId: Overload:Aximo.Engine.ScaleFuncs.LinearReverse
+  isSpec: "True"
+  fullName: Aximo.Engine.ScaleFuncs.LinearReverse
+  nameWithType: ScaleFuncs.LinearReverse
+- uid: Aximo.Engine.ScaleFuncs.Power10EaseIn
+  name: Power10EaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power10EaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.Power10EaseIn
+  fullName: Aximo.Engine.ScaleFuncs.Power10EaseIn
+  nameWithType: ScaleFuncs.Power10EaseIn
+- uid: Aximo.Engine.ScaleFuncs.Power10EaseInOut
+  name: Power10EaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power10EaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power10EaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.Power10EaseInOut
+  nameWithType: ScaleFuncs.Power10EaseInOut
+- uid: Aximo.Engine.ScaleFuncs.Power10EaseOut
+  name: Power10EaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power10EaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power10EaseOut
+  fullName: Aximo.Engine.ScaleFuncs.Power10EaseOut
+  nameWithType: ScaleFuncs.Power10EaseOut
+- uid: Aximo.Engine.ScaleFuncs.Power2EaseIn
+  name: Power2EaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power2EaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.Power2EaseIn
+  fullName: Aximo.Engine.ScaleFuncs.Power2EaseIn
+  nameWithType: ScaleFuncs.Power2EaseIn
+- uid: Aximo.Engine.ScaleFuncs.Power2EaseInOut
+  name: Power2EaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power2EaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power2EaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.Power2EaseInOut
+  nameWithType: ScaleFuncs.Power2EaseInOut
+- uid: Aximo.Engine.ScaleFuncs.Power2EaseOut
+  name: Power2EaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power2EaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power2EaseOut
+  fullName: Aximo.Engine.ScaleFuncs.Power2EaseOut
+  nameWithType: ScaleFuncs.Power2EaseOut
+- uid: Aximo.Engine.ScaleFuncs.Power3EaseIn
+  name: Power3EaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power3EaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.Power3EaseIn
+  fullName: Aximo.Engine.ScaleFuncs.Power3EaseIn
+  nameWithType: ScaleFuncs.Power3EaseIn
+- uid: Aximo.Engine.ScaleFuncs.Power3EaseInOut
+  name: Power3EaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power3EaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power3EaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.Power3EaseInOut
+  nameWithType: ScaleFuncs.Power3EaseInOut
+- uid: Aximo.Engine.ScaleFuncs.Power3EaseOut
+  name: Power3EaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power3EaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power3EaseOut
+  fullName: Aximo.Engine.ScaleFuncs.Power3EaseOut
+  nameWithType: ScaleFuncs.Power3EaseOut
+- uid: Aximo.Engine.ScaleFuncs.Power4EaseIn
+  name: Power4EaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power4EaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.Power4EaseIn
+  fullName: Aximo.Engine.ScaleFuncs.Power4EaseIn
+  nameWithType: ScaleFuncs.Power4EaseIn
+- uid: Aximo.Engine.ScaleFuncs.Power4EaseInOut
+  name: Power4EaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power4EaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power4EaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.Power4EaseInOut
+  nameWithType: ScaleFuncs.Power4EaseInOut
+- uid: Aximo.Engine.ScaleFuncs.Power4EaseOut
+  name: Power4EaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power4EaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power4EaseOut
+  fullName: Aximo.Engine.ScaleFuncs.Power4EaseOut
+  nameWithType: ScaleFuncs.Power4EaseOut
+- uid: Aximo.Engine.ScaleFuncs.Power5EaseIn
+  name: Power5EaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power5EaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.Power5EaseIn
+  fullName: Aximo.Engine.ScaleFuncs.Power5EaseIn
+  nameWithType: ScaleFuncs.Power5EaseIn
+- uid: Aximo.Engine.ScaleFuncs.Power5EaseInOut
+  name: Power5EaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power5EaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power5EaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.Power5EaseInOut
+  nameWithType: ScaleFuncs.Power5EaseInOut
+- uid: Aximo.Engine.ScaleFuncs.Power5EaseOut
+  name: Power5EaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_Power5EaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.Power5EaseOut
+  fullName: Aximo.Engine.ScaleFuncs.Power5EaseOut
+  nameWithType: ScaleFuncs.Power5EaseOut
+- uid: Aximo.Engine.ScaleFuncs.SineEaseIn
+  name: SineEaseIn
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_SineEaseIn
+  commentId: F:Aximo.Engine.ScaleFuncs.SineEaseIn
+  fullName: Aximo.Engine.ScaleFuncs.SineEaseIn
+  nameWithType: ScaleFuncs.SineEaseIn
+- uid: Aximo.Engine.ScaleFuncs.SineEaseInOut
+  name: SineEaseInOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_SineEaseInOut
+  commentId: F:Aximo.Engine.ScaleFuncs.SineEaseInOut
+  fullName: Aximo.Engine.ScaleFuncs.SineEaseInOut
+  nameWithType: ScaleFuncs.SineEaseInOut
+- uid: Aximo.Engine.ScaleFuncs.SineEaseOut
+  name: SineEaseOut
+  href: api/Aximo.Engine.ScaleFuncs.html#Aximo_Engine_ScaleFuncs_SineEaseOut
+  commentId: F:Aximo.Engine.ScaleFuncs.SineEaseOut
+  fullName: Aximo.Engine.ScaleFuncs.SineEaseOut
+  nameWithType: ScaleFuncs.SineEaseOut
 - uid: Aximo.Engine.SceneComponent
   name: SceneComponent
   href: api/Aximo.Engine.SceneComponent.html
@@ -6198,25 +6315,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.SceneContext.AddActor
   nameWithType: SceneContext.AddActor
-- uid: Aximo.Engine.SceneContext.AddAnimation(Aximo.Engine.Animation)
-  name: AddAnimation(Animation)
-  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_AddAnimation_Aximo_Engine_Animation_
-  commentId: M:Aximo.Engine.SceneContext.AddAnimation(Aximo.Engine.Animation)
-  fullName: Aximo.Engine.SceneContext.AddAnimation(Aximo.Engine.Animation)
-  nameWithType: SceneContext.AddAnimation(Animation)
-- uid: Aximo.Engine.SceneContext.AddAnimation*
-  name: AddAnimation
-  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_AddAnimation_
-  commentId: Overload:Aximo.Engine.SceneContext.AddAnimation
+- uid: Aximo.Engine.SceneContext.AddUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  name: AddUpdateFrameObject(IUpdateFrame)
+  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_AddUpdateFrameObject_Aximo_Render_IUpdateFrame_
+  commentId: M:Aximo.Engine.SceneContext.AddUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  fullName: Aximo.Engine.SceneContext.AddUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  nameWithType: SceneContext.AddUpdateFrameObject(IUpdateFrame)
+- uid: Aximo.Engine.SceneContext.AddUpdateFrameObject*
+  name: AddUpdateFrameObject
+  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_AddUpdateFrameObject_
+  commentId: Overload:Aximo.Engine.SceneContext.AddUpdateFrameObject
   isSpec: "True"
-  fullName: Aximo.Engine.SceneContext.AddAnimation
-  nameWithType: SceneContext.AddAnimation
-- uid: Aximo.Engine.SceneContext.Animations
-  name: Animations
-  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_Animations
-  commentId: F:Aximo.Engine.SceneContext.Animations
-  fullName: Aximo.Engine.SceneContext.Animations
-  nameWithType: SceneContext.Animations
+  fullName: Aximo.Engine.SceneContext.AddUpdateFrameObject
+  nameWithType: SceneContext.AddUpdateFrameObject
 - uid: Aximo.Engine.SceneContext.BackgroundColor
   name: BackgroundColor
   href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_BackgroundColor
@@ -6386,6 +6497,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.SceneContext.RemoveActor
   nameWithType: SceneContext.RemoveActor
+- uid: Aximo.Engine.SceneContext.RemoveUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  name: RemoveUpdateFrameObject(IUpdateFrame)
+  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_RemoveUpdateFrameObject_Aximo_Render_IUpdateFrame_
+  commentId: M:Aximo.Engine.SceneContext.RemoveUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  fullName: Aximo.Engine.SceneContext.RemoveUpdateFrameObject(Aximo.Render.IUpdateFrame)
+  nameWithType: SceneContext.RemoveUpdateFrameObject(IUpdateFrame)
+- uid: Aximo.Engine.SceneContext.RemoveUpdateFrameObject*
+  name: RemoveUpdateFrameObject
+  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_RemoveUpdateFrameObject_
+  commentId: Overload:Aximo.Engine.SceneContext.RemoveUpdateFrameObject
+  isSpec: "True"
+  fullName: Aximo.Engine.SceneContext.RemoveUpdateFrameObject
+  nameWithType: SceneContext.RemoveUpdateFrameObject
 - uid: Aximo.Engine.SceneContext.Sync
   name: Sync()
   href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_Sync
@@ -6412,6 +6536,12 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.SceneContext.Time
   nameWithType: SceneContext.Time
+- uid: Aximo.Engine.SceneContext.UpdateFrameObjects
+  name: UpdateFrameObjects
+  href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_UpdateFrameObjects
+  commentId: F:Aximo.Engine.SceneContext.UpdateFrameObjects
+  fullName: Aximo.Engine.SceneContext.UpdateFrameObjects
+  nameWithType: SceneContext.UpdateFrameObjects
 - uid: Aximo.Engine.SceneContext.Visit(System.Action{Aximo.Engine.Actor})
   name: Visit(Action<Actor>)
   href: api/Aximo.Engine.SceneContext.html#Aximo_Engine_SceneContext_Visit_System_Action_Aximo_Engine_Actor__
@@ -6965,6 +7095,839 @@ references:
   isSpec: "True"
   fullName: Aximo.Engine.TextureManager.GetFromFile
   nameWithType: TextureManager.GetFromFile
+- uid: Aximo.Engine.Tween
+  name: Tween
+  href: api/Aximo.Engine.Tween.html
+  commentId: T:Aximo.Engine.Tween
+  fullName: Aximo.Engine.Tween
+  nameWithType: Tween
+- uid: Aximo.Engine.Tween.#ctor
+  name: Tween()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween__ctor
+  commentId: M:Aximo.Engine.Tween.#ctor
+  fullName: Aximo.Engine.Tween.Tween()
+  nameWithType: Tween.Tween()
+- uid: Aximo.Engine.Tween.#ctor*
+  name: Tween
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween__ctor_
+  commentId: Overload:Aximo.Engine.Tween.#ctor
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Tween
+  nameWithType: Tween.Tween
+- uid: Aximo.Engine.Tween.DefaultScaleFunc(System.Single)
+  name: DefaultScaleFunc(Single)
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_DefaultScaleFunc_System_Single_
+  commentId: M:Aximo.Engine.Tween.DefaultScaleFunc(System.Single)
+  fullName: Aximo.Engine.Tween.DefaultScaleFunc(System.Single)
+  nameWithType: Tween.DefaultScaleFunc(Single)
+- uid: Aximo.Engine.Tween.DefaultScaleFunc*
+  name: DefaultScaleFunc
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_DefaultScaleFunc_
+  commentId: Overload:Aximo.Engine.Tween.DefaultScaleFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.DefaultScaleFunc
+  nameWithType: Tween.DefaultScaleFunc
+- uid: Aximo.Engine.Tween.Duration
+  name: Duration
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Duration
+  commentId: F:Aximo.Engine.Tween.Duration
+  fullName: Aximo.Engine.Tween.Duration
+  nameWithType: Tween.Duration
+- uid: Aximo.Engine.Tween.Enabled
+  name: Enabled
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Enabled
+  commentId: P:Aximo.Engine.Tween.Enabled
+  fullName: Aximo.Engine.Tween.Enabled
+  nameWithType: Tween.Enabled
+- uid: Aximo.Engine.Tween.Enabled*
+  name: Enabled
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Enabled_
+  commentId: Overload:Aximo.Engine.Tween.Enabled
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Enabled
+  nameWithType: Tween.Enabled
+- uid: Aximo.Engine.Tween.End
+  name: End()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_End
+  commentId: M:Aximo.Engine.Tween.End
+  fullName: Aximo.Engine.Tween.End()
+  nameWithType: Tween.End()
+- uid: Aximo.Engine.Tween.End*
+  name: End
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_End_
+  commentId: Overload:Aximo.Engine.Tween.End
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.End
+  nameWithType: Tween.End
+- uid: Aximo.Engine.Tween.For(Aximo.Engine.SceneComponent)
+  name: For(SceneComponent)
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_For_Aximo_Engine_SceneComponent_
+  commentId: M:Aximo.Engine.Tween.For(Aximo.Engine.SceneComponent)
+  fullName: Aximo.Engine.Tween.For(Aximo.Engine.SceneComponent)
+  nameWithType: Tween.For(SceneComponent)
+- uid: Aximo.Engine.Tween.For*
+  name: For
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_For_
+  commentId: Overload:Aximo.Engine.Tween.For
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.For
+  nameWithType: Tween.For
+- uid: Aximo.Engine.Tween.Name
+  name: Name
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Name
+  commentId: F:Aximo.Engine.Tween.Name
+  fullName: Aximo.Engine.Tween.Name
+  nameWithType: Tween.Name
+- uid: Aximo.Engine.Tween.OnStart
+  name: OnStart
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_OnStart
+  commentId: F:Aximo.Engine.Tween.OnStart
+  fullName: Aximo.Engine.Tween.OnStart
+  nameWithType: Tween.OnStart
+- uid: Aximo.Engine.Tween.OnUpdateFrame
+  name: OnUpdateFrame()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_OnUpdateFrame
+  commentId: M:Aximo.Engine.Tween.OnUpdateFrame
+  fullName: Aximo.Engine.Tween.OnUpdateFrame()
+  nameWithType: Tween.OnUpdateFrame()
+- uid: Aximo.Engine.Tween.OnUpdateFrame*
+  name: OnUpdateFrame
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_OnUpdateFrame_
+  commentId: Overload:Aximo.Engine.Tween.OnUpdateFrame
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.OnUpdateFrame
+  nameWithType: Tween.OnUpdateFrame
+- uid: Aximo.Engine.Tween.Pause
+  name: Pause()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Pause
+  commentId: M:Aximo.Engine.Tween.Pause
+  fullName: Aximo.Engine.Tween.Pause()
+  nameWithType: Tween.Pause()
+- uid: Aximo.Engine.Tween.Pause*
+  name: Pause
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Pause_
+  commentId: Overload:Aximo.Engine.Tween.Pause
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Pause
+  nameWithType: Tween.Pause
+- uid: Aximo.Engine.Tween.Position
+  name: Position
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Position
+  commentId: P:Aximo.Engine.Tween.Position
+  fullName: Aximo.Engine.Tween.Position
+  nameWithType: Tween.Position
+- uid: Aximo.Engine.Tween.Position*
+  name: Position
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Position_
+  commentId: Overload:Aximo.Engine.Tween.Position
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Position
+  nameWithType: Tween.Position
+- uid: Aximo.Engine.Tween.Repeat
+  name: Repeat
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Repeat
+  commentId: F:Aximo.Engine.Tween.Repeat
+  fullName: Aximo.Engine.Tween.Repeat
+  nameWithType: Tween.Repeat
+- uid: Aximo.Engine.Tween.Resume
+  name: Resume()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Resume
+  commentId: M:Aximo.Engine.Tween.Resume
+  fullName: Aximo.Engine.Tween.Resume()
+  nameWithType: Tween.Resume()
+- uid: Aximo.Engine.Tween.Resume*
+  name: Resume
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Resume_
+  commentId: Overload:Aximo.Engine.Tween.Resume
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Resume
+  nameWithType: Tween.Resume
+- uid: Aximo.Engine.Tween.ScaleFunc
+  name: ScaleFunc
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_ScaleFunc
+  commentId: F:Aximo.Engine.Tween.ScaleFunc
+  fullName: Aximo.Engine.Tween.ScaleFunc
+  nameWithType: Tween.ScaleFunc
+- uid: Aximo.Engine.Tween.Start
+  name: Start()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Start
+  commentId: M:Aximo.Engine.Tween.Start
+  fullName: Aximo.Engine.Tween.Start()
+  nameWithType: Tween.Start()
+- uid: Aximo.Engine.Tween.Start*
+  name: Start
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Start_
+  commentId: Overload:Aximo.Engine.Tween.Start
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Start
+  nameWithType: Tween.Start
+- uid: Aximo.Engine.Tween.StartTime
+  name: StartTime
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_StartTime
+  commentId: F:Aximo.Engine.Tween.StartTime
+  fullName: Aximo.Engine.Tween.StartTime
+  nameWithType: Tween.StartTime
+- uid: Aximo.Engine.Tween.State
+  name: State
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_State
+  commentId: F:Aximo.Engine.Tween.State
+  fullName: Aximo.Engine.Tween.State
+  nameWithType: Tween.State
+- uid: Aximo.Engine.Tween.Stop
+  name: Stop()
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Stop
+  commentId: M:Aximo.Engine.Tween.Stop
+  fullName: Aximo.Engine.Tween.Stop()
+  nameWithType: Tween.Stop()
+- uid: Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior)
+  name: Stop(TweenStopBehavior)
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Stop_Aximo_Engine_TweenStopBehavior_
+  commentId: M:Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior)
+  fullName: Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior)
+  nameWithType: Tween.Stop(TweenStopBehavior)
+- uid: Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior,System.Boolean)
+  name: Stop(TweenStopBehavior, Boolean)
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Stop_Aximo_Engine_TweenStopBehavior_System_Boolean_
+  commentId: M:Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior,System.Boolean)
+  fullName: Aximo.Engine.Tween.Stop(Aximo.Engine.TweenStopBehavior, System.Boolean)
+  nameWithType: Tween.Stop(TweenStopBehavior, Boolean)
+- uid: Aximo.Engine.Tween.Stop*
+  name: Stop
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Stop_
+  commentId: Overload:Aximo.Engine.Tween.Stop
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween.Stop
+  nameWithType: Tween.Stop
+- uid: Aximo.Engine.Tween.StopBehavior
+  name: StopBehavior
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_StopBehavior
+  commentId: F:Aximo.Engine.Tween.StopBehavior
+  fullName: Aximo.Engine.Tween.StopBehavior
+  nameWithType: Tween.StopBehavior
+- uid: Aximo.Engine.Tween.Tick
+  name: Tick
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_Tick
+  commentId: F:Aximo.Engine.Tween.Tick
+  fullName: Aximo.Engine.Tween.Tick
+  nameWithType: Tween.Tick
+- uid: Aximo.Engine.Tween.TweenComplete
+  name: TweenComplete
+  href: api/Aximo.Engine.Tween.html#Aximo_Engine_Tween_TweenComplete
+  commentId: F:Aximo.Engine.Tween.TweenComplete
+  fullName: Aximo.Engine.Tween.TweenComplete
+  nameWithType: Tween.TweenComplete
+- uid: Aximo.Engine.Tween`1
+  name: Tween<TValue>
+  href: api/Aximo.Engine.Tween-1.html
+  commentId: T:Aximo.Engine.Tween`1
+  name.vb: Tween(Of TValue)
+  fullName: Aximo.Engine.Tween<TValue>
+  fullName.vb: Aximo.Engine.Tween(Of TValue)
+  nameWithType: Tween<TValue>
+  nameWithType.vb: Tween(Of TValue)
+- uid: Aximo.Engine.Tween`1.#ctor
+  name: Tween()
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1__ctor
+  commentId: M:Aximo.Engine.Tween`1.#ctor
+  fullName: Aximo.Engine.Tween<TValue>.Tween()
+  fullName.vb: Aximo.Engine.Tween(Of TValue).Tween()
+  nameWithType: Tween<TValue>.Tween()
+  nameWithType.vb: Tween(Of TValue).Tween()
+- uid: Aximo.Engine.Tween`1.#ctor*
+  name: Tween
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1__ctor_
+  commentId: Overload:Aximo.Engine.Tween`1.#ctor
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween<TValue>.Tween
+  fullName.vb: Aximo.Engine.Tween(Of TValue).Tween
+  nameWithType: Tween<TValue>.Tween
+  nameWithType.vb: Tween(Of TValue).Tween
+- uid: Aximo.Engine.Tween`1.EndValue
+  name: EndValue
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_EndValue
+  commentId: F:Aximo.Engine.Tween`1.EndValue
+  fullName: Aximo.Engine.Tween<TValue>.EndValue
+  fullName.vb: Aximo.Engine.Tween(Of TValue).EndValue
+  nameWithType: Tween<TValue>.EndValue
+  nameWithType.vb: Tween(Of TValue).EndValue
+- uid: Aximo.Engine.Tween`1.GetDefaultLerpFunc
+  name: GetDefaultLerpFunc()
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_GetDefaultLerpFunc
+  commentId: M:Aximo.Engine.Tween`1.GetDefaultLerpFunc
+  fullName: Aximo.Engine.Tween<TValue>.GetDefaultLerpFunc()
+  fullName.vb: Aximo.Engine.Tween(Of TValue).GetDefaultLerpFunc()
+  nameWithType: Tween<TValue>.GetDefaultLerpFunc()
+  nameWithType.vb: Tween(Of TValue).GetDefaultLerpFunc()
+- uid: Aximo.Engine.Tween`1.GetDefaultLerpFunc*
+  name: GetDefaultLerpFunc
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_GetDefaultLerpFunc_
+  commentId: Overload:Aximo.Engine.Tween`1.GetDefaultLerpFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween<TValue>.GetDefaultLerpFunc
+  fullName.vb: Aximo.Engine.Tween(Of TValue).GetDefaultLerpFunc
+  nameWithType: Tween<TValue>.GetDefaultLerpFunc
+  nameWithType.vb: Tween(Of TValue).GetDefaultLerpFunc
+- uid: Aximo.Engine.Tween`1.LerpFunc
+  name: LerpFunc
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_LerpFunc
+  commentId: F:Aximo.Engine.Tween`1.LerpFunc
+  fullName: Aximo.Engine.Tween<TValue>.LerpFunc
+  fullName.vb: Aximo.Engine.Tween(Of TValue).LerpFunc
+  nameWithType: Tween<TValue>.LerpFunc
+  nameWithType.vb: Tween(Of TValue).LerpFunc
+- uid: Aximo.Engine.Tween`1.ScaledPosition
+  name: ScaledPosition
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_ScaledPosition
+  commentId: P:Aximo.Engine.Tween`1.ScaledPosition
+  fullName: Aximo.Engine.Tween<TValue>.ScaledPosition
+  fullName.vb: Aximo.Engine.Tween(Of TValue).ScaledPosition
+  nameWithType: Tween<TValue>.ScaledPosition
+  nameWithType.vb: Tween(Of TValue).ScaledPosition
+- uid: Aximo.Engine.Tween`1.ScaledPosition*
+  name: ScaledPosition
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_ScaledPosition_
+  commentId: Overload:Aximo.Engine.Tween`1.ScaledPosition
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween<TValue>.ScaledPosition
+  fullName.vb: Aximo.Engine.Tween(Of TValue).ScaledPosition
+  nameWithType: Tween<TValue>.ScaledPosition
+  nameWithType.vb: Tween(Of TValue).ScaledPosition
+- uid: Aximo.Engine.Tween`1.StartValue
+  name: StartValue
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_StartValue
+  commentId: F:Aximo.Engine.Tween`1.StartValue
+  fullName: Aximo.Engine.Tween<TValue>.StartValue
+  fullName.vb: Aximo.Engine.Tween(Of TValue).StartValue
+  nameWithType: Tween<TValue>.StartValue
+  nameWithType.vb: Tween(Of TValue).StartValue
+- uid: Aximo.Engine.Tween`1.Value
+  name: Value
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_Value
+  commentId: P:Aximo.Engine.Tween`1.Value
+  fullName: Aximo.Engine.Tween<TValue>.Value
+  fullName.vb: Aximo.Engine.Tween(Of TValue).Value
+  nameWithType: Tween<TValue>.Value
+  nameWithType.vb: Tween(Of TValue).Value
+- uid: Aximo.Engine.Tween`1.Value*
+  name: Value
+  href: api/Aximo.Engine.Tween-1.html#Aximo_Engine_Tween_1_Value_
+  commentId: Overload:Aximo.Engine.Tween`1.Value
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween<TValue>.Value
+  fullName.vb: Aximo.Engine.Tween(Of TValue).Value
+  nameWithType: Tween<TValue>.Value
+  nameWithType.vb: Tween(Of TValue).Value
+- uid: Aximo.Engine.Tween1
+  name: Tween1
+  href: api/Aximo.Engine.Tween1.html
+  commentId: T:Aximo.Engine.Tween1
+  fullName: Aximo.Engine.Tween1
+  nameWithType: Tween1
+- uid: Aximo.Engine.Tween1.GetDefaultLerpFunc
+  name: GetDefaultLerpFunc()
+  href: api/Aximo.Engine.Tween1.html#Aximo_Engine_Tween1_GetDefaultLerpFunc
+  commentId: M:Aximo.Engine.Tween1.GetDefaultLerpFunc
+  fullName: Aximo.Engine.Tween1.GetDefaultLerpFunc()
+  nameWithType: Tween1.GetDefaultLerpFunc()
+- uid: Aximo.Engine.Tween1.GetDefaultLerpFunc*
+  name: GetDefaultLerpFunc
+  href: api/Aximo.Engine.Tween1.html#Aximo_Engine_Tween1_GetDefaultLerpFunc_
+  commentId: Overload:Aximo.Engine.Tween1.GetDefaultLerpFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween1.GetDefaultLerpFunc
+  nameWithType: Tween1.GetDefaultLerpFunc
+- uid: Aximo.Engine.Tween2
+  name: Tween2
+  href: api/Aximo.Engine.Tween2.html
+  commentId: T:Aximo.Engine.Tween2
+  fullName: Aximo.Engine.Tween2
+  nameWithType: Tween2
+- uid: Aximo.Engine.Tween2.Circle
+  name: Circle()
+  href: api/Aximo.Engine.Tween2.html#Aximo_Engine_Tween2_Circle
+  commentId: M:Aximo.Engine.Tween2.Circle
+  fullName: Aximo.Engine.Tween2.Circle()
+  nameWithType: Tween2.Circle()
+- uid: Aximo.Engine.Tween2.Circle(System.Single)
+  name: Circle(Single)
+  href: api/Aximo.Engine.Tween2.html#Aximo_Engine_Tween2_Circle_System_Single_
+  commentId: M:Aximo.Engine.Tween2.Circle(System.Single)
+  fullName: Aximo.Engine.Tween2.Circle(System.Single)
+  nameWithType: Tween2.Circle(Single)
+- uid: Aximo.Engine.Tween2.Circle*
+  name: Circle
+  href: api/Aximo.Engine.Tween2.html#Aximo_Engine_Tween2_Circle_
+  commentId: Overload:Aximo.Engine.Tween2.Circle
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween2.Circle
+  nameWithType: Tween2.Circle
+- uid: Aximo.Engine.Tween2.GetDefaultLerpFunc
+  name: GetDefaultLerpFunc()
+  href: api/Aximo.Engine.Tween2.html#Aximo_Engine_Tween2_GetDefaultLerpFunc
+  commentId: M:Aximo.Engine.Tween2.GetDefaultLerpFunc
+  fullName: Aximo.Engine.Tween2.GetDefaultLerpFunc()
+  nameWithType: Tween2.GetDefaultLerpFunc()
+- uid: Aximo.Engine.Tween2.GetDefaultLerpFunc*
+  name: GetDefaultLerpFunc
+  href: api/Aximo.Engine.Tween2.html#Aximo_Engine_Tween2_GetDefaultLerpFunc_
+  commentId: Overload:Aximo.Engine.Tween2.GetDefaultLerpFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween2.GetDefaultLerpFunc
+  nameWithType: Tween2.GetDefaultLerpFunc
+- uid: Aximo.Engine.Tween3
+  name: Tween3
+  href: api/Aximo.Engine.Tween3.html
+  commentId: T:Aximo.Engine.Tween3
+  fullName: Aximo.Engine.Tween3
+  nameWithType: Tween3
+- uid: Aximo.Engine.Tween3.GetDefaultLerpFunc
+  name: GetDefaultLerpFunc()
+  href: api/Aximo.Engine.Tween3.html#Aximo_Engine_Tween3_GetDefaultLerpFunc
+  commentId: M:Aximo.Engine.Tween3.GetDefaultLerpFunc
+  fullName: Aximo.Engine.Tween3.GetDefaultLerpFunc()
+  nameWithType: Tween3.GetDefaultLerpFunc()
+- uid: Aximo.Engine.Tween3.GetDefaultLerpFunc*
+  name: GetDefaultLerpFunc
+  href: api/Aximo.Engine.Tween3.html#Aximo_Engine_Tween3_GetDefaultLerpFunc_
+  commentId: Overload:Aximo.Engine.Tween3.GetDefaultLerpFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.Tween3.GetDefaultLerpFunc
+  nameWithType: Tween3.GetDefaultLerpFunc
+- uid: Aximo.Engine.TweenBuilder
+  name: TweenBuilder
+  href: api/Aximo.Engine.TweenBuilder.html
+  commentId: T:Aximo.Engine.TweenBuilder
+  fullName: Aximo.Engine.TweenBuilder
+  nameWithType: TweenBuilder
+- uid: Aximo.Engine.TweenBuilder.AllTweens
+  name: AllTweens
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_AllTweens
+  commentId: P:Aximo.Engine.TweenBuilder.AllTweens
+  fullName: Aximo.Engine.TweenBuilder.AllTweens
+  nameWithType: TweenBuilder.AllTweens
+- uid: Aximo.Engine.TweenBuilder.AllTweens*
+  name: AllTweens
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_AllTweens_
+  commentId: Overload:Aximo.Engine.TweenBuilder.AllTweens
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.AllTweens
+  nameWithType: TweenBuilder.AllTweens
+- uid: Aximo.Engine.TweenBuilder.ChainLevel
+  name: ChainLevel
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_ChainLevel
+  commentId: F:Aximo.Engine.TweenBuilder.ChainLevel
+  fullName: Aximo.Engine.TweenBuilder.ChainLevel
+  nameWithType: TweenBuilder.ChainLevel
+- uid: Aximo.Engine.TweenBuilder.CurrentTween
+  name: CurrentTween
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_CurrentTween
+  commentId: F:Aximo.Engine.TweenBuilder.CurrentTween
+  fullName: Aximo.Engine.TweenBuilder.CurrentTween
+  nameWithType: TweenBuilder.CurrentTween
+- uid: Aximo.Engine.TweenBuilder.IsRootChain
+  name: IsRootChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_IsRootChain
+  commentId: P:Aximo.Engine.TweenBuilder.IsRootChain
+  fullName: Aximo.Engine.TweenBuilder.IsRootChain
+  nameWithType: TweenBuilder.IsRootChain
+- uid: Aximo.Engine.TweenBuilder.IsRootChain*
+  name: IsRootChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_IsRootChain_
+  commentId: Overload:Aximo.Engine.TweenBuilder.IsRootChain
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.IsRootChain
+  nameWithType: TweenBuilder.IsRootChain
+- uid: Aximo.Engine.TweenBuilder.NextChain
+  name: NextChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextChain
+  commentId: P:Aximo.Engine.TweenBuilder.NextChain
+  fullName: Aximo.Engine.TweenBuilder.NextChain
+  nameWithType: TweenBuilder.NextChain
+- uid: Aximo.Engine.TweenBuilder.NextChain*
+  name: NextChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextChain_
+  commentId: Overload:Aximo.Engine.TweenBuilder.NextChain
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.NextChain
+  nameWithType: TweenBuilder.NextChain
+- uid: Aximo.Engine.TweenBuilder.NextNonEmptyChain
+  name: NextNonEmptyChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextNonEmptyChain
+  commentId: P:Aximo.Engine.TweenBuilder.NextNonEmptyChain
+  fullName: Aximo.Engine.TweenBuilder.NextNonEmptyChain
+  nameWithType: TweenBuilder.NextNonEmptyChain
+- uid: Aximo.Engine.TweenBuilder.NextNonEmptyChain*
+  name: NextNonEmptyChain
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextNonEmptyChain_
+  commentId: Overload:Aximo.Engine.TweenBuilder.NextNonEmptyChain
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.NextNonEmptyChain
+  nameWithType: TweenBuilder.NextNonEmptyChain
+- uid: Aximo.Engine.TweenBuilder.NextTarget
+  name: NextTarget
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextTarget
+  commentId: P:Aximo.Engine.TweenBuilder.NextTarget
+  fullName: Aximo.Engine.TweenBuilder.NextTarget
+  nameWithType: TweenBuilder.NextTarget
+- uid: Aximo.Engine.TweenBuilder.NextTarget*
+  name: NextTarget
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_NextTarget_
+  commentId: Overload:Aximo.Engine.TweenBuilder.NextTarget
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.NextTarget
+  nameWithType: TweenBuilder.NextTarget
+- uid: Aximo.Engine.TweenBuilder.Root
+  name: Root
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Root
+  commentId: P:Aximo.Engine.TweenBuilder.Root
+  fullName: Aximo.Engine.TweenBuilder.Root
+  nameWithType: TweenBuilder.Root
+- uid: Aximo.Engine.TweenBuilder.Root*
+  name: Root
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Root_
+  commentId: Overload:Aximo.Engine.TweenBuilder.Root
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.Root
+  nameWithType: TweenBuilder.Root
+- uid: Aximo.Engine.TweenBuilder.Start
+  name: Start()
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Start
+  commentId: M:Aximo.Engine.TweenBuilder.Start
+  fullName: Aximo.Engine.TweenBuilder.Start()
+  nameWithType: TweenBuilder.Start()
+- uid: Aximo.Engine.TweenBuilder.Start*
+  name: Start
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Start_
+  commentId: Overload:Aximo.Engine.TweenBuilder.Start
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.Start
+  nameWithType: TweenBuilder.Start
+- uid: Aximo.Engine.TweenBuilder.Stop
+  name: Stop()
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Stop
+  commentId: M:Aximo.Engine.TweenBuilder.Stop
+  fullName: Aximo.Engine.TweenBuilder.Stop()
+  nameWithType: TweenBuilder.Stop()
+- uid: Aximo.Engine.TweenBuilder.Stop*
+  name: Stop
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Stop_
+  commentId: Overload:Aximo.Engine.TweenBuilder.Stop
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.Stop
+  nameWithType: TweenBuilder.Stop
+- uid: Aximo.Engine.TweenBuilder.TweenChains
+  name: TweenChains
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_TweenChains
+  commentId: P:Aximo.Engine.TweenBuilder.TweenChains
+  fullName: Aximo.Engine.TweenBuilder.TweenChains
+  nameWithType: TweenBuilder.TweenChains
+- uid: Aximo.Engine.TweenBuilder.TweenChains*
+  name: TweenChains
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_TweenChains_
+  commentId: Overload:Aximo.Engine.TweenBuilder.TweenChains
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.TweenChains
+  nameWithType: TweenBuilder.TweenChains
+- uid: Aximo.Engine.TweenBuilder.Tweens
+  name: Tweens
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Tweens
+  commentId: P:Aximo.Engine.TweenBuilder.Tweens
+  fullName: Aximo.Engine.TweenBuilder.Tweens
+  nameWithType: TweenBuilder.Tweens
+- uid: Aximo.Engine.TweenBuilder.Tweens*
+  name: Tweens
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_Tweens_
+  commentId: Overload:Aximo.Engine.TweenBuilder.Tweens
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.Tweens
+  nameWithType: TweenBuilder.Tweens
+- uid: Aximo.Engine.TweenBuilder.TweenTargets
+  name: TweenTargets
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_TweenTargets
+  commentId: P:Aximo.Engine.TweenBuilder.TweenTargets
+  fullName: Aximo.Engine.TweenBuilder.TweenTargets
+  nameWithType: TweenBuilder.TweenTargets
+- uid: Aximo.Engine.TweenBuilder.TweenTargets*
+  name: TweenTargets
+  href: api/Aximo.Engine.TweenBuilder.html#Aximo_Engine_TweenBuilder_TweenTargets_
+  commentId: Overload:Aximo.Engine.TweenBuilder.TweenTargets
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder.TweenTargets
+  nameWithType: TweenBuilder.TweenTargets
+- uid: Aximo.Engine.TweenBuilder`1
+  name: TweenBuilder<TTarget>
+  href: api/Aximo.Engine.TweenBuilder-1.html
+  commentId: T:Aximo.Engine.TweenBuilder`1
+  name.vb: TweenBuilder(Of TTarget)
+  fullName: Aximo.Engine.TweenBuilder<TTarget>
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget)
+  nameWithType: TweenBuilder<TTarget>
+  nameWithType.vb: TweenBuilder(Of TTarget)
+- uid: Aximo.Engine.TweenBuilder`1.Duration(System.Single)
+  name: Duration(Single)
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Duration_System_Single_
+  commentId: M:Aximo.Engine.TweenBuilder`1.Duration(System.Single)
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Duration(System.Single)
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Duration(System.Single)
+  nameWithType: TweenBuilder<TTarget>.Duration(Single)
+  nameWithType.vb: TweenBuilder(Of TTarget).Duration(Single)
+- uid: Aximo.Engine.TweenBuilder`1.Duration(System.TimeSpan)
+  name: Duration(TimeSpan)
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Duration_System_TimeSpan_
+  commentId: M:Aximo.Engine.TweenBuilder`1.Duration(System.TimeSpan)
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Duration(System.TimeSpan)
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Duration(System.TimeSpan)
+  nameWithType: TweenBuilder<TTarget>.Duration(TimeSpan)
+  nameWithType.vb: TweenBuilder(Of TTarget).Duration(TimeSpan)
+- uid: Aximo.Engine.TweenBuilder`1.Duration*
+  name: Duration
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Duration_
+  commentId: Overload:Aximo.Engine.TweenBuilder`1.Duration
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Duration
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Duration
+  nameWithType: TweenBuilder<TTarget>.Duration
+  nameWithType.vb: TweenBuilder(Of TTarget).Duration
+- uid: Aximo.Engine.TweenBuilder`1.For*
+  name: For
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_For_
+  commentId: Overload:Aximo.Engine.TweenBuilder`1.For
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.For
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).For
+  nameWithType: TweenBuilder<TTarget>.For
+  nameWithType.vb: TweenBuilder(Of TTarget).For
+- uid: Aximo.Engine.TweenBuilder`1.For``1(``0)
+  name: For<TNewTarget>(TNewTarget)
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_For__1___0_
+  commentId: M:Aximo.Engine.TweenBuilder`1.For``1(``0)
+  name.vb: For(Of TNewTarget)(TNewTarget)
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.For<TNewTarget>(TNewTarget)
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).For(Of TNewTarget)(TNewTarget)
+  nameWithType: TweenBuilder<TTarget>.For<TNewTarget>(TNewTarget)
+  nameWithType.vb: TweenBuilder(Of TTarget).For(Of TNewTarget)(TNewTarget)
+- uid: Aximo.Engine.TweenBuilder`1.Repeat
+  name: Repeat()
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Repeat
+  commentId: M:Aximo.Engine.TweenBuilder`1.Repeat
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Repeat()
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Repeat()
+  nameWithType: TweenBuilder<TTarget>.Repeat()
+  nameWithType.vb: TweenBuilder(Of TTarget).Repeat()
+- uid: Aximo.Engine.TweenBuilder`1.Repeat*
+  name: Repeat
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Repeat_
+  commentId: Overload:Aximo.Engine.TweenBuilder`1.Repeat
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Repeat
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Repeat
+  nameWithType: TweenBuilder<TTarget>.Repeat
+  nameWithType.vb: TweenBuilder(Of TTarget).Repeat
+- uid: Aximo.Engine.TweenBuilder`1.ScaleFunc(Aximo.Engine.ScaleFunc)
+  name: ScaleFunc(ScaleFunc)
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_ScaleFunc_Aximo_Engine_ScaleFunc_
+  commentId: M:Aximo.Engine.TweenBuilder`1.ScaleFunc(Aximo.Engine.ScaleFunc)
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.ScaleFunc(Aximo.Engine.ScaleFunc)
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).ScaleFunc(Aximo.Engine.ScaleFunc)
+  nameWithType: TweenBuilder<TTarget>.ScaleFunc(ScaleFunc)
+  nameWithType.vb: TweenBuilder(Of TTarget).ScaleFunc(ScaleFunc)
+- uid: Aximo.Engine.TweenBuilder`1.ScaleFunc*
+  name: ScaleFunc
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_ScaleFunc_
+  commentId: Overload:Aximo.Engine.TweenBuilder`1.ScaleFunc
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.ScaleFunc
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).ScaleFunc
+  nameWithType: TweenBuilder<TTarget>.ScaleFunc
+  nameWithType.vb: TweenBuilder(Of TTarget).ScaleFunc
+- uid: Aximo.Engine.TweenBuilder`1.Targets
+  name: Targets
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Targets
+  commentId: F:Aximo.Engine.TweenBuilder`1.Targets
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Targets
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Targets
+  nameWithType: TweenBuilder<TTarget>.Targets
+  nameWithType.vb: TweenBuilder(Of TTarget).Targets
+- uid: Aximo.Engine.TweenBuilder`1.Then
+  name: Then()
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Then
+  commentId: M:Aximo.Engine.TweenBuilder`1.Then
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Then()
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Then()
+  nameWithType: TweenBuilder<TTarget>.Then()
+  nameWithType.vb: TweenBuilder(Of TTarget).Then()
+- uid: Aximo.Engine.TweenBuilder`1.Then*
+  name: Then
+  href: api/Aximo.Engine.TweenBuilder-1.html#Aximo_Engine_TweenBuilder_1_Then_
+  commentId: Overload:Aximo.Engine.TweenBuilder`1.Then
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilder<TTarget>.Then
+  fullName.vb: Aximo.Engine.TweenBuilder(Of TTarget).Then
+  nameWithType: TweenBuilder<TTarget>.Then
+  nameWithType.vb: TweenBuilder(Of TTarget).Then
+- uid: Aximo.Engine.TweenBuilderExtensions
+  name: TweenBuilderExtensions
+  href: api/Aximo.Engine.TweenBuilderExtensions.html
+  commentId: T:Aximo.Engine.TweenBuilderExtensions
+  fullName: Aximo.Engine.TweenBuilderExtensions
+  nameWithType: TweenBuilderExtensions
+- uid: Aximo.Engine.TweenBuilderExtensions.Rotate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Quaternion)
+  name: Rotate(TweenBuilder<SceneComponent>, Quaternion)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Rotate_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__OpenToolkit_Mathematics_Quaternion_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Rotate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Quaternion)
+  name.vb: Rotate(TweenBuilder(Of SceneComponent), Quaternion)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Rotate(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, OpenToolkit.Mathematics.Quaternion)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Rotate(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), OpenToolkit.Mathematics.Quaternion)
+  nameWithType: TweenBuilderExtensions.Rotate(TweenBuilder<SceneComponent>, Quaternion)
+  nameWithType.vb: TweenBuilderExtensions.Rotate(TweenBuilder(Of SceneComponent), Quaternion)
+- uid: Aximo.Engine.TweenBuilderExtensions.Rotate*
+  name: Rotate
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Rotate_
+  commentId: Overload:Aximo.Engine.TweenBuilderExtensions.Rotate
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilderExtensions.Rotate
+  nameWithType: TweenBuilderExtensions.Rotate
+- uid: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector3)
+  name: Scale(TweenBuilder<SceneComponent>, Vector3)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Scale_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__OpenToolkit_Mathematics_Vector3_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector3)
+  name.vb: Scale(TweenBuilder(Of SceneComponent), Vector3)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, OpenToolkit.Mathematics.Vector3)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), OpenToolkit.Mathematics.Vector3)
+  nameWithType: TweenBuilderExtensions.Scale(TweenBuilder<SceneComponent>, Vector3)
+  nameWithType.vb: TweenBuilderExtensions.Scale(TweenBuilder(Of SceneComponent), Vector3)
+- uid: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single)
+  name: Scale(TweenBuilder<SceneComponent>, Single)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Scale_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__System_Single_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single)
+  name.vb: Scale(TweenBuilder(Of SceneComponent), Single)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, System.Single)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), System.Single)
+  nameWithType: TweenBuilderExtensions.Scale(TweenBuilder<SceneComponent>, Single)
+  nameWithType.vb: TweenBuilderExtensions.Scale(TweenBuilder(Of SceneComponent), Single)
+- uid: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single,System.Single)
+  name: Scale(TweenBuilder<SceneComponent>, Single, Single, Single)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Scale_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__System_Single_System_Single_System_Single_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single,System.Single)
+  name.vb: Scale(TweenBuilder(Of SceneComponent), Single, Single, Single)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, System.Single, System.Single, System.Single)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Scale(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), System.Single, System.Single, System.Single)
+  nameWithType: TweenBuilderExtensions.Scale(TweenBuilder<SceneComponent>, Single, Single, Single)
+  nameWithType.vb: TweenBuilderExtensions.Scale(TweenBuilder(Of SceneComponent), Single, Single, Single)
+- uid: Aximo.Engine.TweenBuilderExtensions.Scale*
+  name: Scale
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Scale_
+  commentId: Overload:Aximo.Engine.TweenBuilderExtensions.Scale
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilderExtensions.Scale
+  nameWithType: TweenBuilderExtensions.Scale
+- uid: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector2)
+  name: Translate(TweenBuilder<SceneComponent>, Vector2)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Translate_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__OpenToolkit_Mathematics_Vector2_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector2)
+  name.vb: Translate(TweenBuilder(Of SceneComponent), Vector2)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, OpenToolkit.Mathematics.Vector2)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), OpenToolkit.Mathematics.Vector2)
+  nameWithType: TweenBuilderExtensions.Translate(TweenBuilder<SceneComponent>, Vector2)
+  nameWithType.vb: TweenBuilderExtensions.Translate(TweenBuilder(Of SceneComponent), Vector2)
+- uid: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector3)
+  name: Translate(TweenBuilder<SceneComponent>, Vector3)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Translate_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__OpenToolkit_Mathematics_Vector3_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},OpenToolkit.Mathematics.Vector3)
+  name.vb: Translate(TweenBuilder(Of SceneComponent), Vector3)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, OpenToolkit.Mathematics.Vector3)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), OpenToolkit.Mathematics.Vector3)
+  nameWithType: TweenBuilderExtensions.Translate(TweenBuilder<SceneComponent>, Vector3)
+  nameWithType.vb: TweenBuilderExtensions.Translate(TweenBuilder(Of SceneComponent), Vector3)
+- uid: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single)
+  name: Translate(TweenBuilder<SceneComponent>, Single, Single)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Translate_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__System_Single_System_Single_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single)
+  name.vb: Translate(TweenBuilder(Of SceneComponent), Single, Single)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, System.Single, System.Single)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), System.Single, System.Single)
+  nameWithType: TweenBuilderExtensions.Translate(TweenBuilder<SceneComponent>, Single, Single)
+  nameWithType.vb: TweenBuilderExtensions.Translate(TweenBuilder(Of SceneComponent), Single, Single)
+- uid: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single,System.Single)
+  name: Translate(TweenBuilder<SceneComponent>, Single, Single, Single)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Translate_Aximo_Engine_TweenBuilder_Aximo_Engine_SceneComponent__System_Single_System_Single_System_Single_
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder{Aximo.Engine.SceneComponent},System.Single,System.Single,System.Single)
+  name.vb: Translate(TweenBuilder(Of SceneComponent), Single, Single, Single)
+  fullName: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder<Aximo.Engine.SceneComponent>, System.Single, System.Single, System.Single)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Translate(Aximo.Engine.TweenBuilder(Of Aximo.Engine.SceneComponent), System.Single, System.Single, System.Single)
+  nameWithType: TweenBuilderExtensions.Translate(TweenBuilder<SceneComponent>, Single, Single, Single)
+  nameWithType.vb: TweenBuilderExtensions.Translate(TweenBuilder(Of SceneComponent), Single, Single, Single)
+- uid: Aximo.Engine.TweenBuilderExtensions.Translate*
+  name: Translate
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Translate_
+  commentId: Overload:Aximo.Engine.TweenBuilderExtensions.Translate
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilderExtensions.Translate
+  nameWithType: TweenBuilderExtensions.Translate
+- uid: Aximo.Engine.TweenBuilderExtensions.Value*
+  name: Value
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Value_
+  commentId: Overload:Aximo.Engine.TweenBuilderExtensions.Value
+  isSpec: "True"
+  fullName: Aximo.Engine.TweenBuilderExtensions.Value
+  nameWithType: TweenBuilderExtensions.Value
+- uid: Aximo.Engine.TweenBuilderExtensions.Value``2(Aximo.Engine.TweenBuilder{``0},``1,System.Func{``0,``1},System.Action{``0,``1})
+  name: Value<TTarget, TValue>(TweenBuilder<TTarget>, TValue, Func<TTarget, TValue>, Action<TTarget, TValue>)
+  href: api/Aximo.Engine.TweenBuilderExtensions.html#Aximo_Engine_TweenBuilderExtensions_Value__2_Aximo_Engine_TweenBuilder___0____1_System_Func___0___1__System_Action___0___1__
+  commentId: M:Aximo.Engine.TweenBuilderExtensions.Value``2(Aximo.Engine.TweenBuilder{``0},``1,System.Func{``0,``1},System.Action{``0,``1})
+  name.vb: Value(Of TTarget, TValue)(TweenBuilder(Of TTarget), TValue, Func(Of TTarget, TValue), Action(Of TTarget, TValue))
+  fullName: Aximo.Engine.TweenBuilderExtensions.Value<TTarget, TValue>(Aximo.Engine.TweenBuilder<TTarget>, TValue, System.Func<TTarget, TValue>, System.Action<TTarget, TValue>)
+  fullName.vb: Aximo.Engine.TweenBuilderExtensions.Value(Of TTarget, TValue)(Aximo.Engine.TweenBuilder(Of TTarget), TValue, System.Func(Of TTarget, TValue), System.Action(Of TTarget, TValue))
+  nameWithType: TweenBuilderExtensions.Value<TTarget, TValue>(TweenBuilder<TTarget>, TValue, Func<TTarget, TValue>, Action<TTarget, TValue>)
+  nameWithType.vb: TweenBuilderExtensions.Value(Of TTarget, TValue)(TweenBuilder(Of TTarget), TValue, Func(Of TTarget, TValue), Action(Of TTarget, TValue))
+- uid: Aximo.Engine.TweenFinishedDelegate
+  name: TweenFinishedDelegate
+  href: api/Aximo.Engine.TweenFinishedDelegate.html
+  commentId: T:Aximo.Engine.TweenFinishedDelegate
+  fullName: Aximo.Engine.TweenFinishedDelegate
+  nameWithType: TweenFinishedDelegate
+- uid: Aximo.Engine.TweenState
+  name: TweenState
+  href: api/Aximo.Engine.TweenState.html
+  commentId: T:Aximo.Engine.TweenState
+  fullName: Aximo.Engine.TweenState
+  nameWithType: TweenState
+- uid: Aximo.Engine.TweenState.Paused
+  name: Paused
+  href: api/Aximo.Engine.TweenState.html#Aximo_Engine_TweenState_Paused
+  commentId: F:Aximo.Engine.TweenState.Paused
+  fullName: Aximo.Engine.TweenState.Paused
+  nameWithType: TweenState.Paused
+- uid: Aximo.Engine.TweenState.Running
+  name: Running
+  href: api/Aximo.Engine.TweenState.html#Aximo_Engine_TweenState_Running
+  commentId: F:Aximo.Engine.TweenState.Running
+  fullName: Aximo.Engine.TweenState.Running
+  nameWithType: TweenState.Running
+- uid: Aximo.Engine.TweenState.Stopped
+  name: Stopped
+  href: api/Aximo.Engine.TweenState.html#Aximo_Engine_TweenState_Stopped
+  commentId: F:Aximo.Engine.TweenState.Stopped
+  fullName: Aximo.Engine.TweenState.Stopped
+  nameWithType: TweenState.Stopped
+- uid: Aximo.Engine.TweenStopBehavior
+  name: TweenStopBehavior
+  href: api/Aximo.Engine.TweenStopBehavior.html
+  commentId: T:Aximo.Engine.TweenStopBehavior
+  fullName: Aximo.Engine.TweenStopBehavior
+  nameWithType: TweenStopBehavior
+- uid: Aximo.Engine.TweenStopBehavior.AsIs
+  name: AsIs
+  href: api/Aximo.Engine.TweenStopBehavior.html#Aximo_Engine_TweenStopBehavior_AsIs
+  commentId: F:Aximo.Engine.TweenStopBehavior.AsIs
+  fullName: Aximo.Engine.TweenStopBehavior.AsIs
+  nameWithType: TweenStopBehavior.AsIs
+- uid: Aximo.Engine.TweenStopBehavior.ForceComplete
+  name: ForceComplete
+  href: api/Aximo.Engine.TweenStopBehavior.html#Aximo_Engine_TweenStopBehavior_ForceComplete
+  commentId: F:Aximo.Engine.TweenStopBehavior.ForceComplete
+  fullName: Aximo.Engine.TweenStopBehavior.ForceComplete
+  nameWithType: TweenStopBehavior.ForceComplete
 - uid: Aximo.Engine.Windows
   name: Aximo.Engine.Windows
   href: api/Aximo.Engine.Windows.html
@@ -7724,6 +8687,312 @@ references:
   isSpec: "True"
   fullName: Aximo.Generators.AlchemyCircle.TextureDraw.SetPixel
   nameWithType: TextureDraw.SetPixel
+- uid: Aximo.Hashing
+  name: Hashing
+  href: api/Aximo.Hashing.html
+  commentId: T:Aximo.Hashing
+  fullName: Aximo.Hashing
+  nameWithType: Hashing
+- uid: Aximo.Hashing.Combine2IntToInt64(System.Int32,System.Int32)
+  name: Combine2IntToInt64(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Combine2IntToInt64_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.Combine2IntToInt64(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.Combine2IntToInt64(System.Int32, System.Int32)
+  nameWithType: Hashing.Combine2IntToInt64(Int32, Int32)
+- uid: Aximo.Hashing.Combine2IntToInt64(System.UInt32,System.UInt32)
+  name: Combine2IntToInt64(UInt32, UInt32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Combine2IntToInt64_System_UInt32_System_UInt32_
+  commentId: M:Aximo.Hashing.Combine2IntToInt64(System.UInt32,System.UInt32)
+  fullName: Aximo.Hashing.Combine2IntToInt64(System.UInt32, System.UInt32)
+  nameWithType: Hashing.Combine2IntToInt64(UInt32, UInt32)
+- uid: Aximo.Hashing.Combine2IntToInt64*
+  name: Combine2IntToInt64
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Combine2IntToInt64_
+  commentId: Overload:Aximo.Hashing.Combine2IntToInt64
+  isSpec: "True"
+  fullName: Aximo.Hashing.Combine2IntToInt64
+  nameWithType: Hashing.Combine2IntToInt64
+- uid: Aximo.Hashing.FNV32(System.Byte[])
+  name: FNV32(Byte[])
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_System_Byte___
+  commentId: M:Aximo.Hashing.FNV32(System.Byte[])
+  name.vb: FNV32(Byte())
+  fullName: Aximo.Hashing.FNV32(System.Byte[])
+  fullName.vb: Aximo.Hashing.FNV32(System.Byte())
+  nameWithType: Hashing.FNV32(Byte[])
+  nameWithType.vb: Hashing.FNV32(Byte())
+- uid: Aximo.Hashing.FNV32(System.Char[])
+  name: FNV32(Char[])
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_System_Char___
+  commentId: M:Aximo.Hashing.FNV32(System.Char[])
+  name.vb: FNV32(Char())
+  fullName: Aximo.Hashing.FNV32(System.Char[])
+  fullName.vb: Aximo.Hashing.FNV32(System.Char())
+  nameWithType: Hashing.FNV32(Char[])
+  nameWithType.vb: Hashing.FNV32(Char())
+- uid: Aximo.Hashing.FNV32(System.Memory{System.Byte})
+  name: FNV32(Memory<Byte>)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_System_Memory_System_Byte__
+  commentId: M:Aximo.Hashing.FNV32(System.Memory{System.Byte})
+  name.vb: FNV32(Memory(Of Byte))
+  fullName: Aximo.Hashing.FNV32(System.Memory<System.Byte>)
+  fullName.vb: Aximo.Hashing.FNV32(System.Memory(Of System.Byte))
+  nameWithType: Hashing.FNV32(Memory<Byte>)
+  nameWithType.vb: Hashing.FNV32(Memory(Of Byte))
+- uid: Aximo.Hashing.FNV32(System.Span{System.Byte})
+  name: FNV32(Span<Byte>)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_System_Span_System_Byte__
+  commentId: M:Aximo.Hashing.FNV32(System.Span{System.Byte})
+  name.vb: FNV32(Span(Of Byte))
+  fullName: Aximo.Hashing.FNV32(System.Span<System.Byte>)
+  fullName.vb: Aximo.Hashing.FNV32(System.Span(Of System.Byte))
+  nameWithType: Hashing.FNV32(Span<Byte>)
+  nameWithType.vb: Hashing.FNV32(Span(Of Byte))
+- uid: Aximo.Hashing.FNV32(System.String)
+  name: FNV32(String)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_System_String_
+  commentId: M:Aximo.Hashing.FNV32(System.String)
+  fullName: Aximo.Hashing.FNV32(System.String)
+  nameWithType: Hashing.FNV32(String)
+- uid: Aximo.Hashing.FNV32*
+  name: FNV32
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32_
+  commentId: Overload:Aximo.Hashing.FNV32
+  isSpec: "True"
+  fullName: Aximo.Hashing.FNV32
+  nameWithType: Hashing.FNV32
+- uid: Aximo.Hashing.FNV32``1(System.Memory{``0})
+  name: FNV32<T>(Memory<T>)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32__1_System_Memory___0__
+  commentId: M:Aximo.Hashing.FNV32``1(System.Memory{``0})
+  name.vb: FNV32(Of T)(Memory(Of T))
+  fullName: Aximo.Hashing.FNV32<T>(System.Memory<T>)
+  fullName.vb: Aximo.Hashing.FNV32(Of T)(System.Memory(Of T))
+  nameWithType: Hashing.FNV32<T>(Memory<T>)
+  nameWithType.vb: Hashing.FNV32(Of T)(Memory(Of T))
+- uid: Aximo.Hashing.FNV32``1(System.Span{``0})
+  name: FNV32<T>(Span<T>)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_FNV32__1_System_Span___0__
+  commentId: M:Aximo.Hashing.FNV32``1(System.Span{``0})
+  name.vb: FNV32(Of T)(Span(Of T))
+  fullName: Aximo.Hashing.FNV32<T>(System.Span<T>)
+  fullName.vb: Aximo.Hashing.FNV32(Of T)(System.Span(Of T))
+  nameWithType: Hashing.FNV32<T>(Span<T>)
+  nameWithType.vb: Hashing.FNV32(Of T)(Span(Of T))
+- uid: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32)
+  name: GetRandomNumberOfInteger(Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_GetRandomNumberOfInteger_System_Int32_
+  commentId: M:Aximo.Hashing.GetRandomNumberOfInteger(System.Int32)
+  fullName: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32)
+  nameWithType: Hashing.GetRandomNumberOfInteger(Int32)
+- uid: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32)
+  name: GetRandomNumberOfInteger(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_GetRandomNumberOfInteger_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32, System.Int32)
+  nameWithType: Hashing.GetRandomNumberOfInteger(Int32, Int32)
+- uid: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32,System.Int32)
+  name: GetRandomNumberOfInteger(Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_GetRandomNumberOfInteger_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.GetRandomNumberOfInteger(Int32, Int32, Int32)
+- uid: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32,System.Int32,System.Int32)
+  name: GetRandomNumberOfInteger(Int32, Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_GetRandomNumberOfInteger_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.GetRandomNumberOfInteger(System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.GetRandomNumberOfInteger(System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.GetRandomNumberOfInteger(Int32, Int32, Int32, Int32)
+- uid: Aximo.Hashing.GetRandomNumberOfInteger*
+  name: GetRandomNumberOfInteger
+  href: api/Aximo.Hashing.html#Aximo_Hashing_GetRandomNumberOfInteger_
+  commentId: Overload:Aximo.Hashing.GetRandomNumberOfInteger
+  isSpec: "True"
+  fullName: Aximo.Hashing.GetRandomNumberOfInteger
+  nameWithType: Hashing.GetRandomNumberOfInteger
+- uid: Aximo.Hashing.Hash6432shift(System.Int64)
+  name: Hash6432shift(Int64)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Hash6432shift_System_Int64_
+  commentId: M:Aximo.Hashing.Hash6432shift(System.Int64)
+  fullName: Aximo.Hashing.Hash6432shift(System.Int64)
+  nameWithType: Hashing.Hash6432shift(Int64)
+- uid: Aximo.Hashing.Hash6432shift*
+  name: Hash6432shift
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Hash6432shift_
+  commentId: Overload:Aximo.Hashing.Hash6432shift
+  isSpec: "True"
+  fullName: Aximo.Hashing.Hash6432shift
+  nameWithType: Hashing.Hash6432shift
+- uid: Aximo.Hashing.HashInteger(System.Int32)
+  name: HashInteger(Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32)
+  nameWithType: Hashing.HashInteger(Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32, Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32, Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32, Int32, Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32, Int32, Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32, Int32, Int32, Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: HashInteger(Int32, Int32, Int32, Int32, Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.HashInteger(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.HashInteger(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.HashInteger(Int32, Int32, Int32, Int32, Int32, Int32, Int32)
+- uid: Aximo.Hashing.HashInteger(System.UInt32)
+  name: HashInteger(UInt32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_System_UInt32_
+  commentId: M:Aximo.Hashing.HashInteger(System.UInt32)
+  fullName: Aximo.Hashing.HashInteger(System.UInt32)
+  nameWithType: Hashing.HashInteger(UInt32)
+- uid: Aximo.Hashing.HashInteger*
+  name: HashInteger
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashInteger_
+  commentId: Overload:Aximo.Hashing.HashInteger
+  isSpec: "True"
+  fullName: Aximo.Hashing.HashInteger
+  nameWithType: Hashing.HashInteger
+- uid: Aximo.Hashing.HashLarson(System.Byte[],System.UInt32)
+  name: HashLarson(Byte[], UInt32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashLarson_System_Byte___System_UInt32_
+  commentId: M:Aximo.Hashing.HashLarson(System.Byte[],System.UInt32)
+  name.vb: HashLarson(Byte(), UInt32)
+  fullName: Aximo.Hashing.HashLarson(System.Byte[], System.UInt32)
+  fullName.vb: Aximo.Hashing.HashLarson(System.Byte(), System.UInt32)
+  nameWithType: Hashing.HashLarson(Byte[], UInt32)
+  nameWithType.vb: Hashing.HashLarson(Byte(), UInt32)
+- uid: Aximo.Hashing.HashLarson(System.Int32)
+  name: HashLarson(Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashLarson_System_Int32_
+  commentId: M:Aximo.Hashing.HashLarson(System.Int32)
+  fullName: Aximo.Hashing.HashLarson(System.Int32)
+  nameWithType: Hashing.HashLarson(Int32)
+- uid: Aximo.Hashing.HashLarson*
+  name: HashLarson
+  href: api/Aximo.Hashing.html#Aximo_Hashing_HashLarson_
+  commentId: Overload:Aximo.Hashing.HashLarson
+  isSpec: "True"
+  fullName: Aximo.Hashing.HashLarson
+  nameWithType: Hashing.HashLarson
+- uid: Aximo.Hashing.Mix(System.Int32,System.Int32)
+  name: Mix(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Mix_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.Mix(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.Mix(System.Int32, System.Int32)
+  nameWithType: Hashing.Mix(Int32, Int32)
+- uid: Aximo.Hashing.Mix(System.Int32,System.Int32,System.Int32)
+  name: Mix(Int32, Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Mix_System_Int32_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.Mix(System.Int32,System.Int32,System.Int32)
+  fullName: Aximo.Hashing.Mix(System.Int32, System.Int32, System.Int32)
+  nameWithType: Hashing.Mix(Int32, Int32, Int32)
+- uid: Aximo.Hashing.Mix(System.UInt32,System.UInt32)
+  name: Mix(UInt32, UInt32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Mix_System_UInt32_System_UInt32_
+  commentId: M:Aximo.Hashing.Mix(System.UInt32,System.UInt32)
+  fullName: Aximo.Hashing.Mix(System.UInt32, System.UInt32)
+  nameWithType: Hashing.Mix(UInt32, UInt32)
+- uid: Aximo.Hashing.Mix(System.UInt32,System.UInt32,System.UInt32)
+  name: Mix(UInt32, UInt32, UInt32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Mix_System_UInt32_System_UInt32_System_UInt32_
+  commentId: M:Aximo.Hashing.Mix(System.UInt32,System.UInt32,System.UInt32)
+  fullName: Aximo.Hashing.Mix(System.UInt32, System.UInt32, System.UInt32)
+  nameWithType: Hashing.Mix(UInt32, UInt32, UInt32)
+- uid: Aximo.Hashing.Mix*
+  name: Mix
+  href: api/Aximo.Hashing.html#Aximo_Hashing_Mix_
+  commentId: Overload:Aximo.Hashing.Mix
+  isSpec: "True"
+  fullName: Aximo.Hashing.Mix
+  nameWithType: Hashing.Mix
+- uid: Aximo.Hashing.RotateLeft(System.Int32,System.Int32)
+  name: RotateLeft(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateLeft_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.RotateLeft(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.RotateLeft(System.Int32, System.Int32)
+  nameWithType: Hashing.RotateLeft(Int32, Int32)
+- uid: Aximo.Hashing.RotateLeft(System.Int64,System.Int32)
+  name: RotateLeft(Int64, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateLeft_System_Int64_System_Int32_
+  commentId: M:Aximo.Hashing.RotateLeft(System.Int64,System.Int32)
+  fullName: Aximo.Hashing.RotateLeft(System.Int64, System.Int32)
+  nameWithType: Hashing.RotateLeft(Int64, Int32)
+- uid: Aximo.Hashing.RotateLeft(System.UInt32,System.Int32)
+  name: RotateLeft(UInt32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateLeft_System_UInt32_System_Int32_
+  commentId: M:Aximo.Hashing.RotateLeft(System.UInt32,System.Int32)
+  fullName: Aximo.Hashing.RotateLeft(System.UInt32, System.Int32)
+  nameWithType: Hashing.RotateLeft(UInt32, Int32)
+- uid: Aximo.Hashing.RotateLeft(System.UInt64,System.Int32)
+  name: RotateLeft(UInt64, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateLeft_System_UInt64_System_Int32_
+  commentId: M:Aximo.Hashing.RotateLeft(System.UInt64,System.Int32)
+  fullName: Aximo.Hashing.RotateLeft(System.UInt64, System.Int32)
+  nameWithType: Hashing.RotateLeft(UInt64, Int32)
+- uid: Aximo.Hashing.RotateLeft*
+  name: RotateLeft
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateLeft_
+  commentId: Overload:Aximo.Hashing.RotateLeft
+  isSpec: "True"
+  fullName: Aximo.Hashing.RotateLeft
+  nameWithType: Hashing.RotateLeft
+- uid: Aximo.Hashing.RotateRight(System.Int32,System.Int32)
+  name: RotateRight(Int32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateRight_System_Int32_System_Int32_
+  commentId: M:Aximo.Hashing.RotateRight(System.Int32,System.Int32)
+  fullName: Aximo.Hashing.RotateRight(System.Int32, System.Int32)
+  nameWithType: Hashing.RotateRight(Int32, Int32)
+- uid: Aximo.Hashing.RotateRight(System.Int64,System.Int32)
+  name: RotateRight(Int64, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateRight_System_Int64_System_Int32_
+  commentId: M:Aximo.Hashing.RotateRight(System.Int64,System.Int32)
+  fullName: Aximo.Hashing.RotateRight(System.Int64, System.Int32)
+  nameWithType: Hashing.RotateRight(Int64, Int32)
+- uid: Aximo.Hashing.RotateRight(System.UInt32,System.Int32)
+  name: RotateRight(UInt32, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateRight_System_UInt32_System_Int32_
+  commentId: M:Aximo.Hashing.RotateRight(System.UInt32,System.Int32)
+  fullName: Aximo.Hashing.RotateRight(System.UInt32, System.Int32)
+  nameWithType: Hashing.RotateRight(UInt32, Int32)
+- uid: Aximo.Hashing.RotateRight(System.UInt64,System.Int32)
+  name: RotateRight(UInt64, Int32)
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateRight_System_UInt64_System_Int32_
+  commentId: M:Aximo.Hashing.RotateRight(System.UInt64,System.Int32)
+  fullName: Aximo.Hashing.RotateRight(System.UInt64, System.Int32)
+  nameWithType: Hashing.RotateRight(UInt64, Int32)
+- uid: Aximo.Hashing.RotateRight*
+  name: RotateRight
+  href: api/Aximo.Hashing.html#Aximo_Hashing_RotateRight_
+  commentId: Overload:Aximo.Hashing.RotateRight
+  isSpec: "True"
+  fullName: Aximo.Hashing.RotateRight
+  nameWithType: Hashing.RotateRight
 - uid: Aximo.IArray`1
   name: IArray<T>
   href: api/Aximo.IArray-1.html
@@ -8145,6 +9414,22 @@ references:
   fullName.vb: Aximo.ListExtensions.Reverse(Of T)(System.Collections.Generic.IList(Of T), System.Int32, System.Int32)
   nameWithType: ListExtensions.Reverse<T>(IList<T>, Int32, Int32)
   nameWithType.vb: ListExtensions.Reverse(Of T)(IList(Of T), Int32, Int32)
+- uid: Aximo.ListExtensions.ToArray*
+  name: ToArray
+  href: api/Aximo.ListExtensions.html#Aximo_ListExtensions_ToArray_
+  commentId: Overload:Aximo.ListExtensions.ToArray
+  isSpec: "True"
+  fullName: Aximo.ListExtensions.ToArray
+  nameWithType: ListExtensions.ToArray
+- uid: Aximo.ListExtensions.ToArray``1(System.Collections.Generic.SynchronizedCollection{``0})
+  name: ToArray<T>(SynchronizedCollection<T>)
+  href: api/Aximo.ListExtensions.html#Aximo_ListExtensions_ToArray__1_System_Collections_Generic_SynchronizedCollection___0__
+  commentId: M:Aximo.ListExtensions.ToArray``1(System.Collections.Generic.SynchronizedCollection{``0})
+  name.vb: ToArray(Of T)(SynchronizedCollection(Of T))
+  fullName: Aximo.ListExtensions.ToArray<T>(System.Collections.Generic.SynchronizedCollection<T>)
+  fullName.vb: Aximo.ListExtensions.ToArray(Of T)(System.Collections.Generic.SynchronizedCollection(Of T))
+  nameWithType: ListExtensions.ToArray<T>(SynchronizedCollection<T>)
+  nameWithType.vb: ListExtensions.ToArray(Of T)(SynchronizedCollection(Of T))
 - uid: Aximo.Log
   name: Log
   href: api/Aximo.Log.html
@@ -10570,14 +11855,6 @@ references:
   fullName.vb: Aximo.MeshVertexList(Of T).ToArray(Of TDestination)()
   nameWithType: MeshVertexList<T>.ToArray<TDestination>()
   nameWithType.vb: MeshVertexList(Of T).ToArray(Of TDestination)()
-- uid: Aximo.MeshVertexList`1.ToBuffer
-  name: ToBuffer()
-  href: api/Aximo.MeshVertexList-1.html#Aximo_MeshVertexList_1_ToBuffer
-  commentId: M:Aximo.MeshVertexList`1.ToBuffer
-  fullName: Aximo.MeshVertexList<T>.ToBuffer()
-  fullName.vb: Aximo.MeshVertexList(Of T).ToBuffer()
-  nameWithType: MeshVertexList<T>.ToBuffer()
-  nameWithType.vb: MeshVertexList(Of T).ToBuffer()
 - uid: Aximo.MeshVertexList`1.ToBuffer*
   name: ToBuffer
   href: api/Aximo.MeshVertexList-1.html#Aximo_MeshVertexList_1_ToBuffer_
@@ -12733,6 +14010,84 @@ references:
   commentId: F:Aximo.Render.OpenGL.BufferObject.Target
   fullName: Aximo.Render.OpenGL.BufferObject.Target
   nameWithType: BufferObject.Target
+- uid: Aximo.Render.OpenGL.CullFaceMode
+  name: CullFaceMode
+  href: api/Aximo.Render.OpenGL.CullFaceMode.html
+  commentId: T:Aximo.Render.OpenGL.CullFaceMode
+  fullName: Aximo.Render.OpenGL.CullFaceMode
+  nameWithType: CullFaceMode
+- uid: Aximo.Render.OpenGL.CullFaceMode.Back
+  name: Back
+  href: api/Aximo.Render.OpenGL.CullFaceMode.html#Aximo_Render_OpenGL_CullFaceMode_Back
+  commentId: F:Aximo.Render.OpenGL.CullFaceMode.Back
+  fullName: Aximo.Render.OpenGL.CullFaceMode.Back
+  nameWithType: CullFaceMode.Back
+- uid: Aximo.Render.OpenGL.CullFaceMode.Front
+  name: Front
+  href: api/Aximo.Render.OpenGL.CullFaceMode.html#Aximo_Render_OpenGL_CullFaceMode_Front
+  commentId: F:Aximo.Render.OpenGL.CullFaceMode.Front
+  fullName: Aximo.Render.OpenGL.CullFaceMode.Front
+  nameWithType: CullFaceMode.Front
+- uid: Aximo.Render.OpenGL.CullFaceMode.FrontAndBack
+  name: FrontAndBack
+  href: api/Aximo.Render.OpenGL.CullFaceMode.html#Aximo_Render_OpenGL_CullFaceMode_FrontAndBack
+  commentId: F:Aximo.Render.OpenGL.CullFaceMode.FrontAndBack
+  fullName: Aximo.Render.OpenGL.CullFaceMode.FrontAndBack
+  nameWithType: CullFaceMode.FrontAndBack
+- uid: Aximo.Render.OpenGL.DepthFunction
+  name: DepthFunction
+  href: api/Aximo.Render.OpenGL.DepthFunction.html
+  commentId: T:Aximo.Render.OpenGL.DepthFunction
+  fullName: Aximo.Render.OpenGL.DepthFunction
+  nameWithType: DepthFunction
+- uid: Aximo.Render.OpenGL.DepthFunction.Always
+  name: Always
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Always
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Always
+  fullName: Aximo.Render.OpenGL.DepthFunction.Always
+  nameWithType: DepthFunction.Always
+- uid: Aximo.Render.OpenGL.DepthFunction.Equal
+  name: Equal
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Equal
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Equal
+  fullName: Aximo.Render.OpenGL.DepthFunction.Equal
+  nameWithType: DepthFunction.Equal
+- uid: Aximo.Render.OpenGL.DepthFunction.Gequal
+  name: Gequal
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Gequal
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Gequal
+  fullName: Aximo.Render.OpenGL.DepthFunction.Gequal
+  nameWithType: DepthFunction.Gequal
+- uid: Aximo.Render.OpenGL.DepthFunction.Greater
+  name: Greater
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Greater
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Greater
+  fullName: Aximo.Render.OpenGL.DepthFunction.Greater
+  nameWithType: DepthFunction.Greater
+- uid: Aximo.Render.OpenGL.DepthFunction.Lequal
+  name: Lequal
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Lequal
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Lequal
+  fullName: Aximo.Render.OpenGL.DepthFunction.Lequal
+  nameWithType: DepthFunction.Lequal
+- uid: Aximo.Render.OpenGL.DepthFunction.Less
+  name: Less
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Less
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Less
+  fullName: Aximo.Render.OpenGL.DepthFunction.Less
+  nameWithType: DepthFunction.Less
+- uid: Aximo.Render.OpenGL.DepthFunction.Never
+  name: Never
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Never
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Never
+  fullName: Aximo.Render.OpenGL.DepthFunction.Never
+  nameWithType: DepthFunction.Never
+- uid: Aximo.Render.OpenGL.DepthFunction.Notequal
+  name: Notequal
+  href: api/Aximo.Render.OpenGL.DepthFunction.html#Aximo_Render_OpenGL_DepthFunction_Notequal
+  commentId: F:Aximo.Render.OpenGL.DepthFunction.Notequal
+  fullName: Aximo.Render.OpenGL.DepthFunction.Notequal
+  nameWithType: DepthFunction.Notequal
 - uid: Aximo.Render.OpenGL.DynamicInternalMesh
   name: DynamicInternalMesh
   href: api/Aximo.Render.OpenGL.DynamicInternalMesh.html
@@ -13091,6 +14446,83 @@ references:
   isSpec: "True"
   fullName: Aximo.Render.OpenGL.FrameBuffer.Width
   nameWithType: FrameBuffer.Width
+- uid: Aximo.Render.OpenGL.GraphicsDevice
+  name: GraphicsDevice
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html
+  commentId: T:Aximo.Render.OpenGL.GraphicsDevice
+  fullName: Aximo.Render.OpenGL.GraphicsDevice
+  nameWithType: GraphicsDevice
+- uid: Aximo.Render.OpenGL.GraphicsDevice._DepthFunc
+  name: _DepthFunc
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice__DepthFunc
+  commentId: F:Aximo.Render.OpenGL.GraphicsDevice._DepthFunc
+  fullName: Aximo.Render.OpenGL.GraphicsDevice._DepthFunc
+  nameWithType: GraphicsDevice._DepthFunc
+- uid: Aximo.Render.OpenGL.GraphicsDevice.CullFace
+  name: CullFace
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_CullFace
+  commentId: P:Aximo.Render.OpenGL.GraphicsDevice.CullFace
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.CullFace
+  nameWithType: GraphicsDevice.CullFace
+- uid: Aximo.Render.OpenGL.GraphicsDevice.CullFace*
+  name: CullFace
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_CullFace_
+  commentId: Overload:Aximo.Render.OpenGL.GraphicsDevice.CullFace
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.CullFace
+  nameWithType: GraphicsDevice.CullFace
+- uid: Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode
+  name: CullFaceMode
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_CullFaceMode
+  commentId: P:Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode
+  nameWithType: GraphicsDevice.CullFaceMode
+- uid: Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode*
+  name: CullFaceMode
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_CullFaceMode_
+  commentId: Overload:Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.CullFaceMode
+  nameWithType: GraphicsDevice.CullFaceMode
+- uid: Aximo.Render.OpenGL.GraphicsDevice.Default
+  name: Default
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_Default
+  commentId: P:Aximo.Render.OpenGL.GraphicsDevice.Default
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.Default
+  nameWithType: GraphicsDevice.Default
+- uid: Aximo.Render.OpenGL.GraphicsDevice.Default*
+  name: Default
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_Default_
+  commentId: Overload:Aximo.Render.OpenGL.GraphicsDevice.Default
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.Default
+  nameWithType: GraphicsDevice.Default
+- uid: Aximo.Render.OpenGL.GraphicsDevice.DepthFunc
+  name: DepthFunc
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_DepthFunc
+  commentId: P:Aximo.Render.OpenGL.GraphicsDevice.DepthFunc
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.DepthFunc
+  nameWithType: GraphicsDevice.DepthFunc
+- uid: Aximo.Render.OpenGL.GraphicsDevice.DepthFunc*
+  name: DepthFunc
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_DepthFunc_
+  commentId: Overload:Aximo.Render.OpenGL.GraphicsDevice.DepthFunc
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.DepthFunc
+  nameWithType: GraphicsDevice.DepthFunc
+- uid: Aximo.Render.OpenGL.GraphicsDevice.DepthMask
+  name: DepthMask
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_DepthMask
+  commentId: P:Aximo.Render.OpenGL.GraphicsDevice.DepthMask
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.DepthMask
+  nameWithType: GraphicsDevice.DepthMask
+- uid: Aximo.Render.OpenGL.GraphicsDevice.DepthMask*
+  name: DepthMask
+  href: api/Aximo.Render.OpenGL.GraphicsDevice.html#Aximo_Render_OpenGL_GraphicsDevice_DepthMask_
+  commentId: Overload:Aximo.Render.OpenGL.GraphicsDevice.DepthMask
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.GraphicsDevice.DepthMask
+  nameWithType: GraphicsDevice.DepthMask
 - uid: Aximo.Render.OpenGL.GraphicsTexture
   name: GraphicsTexture
   href: api/Aximo.Render.OpenGL.GraphicsTexture.html
@@ -13799,6 +15231,19 @@ references:
   commentId: T:Aximo.Render.OpenGL.ObjectManager
   fullName: Aximo.Render.OpenGL.ObjectManager
   nameWithType: ObjectManager
+- uid: Aximo.Render.OpenGL.ObjectManager.Enabled
+  name: Enabled
+  href: api/Aximo.Render.OpenGL.ObjectManager.html#Aximo_Render_OpenGL_ObjectManager_Enabled
+  commentId: P:Aximo.Render.OpenGL.ObjectManager.Enabled
+  fullName: Aximo.Render.OpenGL.ObjectManager.Enabled
+  nameWithType: ObjectManager.Enabled
+- uid: Aximo.Render.OpenGL.ObjectManager.Enabled*
+  name: Enabled
+  href: api/Aximo.Render.OpenGL.ObjectManager.html#Aximo_Render_OpenGL_ObjectManager_Enabled_
+  commentId: Overload:Aximo.Render.OpenGL.ObjectManager.Enabled
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.ObjectManager.Enabled
+  nameWithType: ObjectManager.Enabled
 - uid: Aximo.Render.OpenGL.ObjectManager.PopDebugGroup
   name: PopDebugGroup()
   href: api/Aximo.Render.OpenGL.ObjectManager.html#Aximo_Render_OpenGL_ObjectManager_PopDebugGroup
@@ -14020,6 +15465,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Render.OpenGL.RendererShader.BindBlock
   nameWithType: RendererShader.BindBlock
+- uid: Aximo.Render.OpenGL.RendererShader.BindInternal
+  name: BindInternal()
+  href: api/Aximo.Render.OpenGL.RendererShader.html#Aximo_Render_OpenGL_RendererShader_BindInternal
+  commentId: M:Aximo.Render.OpenGL.RendererShader.BindInternal
+  fullName: Aximo.Render.OpenGL.RendererShader.BindInternal()
+  nameWithType: RendererShader.BindInternal()
+- uid: Aximo.Render.OpenGL.RendererShader.BindInternal*
+  name: BindInternal
+  href: api/Aximo.Render.OpenGL.RendererShader.html#Aximo_Render_OpenGL_RendererShader_BindInternal_
+  commentId: Overload:Aximo.Render.OpenGL.RendererShader.BindInternal
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.RendererShader.BindInternal
+  nameWithType: RendererShader.BindInternal
 - uid: Aximo.Render.OpenGL.RendererShader.Compile
   name: Compile()
   href: api/Aximo.Render.OpenGL.RendererShader.html#Aximo_Render_OpenGL_RendererShader_Compile
@@ -14284,6 +15742,12 @@ references:
   commentId: M:Aximo.Render.OpenGL.RendererTexture.Bind(OpenToolkit.Graphics.OpenGL4.TextureUnit)
   fullName: Aximo.Render.OpenGL.RendererTexture.Bind(OpenToolkit.Graphics.OpenGL4.TextureUnit)
   nameWithType: RendererTexture.Bind(TextureUnit)
+- uid: Aximo.Render.OpenGL.RendererTexture.Bind(System.Int32)
+  name: Bind(Int32)
+  href: api/Aximo.Render.OpenGL.RendererTexture.html#Aximo_Render_OpenGL_RendererTexture_Bind_System_Int32_
+  commentId: M:Aximo.Render.OpenGL.RendererTexture.Bind(System.Int32)
+  fullName: Aximo.Render.OpenGL.RendererTexture.Bind(System.Int32)
+  nameWithType: RendererTexture.Bind(Int32)
 - uid: Aximo.Render.OpenGL.RendererTexture.Bind*
   name: Bind
   href: api/Aximo.Render.OpenGL.RendererTexture.html#Aximo_Render_OpenGL_RendererTexture_Bind_
@@ -15168,6 +16632,19 @@ references:
   commentId: T:Aximo.Render.OpenGL.VertexLayoutBindedAttribute
   fullName: Aximo.Render.OpenGL.VertexLayoutBindedAttribute
   nameWithType: VertexLayoutBindedAttribute
+- uid: Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode
+  name: GetHashCode()
+  href: api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.html#Aximo_Render_OpenGL_VertexLayoutBindedAttribute_GetHashCode
+  commentId: M:Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode
+  fullName: Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode()
+  nameWithType: VertexLayoutBindedAttribute.GetHashCode()
+- uid: Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode*
+  name: GetHashCode
+  href: api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.html#Aximo_Render_OpenGL_VertexLayoutBindedAttribute_GetHashCode_
+  commentId: Overload:Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.VertexLayoutBindedAttribute.GetHashCode
+  nameWithType: VertexLayoutBindedAttribute.GetHashCode
 - uid: Aximo.Render.OpenGL.VertexLayoutBindedAttribute.Index
   name: Index
   href: api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.html#Aximo_Render_OpenGL_VertexLayoutBindedAttribute_Index
@@ -15310,6 +16787,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Render.OpenGL.VertexLayoutDefinition.DumpDebug
   nameWithType: VertexLayoutDefinition.DumpDebug
+- uid: Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode
+  name: GetHashCode()
+  href: api/Aximo.Render.OpenGL.VertexLayoutDefinition.html#Aximo_Render_OpenGL_VertexLayoutDefinition_GetHashCode
+  commentId: M:Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode
+  fullName: Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode()
+  nameWithType: VertexLayoutDefinition.GetHashCode()
+- uid: Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode*
+  name: GetHashCode
+  href: api/Aximo.Render.OpenGL.VertexLayoutDefinition.html#Aximo_Render_OpenGL_VertexLayoutDefinition_GetHashCode_
+  commentId: Overload:Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.VertexLayoutDefinition.GetHashCode
+  nameWithType: VertexLayoutDefinition.GetHashCode
 - uid: Aximo.Render.OpenGL.VertexLayoutDefinition.Stride
   name: Stride
   href: api/Aximo.Render.OpenGL.VertexLayoutDefinition.html#Aximo_Render_OpenGL_VertexLayoutDefinition_Stride
@@ -15342,6 +16832,19 @@ references:
   isSpec: "True"
   fullName: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.CopyTo
   nameWithType: VertexLayoutDefinitionAttribute.CopyTo
+- uid: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode
+  name: GetHashCode()
+  href: api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.html#Aximo_Render_OpenGL_VertexLayoutDefinitionAttribute_GetHashCode
+  commentId: M:Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode
+  fullName: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode()
+  nameWithType: VertexLayoutDefinitionAttribute.GetHashCode()
+- uid: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode*
+  name: GetHashCode
+  href: api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.html#Aximo_Render_OpenGL_VertexLayoutDefinitionAttribute_GetHashCode_
+  commentId: Overload:Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode
+  isSpec: "True"
+  fullName: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.GetHashCode
+  nameWithType: VertexLayoutDefinitionAttribute.GetHashCode
 - uid: Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.Name
   name: Name
   href: api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.html#Aximo_Render_OpenGL_VertexLayoutDefinitionAttribute_Name
@@ -16511,6 +18014,12 @@ references:
   isSpec: "True"
   fullName: Aximo.Render.Renderer.SetupPipelines
   nameWithType: Renderer.SetupPipelines
+- uid: Aximo.Render.Renderer.UseFrameDebug
+  name: UseFrameDebug
+  href: api/Aximo.Render.Renderer.html#Aximo_Render_Renderer_UseFrameDebug
+  commentId: F:Aximo.Render.Renderer.UseFrameDebug
+  fullName: Aximo.Render.Renderer.UseFrameDebug
+  nameWithType: Renderer.UseFrameDebug
 - uid: Aximo.Render.Renderer.UseShadows
   name: UseShadows
   href: api/Aximo.Render.Renderer.html#Aximo_Render_Renderer_UseShadows

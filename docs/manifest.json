@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.AssetManager.html",
-          "hash": "529Pry4yeZyGQVp7OA7oVA=="
+          "hash": "GHvvPd7cFSNPt2qHsZh/zw=="
         }
       },
       "is_incremental": true,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.AxMath.html",
-          "hash": "9j2kgmloexJmR/IMWRu4Lg=="
+          "hash": "J5DSbb3HhOyGcZ6j6+5JzQ=="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.AxPixelFormat.html",
-          "hash": "46NLBmhwHsFz42/k+P7ngg=="
+          "hash": "bZVu/9isL9JvVqG9IaVmEw=="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.AxPrimitiveType.html",
-          "hash": "xmnEGWONel4EtwImryjswg=="
+          "hash": "3Bt57+LNeN1YnqZLWCfo+g=="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BoxExtensions.html",
-          "hash": "pqgLGFynOXyY/9cO0MDaIQ=="
+          "hash": "QqlNgiD0f8JlE/f+UZGICw=="
         }
       },
       "is_incremental": true,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BoxHelper.html",
-          "hash": "SfKKIQo1Up5JpLR1cQmzkw=="
+          "hash": "3+l6Znfw4gFr18+KoEB98g=="
         }
       },
       "is_incremental": true,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData.html",
-          "hash": "WeIvl3Yh86oWRl+amGyFXw=="
+          "hash": "TdX5MtfUZVzdWsg89G5xRw=="
         }
       },
       "is_incremental": true,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData1D-1.html",
-          "hash": "Ba4XQ85e7jBNehlU9Rz1JA=="
+          "hash": "4/mgbdY5C8wjauFxNJs+ww=="
         }
       },
       "is_incremental": true,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData1D.html",
-          "hash": "RyQX9zqzG7C3igzX4v9d2A=="
+          "hash": "xLGVpv0CKIHkLq2HV6cqcQ=="
         }
       },
       "is_incremental": true,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData2D-1.html",
-          "hash": "P0ZaEYu6t2ZPWFKfsBwF5Q=="
+          "hash": "Mo84NksC4DAk5y6hPqRpWA=="
         }
       },
       "is_incremental": true,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData2D.html",
-          "hash": "USA8msJsTVIAbM1JA2jwmQ=="
+          "hash": "ZW3YxeuSndkYhmkM7SD2zw=="
         }
       },
       "is_incremental": true,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData3D-1.html",
-          "hash": "mqg5Ke6euUL4hIQaRVkmzA=="
+          "hash": "9JmzsgFwVdnAjPTCDuSrXA=="
         }
       },
       "is_incremental": true,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferData3D.html",
-          "hash": "Cy2iqH5mghwQr2UWNa1skA=="
+          "hash": "cssKeudq3xLwxqU+Mw4/dQ=="
         }
       },
       "is_incremental": true,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.BufferDataExtentions.html",
-          "hash": "cpjN8imUvBzwDFJtGt3TFw=="
+          "hash": "c0Gp805zjJzlLwu2oBD76w=="
         }
       },
       "is_incremental": true,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Camera.CameraChangedDelegate.html",
-          "hash": "9aIKuiQ/1iP5CUzjJzftoQ=="
+          "hash": "i/XplGUUTdK7LTqd2OdBqQ=="
         }
       },
       "is_incremental": true,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Camera.html",
-          "hash": "6MFKcA3DgZjg9n1UOdDpow=="
+          "hash": "c8Da+pBXdmj5cC3PxlWhCw=="
         }
       },
       "is_incremental": true,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.CameraType.html",
-          "hash": "eYpMrh4KNpKkz8+xB/zPnw=="
+          "hash": "HaWY/IgOzSV1TzPLkCcjyw=="
         }
       },
       "is_incremental": true,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.DebugHelper.html",
-          "hash": "vCYjeLr/HsRK5lkJe3B0Xw=="
+          "hash": "2loXy23IWW3ANg98MQqIJg=="
         }
       },
       "is_incremental": true,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.DictionaryExtensions.html",
-          "hash": "JgTCgk69911p4+NqGpz8mQ=="
+          "hash": "eP3yDAkkI9hCKfLa6JV4ug=="
         }
       },
       "is_incremental": true,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Actor.html",
-          "hash": "oJ26HgQ+Mbw9x3pnb9yaew=="
+          "hash": "mnvTFxyv2gJqhhZCmsPHWw=="
         }
       },
       "is_incremental": true,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.ActorComponent.html",
-          "hash": "6K2sSDQbSPM7w2dLIcSzhg=="
+          "hash": "7cpY5Xf4D8ZmLJPVaFJqow=="
         }
       },
       "is_incremental": true,
@@ -261,55 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.AfterApplicationInitializedDelegate.html",
-          "hash": "ZICFGcU2OF69Wwua9yf5/Q=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Aximo.Engine.Animation.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.Animation.html",
-          "hash": "l2HgfujKCGzNI95o8tkw0A=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFinishedDelegate.html",
-          "hash": "37puP1kTnetGie22gNfQnQ=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Aximo.Engine.AnimationFunc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFunc.html",
-          "hash": "DTadFwLQPJp1wma8I4SlKA=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Aximo.Engine.AnimationFuncs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Aximo.Engine.AnimationFuncs.html",
-          "hash": "qNRKAs7QhNh87tYL6L9/+A=="
+          "hash": "/o8cEVazi5s0HVsG6roDRQ=="
         }
       },
       "is_incremental": true,
@@ -321,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Application.html",
-          "hash": "dkurB3nQ4cxPmGpxhbkCNQ=="
+          "hash": "lje6lzkoN4PQMpPde9+Egg=="
         }
       },
       "is_incremental": true,
@@ -333,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.ApplicationConfig.html",
-          "hash": "nii+MmkzNeCYyFnG/5+HZw=="
+          "hash": "OX+wjxIZxT9Ib+z2J1U3BA=="
         }
       },
       "is_incremental": true,
@@ -345,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Audio.AudioManager.html",
-          "hash": "mlpOlmeZzpAjKrART1QFZw=="
+          "hash": "sWBK8bFd57yYQWbH6s+4dw=="
         }
       },
       "is_incremental": true,
@@ -357,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Audio.html",
-          "hash": "9Bx7oNkRNEekMJtmy9/UmQ=="
+          "hash": "23wyThT3hvqFUsXWhUNJPw=="
         }
       },
       "is_incremental": true,
@@ -369,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.BufferComponent.html",
-          "hash": "4njJrlsEMVXeZk+mDgGD5Q=="
+          "hash": "I40iBss4d1P91b+mxV/L5w=="
         }
       },
       "is_incremental": true,
@@ -381,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.CommandLineOptions.html",
-          "hash": "uE5nJuPZ3O7xsO3KbwHJBw=="
+          "hash": "etWlkJRl4tiU0QrNrX7hHg=="
         }
       },
       "is_incremental": true,
@@ -393,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.CrossLineComponent.html",
-          "hash": "1+fQKQdOEFNLlqHek+KE7g=="
+          "hash": "nho0BffjiJ0ocfDq+Zvkgg=="
         }
       },
       "is_incremental": true,
@@ -405,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.CubeComponent.html",
-          "hash": "0bRj4Yuqj/SiG1paJiK2NQ=="
+          "hash": "+Wd6TnMfOZ8czWT/QVFJQw=="
         }
       },
       "is_incremental": true,
@@ -417,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.DebugCubeComponent.html",
-          "hash": "j0l+bY3eh7wZX5E+EsxTSw=="
+          "hash": "X1mw11Z/oz81CiWwcDnmPA=="
         }
       },
       "is_incremental": true,
@@ -429,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.GraphicsScreenTextureComponent.html",
-          "hash": "Whvu4naHNbcM1sNoeyYEwg=="
+          "hash": "xkeDZsgYS4hYP/Di145rmA=="
         }
       },
       "is_incremental": true,
@@ -441,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.GridPlaneComponent.html",
-          "hash": "b4dnBiE+gQV64spYmKfD2A=="
+          "hash": "cfymzNyGemkKYuq/pZvP8w=="
         }
       },
       "is_incremental": true,
@@ -453,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.LineComponent.html",
-          "hash": "RlpBLEB9dQeC7jjA9jV8YA=="
+          "hash": "T44/y7hx1qeCTcdCny9RPg=="
         }
       },
       "is_incremental": true,
@@ -465,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.MeshComponent.html",
-          "hash": "/VFxLdUhsE3wdyBnyWopmA=="
+          "hash": "fpTecLNJBQuGNoOj/qtbCg=="
         }
       },
       "is_incremental": true,
@@ -477,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.PrimitiveComponent.html",
-          "hash": "KeqXW8k7jniTeBkAo3b4Ww=="
+          "hash": "GnqGIvej2puh5YBsG3zIbQ=="
         }
       },
       "is_incremental": true,
@@ -489,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.QuadComponent.html",
-          "hash": "fM/9t0saFY3fSk96UAjnrg=="
+          "hash": "9s1mV0ZLd872FefW34BFLQ=="
         }
       },
       "is_incremental": true,
@@ -501,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.ScreenTextureComponent.html",
-          "hash": "m56qgzMrVeCRhdaJ7jYAIQ=="
+          "hash": "yutdTPm33AeJ1qWMt1K/tg=="
         }
       },
       "is_incremental": true,
@@ -513,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.SkyBoxComponent.html",
-          "hash": "rN+j4/rE9i+aTGGoMkYA+A=="
+          "hash": "8Y5Cs81sP5Y2yyZjJIGMGg=="
         }
       },
       "is_incremental": true,
@@ -525,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.SphereComponent.html",
-          "hash": "Tu91uaXpCtDg/oxFlrBNGA=="
+          "hash": "dDTLv+cbAlxTrgrJ1lUTIw=="
         }
       },
       "is_incremental": true,
@@ -537,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.StaticMeshComponent.html",
-          "hash": "6XAMVrW/r99tK7kKdl1QRQ=="
+          "hash": "pnPfDg0qE2yPtnLPHp01DA=="
         }
       },
       "is_incremental": true,
@@ -549,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.StatsComponent.html",
-          "hash": "FKmyKk+UPQGRooSORlaYHw=="
+          "hash": "kUCBqqXjnFbk1OmH8b7ujA=="
         }
       },
       "is_incremental": true,
@@ -561,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Geometry.html",
-          "hash": "fjJFu9GC8kFr1XAKmDqW3g=="
+          "hash": "oAl2BW/j59MRGc+40eOaGQ=="
         }
       },
       "is_incremental": true,
@@ -573,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Lights.DirectionalLightComponent.html",
-          "hash": "uNg+Hp4bqxZNlWxvD4kkGQ=="
+          "hash": "/CBJMr5fD4htJ5CzytBndQ=="
         }
       },
       "is_incremental": true,
@@ -585,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Lights.LightComponent.html",
-          "hash": "KAmCYX3YpnkBEe0Lc6ZfXA=="
+          "hash": "IWRVlSxuIn7oCnMPdL2STw=="
         }
       },
       "is_incremental": true,
@@ -597,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Lights.PointLightComponent.html",
-          "hash": "uNW4OEZqhifWHuJnD/XLpQ=="
+          "hash": "beFPEwfDMApWwtnWaskUdQ=="
         }
       },
       "is_incremental": true,
@@ -609,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.Lights.html",
-          "hash": "163PAxEE7cW1zjPmWn8uZA=="
+          "hash": "F6arr13JlWuXpKSosHGdNQ=="
         }
       },
       "is_incremental": true,
@@ -621,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIAnchors.html",
-          "hash": "915KAY785PkfUerDmh3CUA=="
+          "hash": "x3g19aQ1xHpysLMUwlVuPQ=="
         }
       },
       "is_incremental": true,
@@ -633,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIButton.html",
-          "hash": "ky+LRTBCvpkDo/WXzDJCoQ=="
+          "hash": "SlXDc5dRWZdCQGGGmQcVyg=="
         }
       },
       "is_incremental": true,
@@ -645,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIButtonComponent.html",
-          "hash": "Sbn3MYhlOym1cHRCAfVOqg=="
+          "hash": "JA5jY8J+o8lsl0eSkI0NVw=="
         }
       },
       "is_incremental": true,
@@ -657,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIComponent.html",
-          "hash": "bXz1fdFYecGx0UQweZ3wJA=="
+          "hash": "2BGl3m1UNd1LF2Ccgt4NYA=="
         }
       },
       "is_incremental": true,
@@ -669,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIContainerComponent.html",
-          "hash": "j64ZnBsXcT1QhKCfv9YcLQ=="
+          "hash": "A8UEkGsvRnytmxFtp/sn0g=="
         }
       },
       "is_incremental": true,
@@ -681,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIDock.html",
-          "hash": "A0rdVdQaE1oHq0Vd9K/dAw=="
+          "hash": "bv4cyUaV9AcSTVOOA/A4Ag=="
         }
       },
       "is_incremental": true,
@@ -693,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIFloatingContainer.html",
-          "hash": "ZAjzp11sZ2OfdEH2Keyo6w=="
+          "hash": "Mvz7ltS7BdM4Trqnyr355A=="
         }
       },
       "is_incremental": true,
@@ -705,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIFlowContainer.html",
-          "hash": "hxlvdCcwVnN+swE3MJF1gA=="
+          "hash": "OJnSneCu/9y0CGu/SQoU/Q=="
         }
       },
       "is_incremental": true,
@@ -717,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIImage.html",
-          "hash": "+jpmTzY82OftSbW58kWWVA=="
+          "hash": "f5BnxNmNGDlM+filB+pkTA=="
         }
       },
       "is_incremental": true,
@@ -729,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UILabelComponent.html",
-          "hash": "FSKwFwUQGJlwGkzlCPIOvg=="
+          "hash": "jUyPJj739TJaFGlI9OilPw=="
         }
       },
       "is_incremental": true,
@@ -741,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIPanelComponent.html",
-          "hash": "s10B4xEB9ivsUb8+pmRfhQ=="
+          "hash": "CEimvQSUtbZEuHef0Gqxjw=="
         }
       },
       "is_incremental": true,
@@ -753,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.UIRect.html",
-          "hash": "7DVQbD4MbEwGoJBluQmdGQ=="
+          "hash": "zHByZzhoCRSanMzZQOhhkw=="
         }
       },
       "is_incremental": true,
@@ -765,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Components.UI.html",
-          "hash": "L96Wr0wAF5QDsNTwPSSsHA=="
+          "hash": "vI6Mljgrlg47q1iXiauntQ=="
         }
       },
       "is_incremental": true,
@@ -777,7 +729,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.ISceneInterface.html",
-          "hash": "WCYeNS9OSojpzl0k2IEGLA=="
+          "hash": "bx8ETAmWjdnGWImNRFcRDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.LerpFunc-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.LerpFunc-1.html",
+          "hash": "yBtrZip8RaDMtSwKzbpF1w=="
         }
       },
       "is_incremental": true,
@@ -789,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Material.Parameter.html",
-          "hash": "wXr1htG0v1U7wqvsZnvj6w=="
+          "hash": "bnptJiARnx9FRskD6uwz2g=="
         }
       },
       "is_incremental": true,
@@ -801,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Material.ParamterType.html",
-          "hash": "j+FymwfJ0n8aT1Gp0PfimQ=="
+          "hash": "0PzhSigdFvRxFuqxLvrm2Q=="
         }
       },
       "is_incremental": true,
@@ -813,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Material.html",
-          "hash": "4bBPEMcdx4OclXGUJ+HSpw=="
+          "hash": "5Ip1EUwd6i8uJq/TLZeTZA=="
         }
       },
       "is_incremental": true,
@@ -825,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.MaterialManager.html",
-          "hash": "r8r3U5GoHd6gQJovzlfV0w=="
+          "hash": "bDNAbxHtgCal9PETkQPh2Q=="
         }
       },
       "is_incremental": true,
@@ -837,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.MeshBuilder.html",
-          "hash": "e7u1t6YJf+uWbwJFuf8t9g=="
+          "hash": "aGYWRy0dXLDZVf8zOv0ukQ=="
         }
       },
       "is_incremental": true,
@@ -849,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.PipelineType.html",
-          "hash": "x/YcP+G3sHUURgGAb/wuJQ=="
+          "hash": "g90L80mr6VYP/rm0MB/OWw=="
         }
       },
       "is_incremental": true,
@@ -861,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.PrimitiveDrawInterface.html",
-          "hash": "HAQyTHfrhMzIn/vrYA0YBA=="
+          "hash": "aZq+rnq9OHJm5g++/W3E8g=="
         }
       },
       "is_incremental": true,
@@ -873,7 +837,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.PrimitiveSceneProxy.html",
-          "hash": "7bGlTUPUyjCwtHBf3Z59Hw=="
+          "hash": "mtPnlu1qi31vfll5YfN2zQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.ScaleFunc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.ScaleFunc.html",
+          "hash": "gDIJ/OW6d3SmTuIdBWiydw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.ScaleFuncs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.ScaleFuncs.html",
+          "hash": "12B3fQPneRhNN5aztukx/A=="
         }
       },
       "is_incremental": true,
@@ -885,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.SceneComponent.html",
-          "hash": "F6ubI0MF74BU7zmi8sccbQ=="
+          "hash": "FmzPt4txpZzE06VU8f88iQ=="
         }
       },
       "is_incremental": true,
@@ -897,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.SceneContext.html",
-          "hash": "gusMI+yrkKB5kxjKaSTEbg=="
+          "hash": "o4n07VZjw72oNXR1BwBwJA=="
         }
       },
       "is_incremental": true,
@@ -909,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.SceneObject.html",
-          "hash": "eEOoftcIDPA2xnjmdC1OEQ=="
+          "hash": "SnbfwYOcvZvjNl2k0vkGVg=="
         }
       },
       "is_incremental": true,
@@ -921,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Shader.html",
-          "hash": "My6s0yaY1qaTJuJyxVfmpw=="
+          "hash": "yWSlFMzjwSKsVnGlH2PWlQ=="
         }
       },
       "is_incremental": true,
@@ -933,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Startup-1.html",
-          "hash": "ZeBVeqI84VzMQGk1Y8cEdg=="
+          "hash": "xe8LqMf+Gj2A+VFJRTTyHQ=="
         }
       },
       "is_incremental": true,
@@ -945,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Startup-2.html",
-          "hash": "UEarCvH52GgnXpYjQZBhmg=="
+          "hash": "qgQzdlKb5l2rQoKKwRCgiw=="
         }
       },
       "is_incremental": true,
@@ -957,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Startup.html",
-          "hash": "b5jTLPZa9Dai+CoaMMlqOw=="
+          "hash": "vSIpFjxJ/BJbpHrm83OZDw=="
         }
       },
       "is_incremental": true,
@@ -969,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.StaticMeshSceneProxy.html",
-          "hash": "UC3hb7XaLQRCM8e21fWg0g=="
+          "hash": "/ijASPnBaaKqiQpWYqMR/Q=="
         }
       },
       "is_incremental": true,
@@ -981,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.StaticPrimitiveDrawInterface.html",
-          "hash": "gVhZRkdFGcc4LjTZuahYrA=="
+          "hash": "QOeJL3mtwfepYBqi/9jlgA=="
         }
       },
       "is_incremental": true,
@@ -993,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.TaskQueue.html",
-          "hash": "7R1IRsHXP5NCQz/uyT+M6w=="
+          "hash": "V7iX0V2yT2XPb+zvBHHYNA=="
         }
       },
       "is_incremental": true,
@@ -1005,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Texture.html",
-          "hash": "htzIpPcTAECROiq3b/YV+A=="
+          "hash": "ipqRazP2uEWAckCrZX18CA=="
         }
       },
       "is_incremental": true,
@@ -1017,7 +1005,139 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.TextureManager.html",
-          "hash": "x+Ym0gXd4NavvTszz8LNwQ=="
+          "hash": "xUXXTKgkZa+XGxatklqqvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Tween-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Tween-1.html",
+          "hash": "X3A0ncDDq2gd9l3/VDtdWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Tween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Tween.html",
+          "hash": "lFqzFwkag8GV8zH6ITUHew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Tween1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Tween1.html",
+          "hash": "3/gObwaWdKpeczON1xBF5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Tween2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Tween2.html",
+          "hash": "qvPYc3PVPBAeW5U0QLgwMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.Tween3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.Tween3.html",
+          "hash": "NXlg3WoCOAdJgkQkgt/HDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenBuilder-1.html",
+          "hash": "EvKE2RPu5K1YvQwRKp4cfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenBuilder.html",
+          "hash": "z/8G0gjNqIrKqnHaHRlS3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenBuilderExtensions.html",
+          "hash": "XYIHujbgAxQXRglbLAWHJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenFinishedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenFinishedDelegate.html",
+          "hash": "bwObhThQ09quYIFRQHiwYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenState.html",
+          "hash": "FJArtkofXkdC+iY2+XBwqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Engine.TweenStopBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Engine.TweenStopBehavior.html",
+          "hash": "Me3if0BkANKCZjprIfbaEA=="
         }
       },
       "is_incremental": true,
@@ -1029,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.GtkUI.html",
-          "hash": "cA9TZxtylHuaoIAvG77IxQ=="
+          "hash": "iuliFCB1VUtRoAqWtpnuuA=="
         }
       },
       "is_incremental": true,
@@ -1041,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.MouseButtonArgs.html",
-          "hash": "XU8wrbB5vPZ6SsuYb4QnkA=="
+          "hash": "QE2Z/izRLmX2c83nCgpa+A=="
         }
       },
       "is_incremental": true,
@@ -1053,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.MouseMoveArgs.html",
-          "hash": "x7AakuF0ji2dz166gvNG8w=="
+          "hash": "8BkCiJzrbSd4BWUa1B4oBg=="
         }
       },
       "is_incremental": true,
@@ -1065,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.RenderWindow.html",
-          "hash": "MGwgv6VPBVQf3ledRsrCcA=="
+          "hash": "3iRgnLT3UQPhpCDAs1Kx1A=="
         }
       },
       "is_incremental": true,
@@ -1077,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.WindowContext.html",
-          "hash": "+kUra9eLj2Tf82MO2VjxOw=="
+          "hash": "KbN5hL+z0nRWSi6dlS4d3A=="
         }
       },
       "is_incremental": true,
@@ -1089,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.Windows.html",
-          "hash": "VR5Tt0pFUfthPAWpYW2zhg=="
+          "hash": "Qrihn7k8fuC/4e6mIneAqQ=="
         }
       },
       "is_incremental": true,
@@ -1101,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Engine.html",
-          "hash": "QrLQvWXVYKzS45JwiL1OPg=="
+          "hash": "ZLWPFMzPaAK7GcRNHgsCtw=="
         }
       },
       "is_incremental": true,
@@ -1113,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.EventCounter.html",
-          "hash": "y/uUtP0e/XkYkskQMwuc5g=="
+          "hash": "oJYuZMQ0O0D7N3272U30UQ=="
         }
       },
       "is_incremental": true,
@@ -1125,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.FaceExtensions.html",
-          "hash": "erxlhTCijGNtyXBuZwTxPg=="
+          "hash": "QDv8Q5xDSTLk2vKnFG2Jng=="
         }
       },
       "is_incremental": true,
@@ -1137,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.GenerateFileDelegate.html",
-          "hash": "ofDAIiU1cKrZZaiLbcyIdw=="
+          "hash": "cWe3v7C8NWOPvTVvYkK+dQ=="
         }
       },
       "is_incremental": true,
@@ -1149,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleGenerator.html",
-          "hash": "3sFzgnAIVlsA8yol7PMowQ=="
+          "hash": "KOBlcATcJSwSAP/vPJh6Qg=="
         }
       },
       "is_incremental": true,
@@ -1161,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Generators.AlchemyCircle.AlchemyCircleOptions.html",
-          "hash": "3BDTnB0dg2mKduXPcgaMxw=="
+          "hash": "lRbE4aDx5iWSqhfOX1k8YA=="
         }
       },
       "is_incremental": true,
@@ -1173,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Generators.AlchemyCircle.CiaccoRandom.html",
-          "hash": "/ZR6Y6BNAEKNxWIXq44TCQ=="
+          "hash": "d3fscx8wTl8JcVpHGkdE5Q=="
         }
       },
       "is_incremental": true,
@@ -1185,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Generators.AlchemyCircle.TextureDraw.html",
-          "hash": "kpg2pSrlZ8o9O1cn9Dngcg=="
+          "hash": "HyQ/NSSHXNrmBZOzYIWi7A=="
         }
       },
       "is_incremental": true,
@@ -1197,7 +1317,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Generators.AlchemyCircle.html",
-          "hash": "gODUZb2gmxAr71B1mBJfCw=="
+          "hash": "xk+uwd23TK6JDKQ3oacGFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Hashing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Hashing.html",
+          "hash": "pC6e5bX22J/+ugOWbIPoew=="
         }
       },
       "is_incremental": true,
@@ -1209,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IArray-1.html",
-          "hash": "gXheNgVlmESoB5PpKwYrGQ=="
+          "hash": "qmp+AZupclFLdQ1XCgkmSA=="
         }
       },
       "is_incremental": true,
@@ -1221,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IData.html",
-          "hash": "EfSo2mjMBgvptq+rg8dpdQ=="
+          "hash": "3gJky4VVK59vacZgwNhDag=="
         }
       },
       "is_incremental": true,
@@ -1233,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IDynamicArray-1.html",
-          "hash": "k2to6jCUgnKnOAr2jcdfDw=="
+          "hash": "H67lgsq9FWc6NU2qQwppKw=="
         }
       },
       "is_incremental": true,
@@ -1245,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IPosition.html",
-          "hash": "YUAAD/S0focPdncFXhefoQ=="
+          "hash": "9Fh+JSC2AWLYjBVlZHUPgg=="
         }
       },
       "is_incremental": true,
@@ -1257,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IVisitor.html",
-          "hash": "akxB0SrSuva+iZL9Cxrs2Q=="
+          "hash": "mm1h1P4dImEIMX/fdEZl5A=="
         }
       },
       "is_incremental": true,
@@ -1269,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.IVisitorNode.html",
-          "hash": "jGsAcg/0qI7zZSOi3QrN6A=="
+          "hash": "yIEzBqNa7ShBmLAxJ3McFw=="
         }
       },
       "is_incremental": true,
@@ -1281,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.ImageExtensions.html",
-          "hash": "0dQ61ivYq1soxJfb8B9LMw=="
+          "hash": "4K/9embYwRyu/wCu6zdHuQ=="
         }
       },
       "is_incremental": true,
@@ -1293,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Line2.html",
-          "hash": "qqH1sZDuGSF34NrIbi06pA=="
+          "hash": "KkzSTdvj9YCYGlXP+MeWKw=="
         }
       },
       "is_incremental": true,
@@ -1305,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Line3.html",
-          "hash": "HwDrWqqtth7v4VpC4mJ0PA=="
+          "hash": "r+qtAAR0MZN/gTijkOzBOQ=="
         }
       },
       "is_incremental": true,
@@ -1317,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.ListExtensions.html",
-          "hash": "0M3Y3TiTYqZFVXSlikuoIg=="
+          "hash": "HgO3YDq0ML5P9lhswUwzdA=="
         }
       },
       "is_incremental": true,
@@ -1329,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Log.html",
-          "hash": "A6ind/rJMRDVsbaVX+tFpg=="
+          "hash": "KL4v0/ylR4EVToIHwmfrZQ=="
         }
       },
       "is_incremental": true,
@@ -1341,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.LogExtensions.html",
-          "hash": "KjLIvQISp2BDfgd93CO0BQ=="
+          "hash": "e1paejfyQafLqunHJvy+4A=="
         }
       },
       "is_incremental": true,
@@ -1353,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Mesh.html",
-          "hash": "M6vFcYGZiu2UHBnDZ7k5Gg=="
+          "hash": "g0Hsmbo2s6T/4sT5GNuA3A=="
         }
       },
       "is_incremental": true,
@@ -1365,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshColorComponent.html",
-          "hash": "orki+ZydQFnqbVxDOi2Dgg=="
+          "hash": "AgwLMv+nHrevtPMGsSujRw=="
         }
       },
       "is_incremental": true,
@@ -1377,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshComponent-1.html",
-          "hash": "Ci5xe0ZGc6KslgnDhwWbWQ=="
+          "hash": "hxeTLXSh2HoJiud2fmpeLQ=="
         }
       },
       "is_incremental": true,
@@ -1389,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshComponent.html",
-          "hash": "waLqUUymr0dimq7JbJykkw=="
+          "hash": "4TxTDY6KhpgcIjFWJSUFMg=="
         }
       },
       "is_incremental": true,
@@ -1401,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshComponentType.html",
-          "hash": "E9GZ3sNkZMOPkopDnG0Lyw=="
+          "hash": "Jn4G5rHRYrxlSzRmCqnmvw=="
         }
       },
       "is_incremental": true,
@@ -1413,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshFace-1.html",
-          "hash": "1YkFBACyO4FDuc+QVj3NQA=="
+          "hash": "Iq0NLbS/k1pFjWeeVq7a1A=="
         }
       },
       "is_incremental": true,
@@ -1425,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshFaceType.html",
-          "hash": "gXfHe1v5lAYW6u+uH1ZP+A=="
+          "hash": "kgUSRgDUKb/n/puK3VQMUg=="
         }
       },
       "is_incremental": true,
@@ -1437,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshNormalComponent.html",
-          "hash": "3vCinvXKy75vaPFZBm/UGg=="
+          "hash": "qX2ikguYFu3iCv6Db5Rrhw=="
         }
       },
       "is_incremental": true,
@@ -1449,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshPosition2Component.html",
-          "hash": "IAS96nIZkUVRPsNZgmowRw=="
+          "hash": "RqSWBPzaa6Ajb1ZQuczX4Q=="
         }
       },
       "is_incremental": true,
@@ -1461,7 +1593,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshPosition3Component.html",
-          "hash": "4URjdVWec0la6GHZSZpDoA=="
+          "hash": "Lt59I0QyTEuc5s8hFIu7wQ=="
         }
       },
       "is_incremental": true,
@@ -1473,7 +1605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshPositionComponent-1.html",
-          "hash": "GgXtCaN/nFNOxbpP3cgcdw=="
+          "hash": "z6m8mDsMGI7BKbEfOb+bXA=="
         }
       },
       "is_incremental": true,
@@ -1485,7 +1617,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshUVComponent.html",
-          "hash": "nS61hl5qM7PgaCPSTicWfw=="
+          "hash": "wCNwIWiNjVFA1keggGE6jg=="
         }
       },
       "is_incremental": true,
@@ -1497,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.MeshVertexList-1.html",
-          "hash": "kJ//i+zY9w89dx3eD7wDaQ=="
+          "hash": "C7mjwJnMp+d5SGUF2IotZg=="
         }
       },
       "is_incremental": true,
@@ -1509,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.OrthographicCamera.html",
-          "hash": "eafVmyxUZiVxvO3hQSfuCw=="
+          "hash": "VZO4/Ik5evWKoIdHquEbWA=="
         }
       },
       "is_incremental": true,
@@ -1521,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.PathBuilder.html",
-          "hash": "xokxEcRj39fqbf+R+b40qQ=="
+          "hash": "2RwNh6KKCLI9FFxZ8JWWGw=="
         }
       },
       "is_incremental": true,
@@ -1533,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.PerspectiveFieldOfViewCamera.html",
-          "hash": "YoajuEIeqrp0V11TP0SpfA=="
+          "hash": "Ynw9pXqhmiXMKZ6eOkseVQ=="
         }
       },
       "is_incremental": true,
@@ -1545,7 +1677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Plane.html",
-          "hash": "BxwDrOq4lA8QtPzk4CkaNQ=="
+          "hash": "MryOEukPHj7cEFt34fWAgg=="
         }
       },
       "is_incremental": true,
@@ -1557,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Ray.html",
-          "hash": "B1Y0X99N6yH9Lb3KZUvmKw=="
+          "hash": "2XrfVvoGpm0PvJCf0Bw8OA=="
         }
       },
       "is_incremental": true,
@@ -1569,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IBounds.html",
-          "hash": "DZ8sVcWiL/qItIbGnjVXag=="
+          "hash": "qHj3h2pOCYaqc98H74GA8A=="
         }
       },
       "is_incremental": true,
@@ -1581,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IDeferredRenderable.html",
-          "hash": "p/qc2mCUafxOsJ/rDbENyw=="
+          "hash": "90Pfs7fuBtwz7bI3eL57Hg=="
         }
       },
       "is_incremental": true,
@@ -1593,7 +1725,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IForwardRenderable.html",
-          "hash": "CrN3WaF52eL37wACuyXQsA=="
+          "hash": "6QVzQQIC7Ipbb5QU6B2ReA=="
         }
       },
       "is_incremental": true,
@@ -1605,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.ILightObject.html",
-          "hash": "LwxdIjOPfpp5CIRVnuLhSA=="
+          "hash": "cp2sKRA9545ga0du3l8JdA=="
         }
       },
       "is_incremental": true,
@@ -1617,7 +1749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.ILightTarget.html",
-          "hash": "LfHYSWMPU1PTCJiE5WZgjg=="
+          "hash": "g/JP+k83HFiTbXT7FPGaOg=="
         }
       },
       "is_incremental": true,
@@ -1629,7 +1761,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IMeshObject.html",
-          "hash": "W1kMUzBGrexR8i7/zLnw1Q=="
+          "hash": "hR9jCpeHIkMPuQ4H4yFjbw=="
         }
       },
       "is_incremental": true,
@@ -1641,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IReloadable.html",
-          "hash": "2RbDmvHpB3fjdxg36C+tmw=="
+          "hash": "dTtey0Th3bpjL9J7M7FNEw=="
         }
       },
       "is_incremental": true,
@@ -1653,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IRenderObject.html",
-          "hash": "SGy7JQa2riIN7vqJr8amuw=="
+          "hash": "Nu+V0GR++B5xLt8Pajn5xA=="
         }
       },
       "is_incremental": true,
@@ -1665,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IRenderTarget.html",
-          "hash": "kZdaJW1RMLmlBmYILniPrw=="
+          "hash": "JuVWTCq5LCPSe4A4Cas/1w=="
         }
       },
       "is_incremental": true,
@@ -1677,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IRenderableObject.html",
-          "hash": "zTk/WePzFCXtqxEQjvxlHg=="
+          "hash": "SgPQQI951ma0yhPA+yo/CA=="
         }
       },
       "is_incremental": true,
@@ -1689,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IScaleRotate.html",
-          "hash": "QOqtHcRW4i412NKbajjY5Q=="
+          "hash": "XOFYq8MRJIZscloJ3Xhkzw=="
         }
       },
       "is_incremental": true,
@@ -1701,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IScreenRenderable.html",
-          "hash": "2IIW5vqUJ6lIBE31Rvilxw=="
+          "hash": "e1o0dkGXcXXeI3TVuA7i6g=="
         }
       },
       "is_incremental": true,
@@ -1713,7 +1845,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IShadowObject.html",
-          "hash": "Cn9+X3WulM7/ODvdChC2FQ=="
+          "hash": "Brp/0iMHi+PMf5vftepEhg=="
         }
       },
       "is_incremental": true,
@@ -1725,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.IUpdateFrame.html",
-          "hash": "lvbL6bJ2K4gOqGL04/6Zyw=="
+          "hash": "6vHoBgzJ6iRa3t5wvQwFqw=="
         }
       },
       "is_incremental": true,
@@ -1737,7 +1869,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.LightType.html",
-          "hash": "4Jz4LdX20QkmlFbidNZjjw=="
+          "hash": "zfSWRHg5K7dpeB86zMtZfg=="
         }
       },
       "is_incremental": true,
@@ -1749,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.MaterialColorBlendMode.html",
-          "hash": "KIGzZCIvca/x/TY5FRw4cA=="
+          "hash": "TZehpv8Xu6L6Bubcy++47w=="
         }
       },
       "is_incremental": true,
@@ -1761,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.MeshDepthSorter.html",
-          "hash": "6exHqyEtSTn4nB2c3xtAuw=="
+          "hash": "wOnjmOlrD21njwmm8ZqjEA=="
         }
       },
       "is_incremental": true,
@@ -1773,7 +1905,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.LightObject.html",
-          "hash": "nK/r3n5Z66wtSQdtSMkagA=="
+          "hash": "hFVsiOfBpewtCZPSjAZkbg=="
         }
       },
       "is_incremental": true,
@@ -1785,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.RenderObject.html",
-          "hash": "+51+rPqVHGlx1MXYesEeQA=="
+          "hash": "I/2w7cXwtRE4M70lB1YEAw=="
         }
       },
       "is_incremental": true,
@@ -1797,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.RenderObjectBase.html",
-          "hash": "dR30h5knqHJv3qm8tbpbfQ=="
+          "hash": "Wc6rKfAuchRjLG27NJDk1w=="
         }
       },
       "is_incremental": true,
@@ -1809,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.ScreenSceneObject.html",
-          "hash": "eHtJIOP/Nyh1NoNLdvactA=="
+          "hash": "SmhZEgTZPbj9Sv6Bx75fqg=="
         }
       },
       "is_incremental": true,
@@ -1821,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.ScreenshotObject.html",
-          "hash": "KwEKQnQqwIFDss94Tkm8TA=="
+          "hash": "rLjrAd7aVRBWIspsT52Ykg=="
         }
       },
       "is_incremental": true,
@@ -1833,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.SimpleVertexObject.html",
-          "hash": "6B2Y0Vl+7eRLrxj9egXsrw=="
+          "hash": "kx/Ty0ORoglh6sgsmXSipg=="
         }
       },
       "is_incremental": true,
@@ -1845,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.SkyboxObject.html",
-          "hash": "dJIT6COc5hi+tHj0Hf9rLg=="
+          "hash": "0qQf65K0JGhCozAqIEKj6A=="
         }
       },
       "is_incremental": true,
@@ -1857,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Objects.html",
-          "hash": "ZBHUy0HYFY/xe6gTSEAxwg=="
+          "hash": "jxcFfYmPMadPGLvpyxEplw=="
         }
       },
       "is_incremental": true,
@@ -1869,7 +2001,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.BindingPoint.html",
-          "hash": "vB+hCNstOMqnRV2KITv6wA=="
+          "hash": "ZNLR8mZU5g7n7bkEDjN+SA=="
         }
       },
       "is_incremental": true,
@@ -1881,7 +2013,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.BufferObject.html",
-          "hash": "jYBj2HvjaWZT0AHs5wrGgQ=="
+          "hash": "07A1m1lrSEGrZLSX4/LeNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.OpenGL.CullFaceMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.OpenGL.CullFaceMode.html",
+          "hash": "DZwE/gZ6qW/Ji1eEKfST8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.OpenGL.DepthFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.OpenGL.DepthFunction.html",
+          "hash": "O1FXtGwqKGxCsVjzEiO6Pw=="
         }
       },
       "is_incremental": true,
@@ -1893,7 +2049,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.DynamicInternalMesh.html",
-          "hash": "FRh5rERsQltyUvL09BL7rQ=="
+          "hash": "42r0aIEJ+bYlgKIw4n1uqw=="
         }
       },
       "is_incremental": true,
@@ -1905,7 +2061,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.ElementsBufferObject.html",
-          "hash": "n3fsGha1cafKG3oR9rLGkA=="
+          "hash": "s4rLT6+Rt4syB5KfV6VnBQ=="
         }
       },
       "is_incremental": true,
@@ -1917,7 +2073,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.FlushRenderBackend.html",
-          "hash": "WyZPx5GA4XPepvzQl/Lxzg=="
+          "hash": "nDWQoFOTcRcuHxzOnjAqCw=="
         }
       },
       "is_incremental": true,
@@ -1929,7 +2085,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.FrameBuffer.html",
-          "hash": "tMoxdkTfDjTtoK9icTj+9A=="
+          "hash": "aqiVgiQIzOkV89w9kuBTJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Aximo.Render.OpenGL.GraphicsDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Aximo.Render.OpenGL.GraphicsDevice.html",
+          "hash": "lrLX4rcc1K6Ct3KUlJ/IYg=="
         }
       },
       "is_incremental": true,
@@ -1941,7 +2109,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.GraphicsTexture.html",
-          "hash": "5WIJgV3Hb7MvLMTYRFFUdw=="
+          "hash": "JKulWRkG2h0vQHGMeP0KMQ=="
         }
       },
       "is_incremental": true,
@@ -1953,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.IObjectHandle.html",
-          "hash": "FDxaLLrryQdqj/a8hkxJqA=="
+          "hash": "+BIKLx/WIryeNd0SrsF+Pg=="
         }
       },
       "is_incremental": true,
@@ -1965,7 +2133,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.IObjectIdentifier.html",
-          "hash": "AmrsZPfSBiBChwxXfRTxuw=="
+          "hash": "1OaJkcLcUnoXVMjmMiNAIQ=="
         }
       },
       "is_incremental": true,
@@ -1977,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.IObjectLabel.html",
-          "hash": "SRKOfN7D//5tRcU0gIfLQg=="
+          "hash": "zlv9ypKA1fLyKNLFK0qtnA=="
         }
       },
       "is_incremental": true,
@@ -1989,7 +2157,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.InternalLightManager.html",
-          "hash": "HPmWortnDMoYGWk7QFAAbg=="
+          "hash": "1uk3H8vzrDj1abDFyd/WGQ=="
         }
       },
       "is_incremental": true,
@@ -2001,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.InternalMesh.html",
-          "hash": "gkAnj0wkc9subH6/XaP8gA=="
+          "hash": "gGyZmX/mWfEheO2jhpGlnA=="
         }
       },
       "is_incremental": true,
@@ -2013,7 +2181,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.InternalTextureManager.html",
-          "hash": "ZKh161d8BEdvEz3RuqWLVA=="
+          "hash": "a7PVPgEIaLn8kivNF3LLIg=="
         }
       },
       "is_incremental": true,
@@ -2025,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.MeshData-1.html",
-          "hash": "h7s85fIcfpVhpCOPk0BSgw=="
+          "hash": "QOi7NWO0u5q5bZ5PpgYZRA=="
         }
       },
       "is_incremental": true,
@@ -2037,7 +2205,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.MeshData.html",
-          "hash": "m+tgKa1yEE7fEWJ3PzLBtg=="
+          "hash": "ASWg+V/lW+ddFNcgSsctJw=="
         }
       },
       "is_incremental": true,
@@ -2049,7 +2217,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.MeshDataBuilder.html",
-          "hash": "r3fLQVdskqNZQVXn9HojfQ=="
+          "hash": "QhLUEOiNWsjoXM6FKPIDqg=="
         }
       },
       "is_incremental": true,
@@ -2061,7 +2229,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.MeshExtensions.html",
-          "hash": "DyjeTuCmJ7iT9P2WYumiZw=="
+          "hash": "Hxn/IU1/J9qyRvpxSVcncQ=="
         }
       },
       "is_incremental": true,
@@ -2073,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.ObjectManager.html",
-          "hash": "2D5SXTtNw1NNUtQUdtmXxw=="
+          "hash": "epglBsi3kDR11x8wX6zlxA=="
         }
       },
       "is_incremental": true,
@@ -2085,7 +2253,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.RenderBuffer.html",
-          "hash": "aWoIvN8G/kC2Oyao/a3WlA=="
+          "hash": "ixb/Ipkh/alHmbkI99lOcw=="
         }
       },
       "is_incremental": true,
@@ -2097,7 +2265,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.RendererShader.html",
-          "hash": "dJtXPotTvnVPXMxiMW/MqA=="
+          "hash": "9csevJixFtZ0Dd+DTSQPjg=="
         }
       },
       "is_incremental": true,
@@ -2109,7 +2277,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.RendererTexture.html",
-          "hash": "7TcmCAN6SonMxIy2Uam/RA=="
+          "hash": "d9xK4EQors8di6OUs1sRrA=="
         }
       },
       "is_incremental": true,
@@ -2121,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.ShaderCompilation.html",
-          "hash": "qzKlJHyh4keYYNz+ieVjjQ=="
+          "hash": "PFSMcAkXgQgKKOLS4lgAHA=="
         }
       },
       "is_incremental": true,
@@ -2133,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.ShaderSource.html",
-          "hash": "NRLHAQl5GH9bAhXOvTfmCg=="
+          "hash": "AHSDY4pyxv6bhOrw7Axf+g=="
         }
       },
       "is_incremental": true,
@@ -2145,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.StaticInternalMesh.html",
-          "hash": "dD/ld4iN6vIll1k2Epxkfg=="
+          "hash": "G+xpFN8W9pq0HCjprebh/A=="
         }
       },
       "is_incremental": true,
@@ -2157,7 +2325,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.StructHelper.html",
-          "hash": "xv6UnzpbA5uWR6yrPpbjMw=="
+          "hash": "RDhQzOW2dKVVf2GxbIYnAg=="
         }
       },
       "is_incremental": true,
@@ -2169,7 +2337,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.UniformBufferObject.html",
-          "hash": "r8lv7k24shoiD57kYz/QvQ=="
+          "hash": "P/U5Jl86lHEcZvWU2nWMoQ=="
         }
       },
       "is_incremental": true,
@@ -2181,7 +2349,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexArrayObject.html",
-          "hash": "cLk1g0fodzPumuya/8d8JA=="
+          "hash": "bZJvj1hZcANyaR5hIGI0uA=="
         }
       },
       "is_incremental": true,
@@ -2193,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexBufferObject.html",
-          "hash": "4Eig/B5oDNgyW9vs7425dw=="
+          "hash": "xEZgi0HNrB1ttFd3WrX/qw=="
         }
       },
       "is_incremental": true,
@@ -2205,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBinded.html",
-          "hash": "HXjaFx/cOUe14OFEKCJyTA=="
+          "hash": "3OZxTsplWt0+uqu9TZFALg=="
         }
       },
       "is_incremental": true,
@@ -2217,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutBindedAttribute.html",
-          "hash": "3ASYCj2gP8cAZzLqZkyxlw=="
+          "hash": "nsbun870FteHHdfXsETCog=="
         }
       },
       "is_incremental": true,
@@ -2229,7 +2397,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinition.html",
-          "hash": "+Qi3A3o3hQCnb/M5+h/iQw=="
+          "hash": "0rFSDmuDeKiN0C/DsecyeA=="
         }
       },
       "is_incremental": true,
@@ -2241,7 +2409,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.VertexLayoutDefinitionAttribute.html",
-          "hash": "NmzoccabfzLSe0yzmt0HMQ=="
+          "hash": "TH7+AShrkLQCLrgKxsSyWA=="
         }
       },
       "is_incremental": true,
@@ -2253,7 +2421,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.OpenGL.html",
-          "hash": "SS4LOFloVn9adFi+dUakzA=="
+          "hash": "N58myB4CsAHLmbqD6EgFHA=="
         }
       },
       "is_incremental": true,
@@ -2265,7 +2433,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.DeferredPass.html",
-          "hash": "+LhRL20G5fBkLAxCjzsv4Q=="
+          "hash": "qtiNThKhj11YBkeeYUQBHQ=="
         }
       },
       "is_incremental": true,
@@ -2277,7 +2445,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.DeferredRenderPipeline.html",
-          "hash": "yyZkhk3f7vOSJC2mC2oPUw=="
+          "hash": "/sMMV/hqTcGGn8V1cFS5Jw=="
         }
       },
       "is_incremental": true,
@@ -2289,7 +2457,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.DirectionalShadowRenderPipeline.html",
-          "hash": "CoJKmIALWHXgECLfZZzkoQ=="
+          "hash": "gRO4f1qB8R8TqjPBYEtDmA=="
         }
       },
       "is_incremental": true,
@@ -2301,7 +2469,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.ForwardRenderPipeline.html",
-          "hash": "AOM5hmMKsas1bbH1rEbDXg=="
+          "hash": "gq0I+Qi4aJSWaVezWGymPA=="
         }
       },
       "is_incremental": true,
@@ -2313,7 +2481,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.IRenderPipeline.html",
-          "hash": "Jb/ymB38zO2LKzA6N6HRwg=="
+          "hash": "uhNCF81WIXWGYHS5zbcEPQ=="
         }
       },
       "is_incremental": true,
@@ -2325,7 +2493,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.PointShadowRenderPipeline.html",
-          "hash": "FhSrYNcyY2pQeSj5zlyt2g=="
+          "hash": "gVdDZbXsuNjkScB4YnoDOg=="
         }
       },
       "is_incremental": true,
@@ -2337,7 +2505,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.RenderPipeline.html",
-          "hash": "23ojLYDezi/aviOWeIkb1w=="
+          "hash": "0ZSMemx/sF6GoBy2XWjqSQ=="
         }
       },
       "is_incremental": true,
@@ -2349,7 +2517,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.ScreenPipeline.html",
-          "hash": "8d8TF2tKqkEFYeA9m5mbmg=="
+          "hash": "Th+Ne3TRLksvk2ZX90NwjQ=="
         }
       },
       "is_incremental": true,
@@ -2361,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Pipelines.html",
-          "hash": "0ElHXSuRt0BDYrtLQth1XQ=="
+          "hash": "fu/iopks+N9BYopkd/5CKA=="
         }
       },
       "is_incremental": true,
@@ -2373,7 +2541,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.PixelFormatExtensions.html",
-          "hash": "yzhkf1IkylnULs7ln8Q6vA=="
+          "hash": "yagcuvPkqToInW1pqC9RoA=="
         }
       },
       "is_incremental": true,
@@ -2385,7 +2553,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.PrimitiveObject.html",
-          "hash": "LlD7feiWdx7BavPC2kDnsg=="
+          "hash": "wHnSD3kCdRJZOEL9MobBJQ=="
         }
       },
       "is_incremental": true,
@@ -2397,7 +2565,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.RenderContext.html",
-          "hash": "m4RzVc6R27b2VDTGgjh0QQ=="
+          "hash": "egBnUVWAYXl1ngwq4vF1YQ=="
         }
       },
       "is_incremental": true,
@@ -2409,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.Renderer.html",
-          "hash": "rXDWJ+jU0D1Ec5eS7rMbJw=="
+          "hash": "642gDg9VwBiVVgxun2Qq6w=="
         }
       },
       "is_incremental": true,
@@ -2421,7 +2589,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.RendererMaterial.html",
-          "hash": "vqqn7WbWp7moqzk57s+uGg=="
+          "hash": "EDhhXm7dzXo8TT6d8PsfxA=="
         }
       },
       "is_incremental": true,
@@ -2433,7 +2601,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.ScreenTextureObject.html",
-          "hash": "rXbHLSyr9sv/8uoxUnHbMQ=="
+          "hash": "bTNBw0C3zGItH4dThQhPrQ=="
         }
       },
       "is_incremental": true,
@@ -2445,7 +2613,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.SlotAllocator-1.html",
-          "hash": "9yeu1V7QxOC/MbL6Ca9QFg=="
+          "hash": "K5weovmo9bVUgItbHwUxGA=="
         }
       },
       "is_incremental": true,
@@ -2457,7 +2625,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Render.html",
-          "hash": "tdyXBzgGl6iGBAcFTmJ3OA=="
+          "hash": "woWcdQAUfI4mzmKV/mqWGg=="
         }
       },
       "is_incremental": true,
@@ -2469,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.ScreenResizeEventArgs.html",
-          "hash": "MaqFXUuD559Aiay7QM9rmA=="
+          "hash": "7G+mQx1ib/0v2oYCHZcVYA=="
         }
       },
       "is_incremental": true,
@@ -2481,7 +2649,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.SharedLib.html",
-          "hash": "6coOW9nVRY6Q6bvz5IL7rg=="
+          "hash": "9yQ8R7xn211RCvXmgK1xmg=="
         }
       },
       "is_incremental": true,
@@ -2493,7 +2661,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.StreamExtensions.html",
-          "hash": "1ZlljSiTqrTn+yBVbFGfnQ=="
+          "hash": "LFM5oTGelHFyBZWKrpcoDw=="
         }
       },
       "is_incremental": true,
@@ -2505,7 +2673,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.StringExtensions.html",
-          "hash": "F1y3LpjLwzlrbJTSoHqaAA=="
+          "hash": "EcxKunhLvfzXFq17FVPt2Q=="
         }
       },
       "is_incremental": true,
@@ -2517,7 +2685,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Transform.html",
-          "hash": "LAFkUORFS17kEC+31agjvg=="
+          "hash": "v421N3QU9ukHfJFZGUSIeA=="
         }
       },
       "is_incremental": true,
@@ -2529,7 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.IcoSphereCreator.html",
-          "hash": "M7RAJklJRkf7ZZsewtIZ5A=="
+          "hash": "j58sTRz0DDljg4TxUQfzLw=="
         }
       },
       "is_incremental": true,
@@ -2541,7 +2709,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.IcoSphereMesh.html",
-          "hash": "WT4UxFKxHuln+K9Q/EF4tw=="
+          "hash": "fR4ipw0V7UMXwL9y43INlw=="
         }
       },
       "is_incremental": true,
@@ -2553,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.MeshGeometry3D.html",
-          "hash": "KNCGFig8TT+NshP2EkKsLA=="
+          "hash": "BqQzFLn6KMVeVoEb7mHJyg=="
         }
       },
       "is_incremental": true,
@@ -2565,7 +2733,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.TriangleIndices.html",
-          "hash": "KImyaI/lwm2OrBHxmWRwWQ=="
+          "hash": "/0XyTSXOtaHfA8i5L1ThKQ=="
         }
       },
       "is_incremental": true,
@@ -2577,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.VertexSoup-1.html",
-          "hash": "xZcnNRnxES5No6wUOtcCfw=="
+          "hash": "HVxLaN91Nbw+IYWW/lBwaA=="
         }
       },
       "is_incremental": true,
@@ -2589,7 +2757,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.Util.IcoSphere.html",
-          "hash": "mNV+ISzG2s1gOVzJ1VpeIQ=="
+          "hash": "Qn60c447rUB/IMcHbW789w=="
         }
       },
       "is_incremental": true,
@@ -2601,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VectorExtensions.html",
-          "hash": "Ql73JvGCb7+TsSNaU9zL8A=="
+          "hash": "ffhjfZ+/ZXq/Pz3z8Z1CSg=="
         }
       },
       "is_incremental": true,
@@ -2613,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VectorHelper.html",
-          "hash": "X3FsxpRXkl/fvP3vU60eGQ=="
+          "hash": "mCh5exuT+f/+lqKD5K5xdg=="
         }
       },
       "is_incremental": true,
@@ -2625,7 +2793,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.EngineExtensions.html",
-          "hash": "0YkNJvbnzQZy37RYnROYaQ=="
+          "hash": "Xco/BcmX+zcO+VudBzTfSA=="
         }
       },
       "is_incremental": true,
@@ -2637,7 +2805,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IPrimitive-1.html",
-          "hash": "lw456Y6RlQDXU2tgjM6OVQ=="
+          "hash": "3Y8Rm9HliU9uH3784l8Q4g=="
         }
       },
       "is_incremental": true,
@@ -2649,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IPrimitive.html",
-          "hash": "aLpnujB2GUFAheLQmdkltA=="
+          "hash": "97Q+cT0+AmQiRNEK8ZrALA=="
         }
       },
       "is_incremental": true,
@@ -2661,7 +2829,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertex.html",
-          "hash": "pVC90+P2SD46/CaNBKSbBw=="
+          "hash": "gz1gHCCiLTFl6jeaNLvKCg=="
         }
       },
       "is_incremental": true,
@@ -2673,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexColor.html",
-          "hash": "xc2s2fA6tEl9aL5vIV801A=="
+          "hash": "aVEHj7xuKID8z69ArIXtEg=="
         }
       },
       "is_incremental": true,
@@ -2685,7 +2853,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexNormal.html",
-          "hash": "dnuQnoCvgB3ofHfCWTcYdg=="
+          "hash": "D2OS2achsOM1D5fHmYnDGg=="
         }
       },
       "is_incremental": true,
@@ -2697,7 +2865,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPos2UV.html",
-          "hash": "xzBoMqYLkhxBibA+CyjZrw=="
+          "hash": "wLtTKqae/J1mQMI1gbrZxA=="
         }
       },
       "is_incremental": true,
@@ -2709,7 +2877,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosColor.html",
-          "hash": "lHqbUlRGd4zXIJR2lp6tOA=="
+          "hash": "Pyr2KbRq1NfwLHWevv0enA=="
         }
       },
       "is_incremental": true,
@@ -2721,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosNormalColor.html",
-          "hash": "MzZL50pvp2tBlIwlxNeWdw=="
+          "hash": "wcmj1SOOJqD/aHQcXuUsBA=="
         }
       },
       "is_incremental": true,
@@ -2733,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosNormalUV.html",
-          "hash": "k3dWhrdLjwlrs4l5OWpLBg=="
+          "hash": "YgfYG36L7FP4wDkFhX9NoQ=="
         }
       },
       "is_incremental": true,
@@ -2745,7 +2913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosUV.html",
-          "hash": "JRoboQW1gDqVl1XXOzFT8Q=="
+          "hash": "nBEMx7CQbQ5E83sdT3BJ2A=="
         }
       },
       "is_incremental": true,
@@ -2757,7 +2925,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosition-1.html",
-          "hash": "qHFMoULHhqBaxUE5/Jbyyw=="
+          "hash": "yP+3QnMnSPWrEWPT6WE3Pw=="
         }
       },
       "is_incremental": true,
@@ -2769,7 +2937,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosition2.html",
-          "hash": "/j5ldMprNxzSfqwy0+i6fQ=="
+          "hash": "2TO6P0PaDFLXKMb8dQioSw=="
         }
       },
       "is_incremental": true,
@@ -2781,7 +2949,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexPosition3.html",
-          "hash": "NCmN/8lDD1AVbveo5mPTAA=="
+          "hash": "YPPgZkcmigdxISWstpb6GA=="
         }
       },
       "is_incremental": true,
@@ -2793,7 +2961,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.IVertexUV.html",
-          "hash": "pR9dH1R9/sD8pnaK8Mb6ng=="
+          "hash": "h8KNI7cy1ACvAfdsjN1XNA=="
         }
       },
       "is_incremental": true,
@@ -2805,7 +2973,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.Line-1.html",
-          "hash": "DkJ7A6Y7GtFaBWNX/k4gyA=="
+          "hash": "v5X+tejkbK3y86XUZvaKrQ=="
         }
       },
       "is_incremental": true,
@@ -2817,7 +2985,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.Polygon-1.html",
-          "hash": "YxWbNo6AoPo2Pvils1XVmQ=="
+          "hash": "6UwSl5od5/n19lW4CCznmg=="
         }
       },
       "is_incremental": true,
@@ -2829,7 +2997,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.Quad-1.html",
-          "hash": "cE5JJxjIbDyXunqG6d4ynw=="
+          "hash": "E8Skxv7ZbQJgndVYhvVIXA=="
         }
       },
       "is_incremental": true,
@@ -2841,7 +3009,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPos.html",
-          "hash": "DzE07aor3+KzvmUY0ov7tw=="
+          "hash": "FKTHRSfQ0YJrk1osHtmUbA=="
         }
       },
       "is_incremental": true,
@@ -2853,7 +3021,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPos2.html",
-          "hash": "odQCiuYuJiKYs180WSie8A=="
+          "hash": "GEeVQ+fDpHDfsEKcc7cE9A=="
         }
       },
       "is_incremental": true,
@@ -2865,7 +3033,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPos2UV.html",
-          "hash": "Po9pia5NhnSAk3qwm9NVVg=="
+          "hash": "xix1ibnpuZz7gILP8Um9AQ=="
         }
       },
       "is_incremental": true,
@@ -2877,7 +3045,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPosColor.html",
-          "hash": "m1XYtqy7Fx4M8RzrLuehaw=="
+          "hash": "CmvTfpjZ4rm6B/3hHi5NjQ=="
         }
       },
       "is_incremental": true,
@@ -2889,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPosNormalColor.html",
-          "hash": "4rq0ebJCIwcoCW0aSrUQQw=="
+          "hash": "d2iR+niJNcgj4taCrxrBNg=="
         }
       },
       "is_incremental": true,
@@ -2901,7 +3069,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPosNormalUV.html",
-          "hash": "z2TA4wERZXTFuenyjn/6AQ=="
+          "hash": "n93G9uXPdCzD2IrtRklV/g=="
         }
       },
       "is_incremental": true,
@@ -2913,7 +3081,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.VertexDataPosUV.html",
-          "hash": "ZGDZ9n2dbMdbOskr0f/kog=="
+          "hash": "aZq2hmPUcb1QcpLuJ4BtpA=="
         }
       },
       "is_incremental": true,
@@ -2925,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.VertexData.html",
-          "hash": "Ioq2DvVfTMlD+LoWe/AYIg=="
+          "hash": "obkcDPLox+qcqZOM/F6Scw=="
         }
       },
       "is_incremental": true,
@@ -2937,7 +3105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Aximo.html",
-          "hash": "4AlIlEYoTVZydPIPvsOoGw=="
+          "hash": "zFH6gsInQqBRs3XzOEaA4Q=="
         }
       },
       "is_incremental": true,
@@ -2949,7 +3117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenToolkit.Mathematics.AntiVector4d.html",
-          "hash": "6Y/CwdG7d07jsbU8kHteUA=="
+          "hash": "nkrKj6OJX4Y2jGZ9XzscHA=="
         }
       },
       "is_incremental": true,
@@ -2961,7 +3129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenToolkit.Mathematics.BiVector3d.html",
-          "hash": "ZezZBbsdZBdbNxK7SqjgWQ=="
+          "hash": "Sq5Dpk7DVlOjrspRsx+iAg=="
         }
       },
       "is_incremental": true,
@@ -2973,7 +3141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenToolkit.Mathematics.BiVector4d.html",
-          "hash": "8cAir25spPZR6jwPexdjKg=="
+          "hash": "mbXW7dq8w16XUqFeS8PznA=="
         }
       },
       "is_incremental": true,
@@ -2985,7 +3153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenToolkit.Mathematics.Rotor3.html",
-          "hash": "/bngxtJ6HGAUFK4pCZOUlg=="
+          "hash": "wlFtrUkAkx1rrWQLhmgcCQ=="
         }
       },
       "is_incremental": true,
@@ -2997,7 +3165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenToolkit.Mathematics.html",
-          "hash": "tPIHRx1LgXcC6R7fDNz1fg=="
+          "hash": "4ZRFhVN+YFYvZkg6lyrbmw=="
         }
       },
       "is_incremental": true,
@@ -3009,7 +3177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "zjWc1WLldMjaLx3CH20NLg=="
+          "hash": "Si/XM5s7F/yfFGTrtZyXOQ=="
         }
       },
       "is_incremental": true,
@@ -3048,7 +3216,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/color-cube/index.html",
-          "hash": "1/jWpauU80KBftDWnwIrFg=="
+          "hash": "ajHoQAr9G0RycEgSuxJanQ=="
         }
       },
       "is_incremental": true,
@@ -3071,7 +3239,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/combine-mesh/index.html",
-          "hash": "9MrwK0gd2BgCykqNcP+enQ=="
+          "hash": "2ucNvdBHa7MqwbzmHPDAjw=="
         }
       },
       "is_incremental": true,
@@ -3094,7 +3262,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/hello-cube/index.html",
-          "hash": "tm7ZWbtj3XiVLov3NrdSdw=="
+          "hash": "X/2+JrFxQO9ZVUdx+RJOpg=="
         }
       },
       "is_incremental": true,
@@ -3117,7 +3285,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/intro.html",
-          "hash": "JKXhff0sETbd35sL3rYFPQ=="
+          "hash": "jOA4xBbu7CnUYR6RpiJ7FA=="
         }
       },
       "is_incremental": true,
@@ -3129,10 +3297,10 @@
       "output": {
         ".html": {
           "relative_path": "samples/shadows/index.html",
-          "hash": "fi4JGyWjoVgo0lvDG5DPaA=="
+          "hash": "GpqDNUJziBYJLGsrVw2qxw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3152,7 +3320,7 @@
       "output": {
         ".html": {
           "relative_path": "samples/texture-cube/index.html",
-          "hash": "/8X/opyIbREcAQh92LqbJA=="
+          "hash": "9WhQN3wge+s1EOFN8yu9hg=="
         }
       },
       "is_incremental": true,
@@ -3164,6 +3332,40 @@
       "output": {
         "resource": {
           "relative_path": "samples/texture-cube/screenshot.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "samples/tweening/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "samples/tweening/index.html",
+          "hash": "S6irCGHrlH9WnvR9Sfi7rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "samples/tweening/screenshot.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "samples/tweening/screenshot.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "samples/tweening/video.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "samples/tweening/video.mp4"
         }
       },
       "is_incremental": false,
@@ -3182,14 +3384,14 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 9,
-          "skipped_file_count": 8
+          "total_file_count": 10,
+          "skipped_file_count": 9
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 250,
-          "skipped_file_count": 250
+          "total_file_count": 264,
+          "skipped_file_count": 264
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
